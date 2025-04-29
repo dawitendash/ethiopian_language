@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Greetings",
+    "description": "Learn basic greetings and introductions",
+    "category": "Basics",
+    "level": "Beginner",
+    "image": "assets/images/greetings.png",
+    "icon": "Icons.menu_book_outlined"
+  },
+  {
+    "title": "Conversation",
+    "description": "Practice conversational phrases and dialogues",
+    "category": "Communication",
+    "level": "Intermediate",
+    "image": "assets/images/conversation.png",
+    "icon": "Icons.headset_mic_outlined"
+  },
+  {
+    "title": "Days of the Week",
+    "description": "Master the days of the week and related grammar",
+    "category": "Basics",
+    "level": "Beginner",
+    "image": "assets/images/days_of_week.png",
+    "icon": "Icons.edit_outlined"
+  },
+  {
+    "title": "Directions",
+    "description": "Learn how to ask for and give directions",
+    "category": "Travel",
+    "level": "Intermediate",
+    "image": "assets/images/directions.png",
+    "icon": "Icons.record_voice_over_outlined"
+  },
+  {
+    "title": "Transportation",
+    "description": "Explore vocabulary related to transportation",
+    "category": "Travel",
+    "level": "Beginner",
+    "image": "assets/images/transportation.png",
+    "icon": "Icons.train_outlined"
+  },
+  {
+    "title": "Locations",
+    "description": "Learn about places and locations",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "image": "assets/images/locations.png",
+    "icon": "Icons.location_on_outlined"
+  },
+  {
+    "title": "Eating",
+    "description": "Master food and dining vocabulary",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "image": "assets/images/eating.png",
+    "icon": "Icons.restaurant_outlined"
+  },
+  {
+    "title": "Numbers",
+    "description": "Learn to count and use numbers",
+    "category": "Basics",
+    "level": "Beginner",
+    "image": "assets/images/numbers.png",
+    "icon": "Icons.numbers"
+  },
+  {
+    "title": "Adjectives",
+    "description": "Expand your vocabulary with adjectives",
+    "category": "Grammar",
+    "level": "Intermediate",
+    "image": "assets/images/adjectives.png",
+    "icon": "Icons.edit_outlined"
+  },
+  {
+    "title": "Food",
+    "description": "Learn vocabulary for foods and ingredients",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "image": "assets/images/food.png",
+    "icon": "Icons.restaurant_outlined"
+  },
+  {
+    "title": "Emergency",
+    "description": "Master phrases for emergency situations",
+    "category": "Safety",
+    "level": "Advanced",
+    "image": "assets/images/Emergency.png",
+    "icon": "Icons.warning_outlined"
+  },
+  {
+    "title": "Medical",
+    "description": "Learn medical terms and phrases",
+    "category": "Health",
+    "level": "Advanced",
+    "image": "assets/images/medical.png",
+    "icon": "Icons.medical_services_outlined"
+  },
+  {
+    "title": "Sport",
+    "description": "Explore sports-related vocabulary",
+    "category": "Leisure",
+    "level": "Intermediate",
+    "image": "assets/images/Sport.png",
+    "icon": "Icons.sports_outlined"
+  },
+  {
+    "title": "Fuel",
+    "description": "Learn terms related to fuel and energy",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "image": "assets/images/fuel.png",
+    "icon": "Icons.local_gas_station_outlined"
+  },
+  {
+    "title": "Occupations",
+    "description": "Master vocabulary for jobs and professions",
+    "category": "Work",
+    "level": "Intermediate",
+    "image": "assets/images/occupations.png",
+    "icon": "Icons.work_outlined"
+  },
+  {
+    "title": "Relatives",
+    "description": "Learn terms for family and relatives",
+    "category": "Family",
+    "level": "Beginner",
+    "image": "assets/images/Relatives.png",
+    "icon": "Icons.group_outlined"
+  },
+  {
+    "title": "Body",
+    "description": "Explore vocabulary for body parts",
+    "category": "Health",
+    "level": "Beginner",
+    "image": "assets/images/Body.png",
+    "icon": "Icons.accessibility_outlined"
+  },
+  {
+    "title": "Weather",
+    "description": "Learn weather-related terms and phrases",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "image": "assets/images/Weather.png",
+    "icon": "Icons.wb_sunny_outlined"
+  }
+]

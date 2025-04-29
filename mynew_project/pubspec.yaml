@@ -1,0 +1,43 @@
+name: mynew_project
+description: "A new Flutter project."
+publish_to: 'none' # Optional for private packages
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+  
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.4.5
+  shared_preferences: ^2.2.2
+  timeago: ^3.6.1
+  provider: ^6.1.2
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+  firebase_core: ^3.0.0
+  flutter_native_splash: ^2.3.0  # Make sure it's in dependencies section
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/videos/
+    - assets/flags/
+    - assets/sounds/
+    - assets/ethiopian_dictionary.json
+    - assets/lessons.json
+
+# Correctly placing flutter_native_splash configuration outside of flutter:
+flutter_native_splash:
+  image: assets/images/logo.png
+  background_color: "#ffffff"

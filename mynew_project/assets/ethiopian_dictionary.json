@@ -1,0 +1,6593 @@
+[
+  {
+    "word": "One",
+    "english": "One",
+    "amharic": "አንድ",
+    "oromifa": "Tokko",
+    "tigrinya": "ሓደ",
+    "pronunciation": "and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Two",
+    "english": "Two",
+    "amharic": "ሁለት",
+    "oromifa": "Lama",
+    "tigrinya": "ክልተ",
+    "pronunciation": "hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Three",
+    "english": "Three",
+    "amharic": "ሶስት",
+    "oromifa": "Sadi",
+    "tigrinya": "ሰለስተ",
+    "pronunciation": "sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Four",
+    "english": "Four",
+    "amharic": "አራት",
+    "oromifa": "Afur",
+    "tigrinya": "ኣርባዕተ",
+    "pronunciation": "arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Five",
+    "english": "Five",
+    "amharic": "አምስት",
+    "oromifa": "Shan",
+    "tigrinya": "ሓሙሽተ",
+    "pronunciation": "amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Six",
+    "english": "Six",
+    "amharic": "ስድስት",
+    "oromifa": "Ja'a",
+    "tigrinya": "ሽድሽተ",
+    "pronunciation": "sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seven",
+    "english": "Seven",
+    "amharic": "ሰባት",
+    "oromifa": "Torba",
+    "tigrinya": "ሸውዓተ",
+    "pronunciation": "sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eight",
+    "english": "Eight",
+    "amharic": "ስምንት",
+    "oromifa": "Saddeet",
+    "tigrinya": "ሸሞንተ",
+    "pronunciation": "simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Nine",
+    "english": "Nine",
+    "amharic": "ዘጠኝ",
+    "oromifa": "Sagal",
+    "tigrinya": "ትሽዓተ",
+    "pronunciation": "zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ten",
+    "english": "Ten",
+    "amharic": "አስር",
+    "oromifa": "Kudhan",
+    "tigrinya": "ዓሰርተ",
+    "pronunciation": "asir",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eleven",
+    "english": "Eleven",
+    "amharic": "አስራ አንድ",
+    "oromifa": "Kudha tokko",
+    "tigrinya": "ዓሰርተ ሓደ",
+    "pronunciation": "asra-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twelve",
+    "english": "Twelve",
+    "amharic": "አስራ ሁለት",
+    "oromifa": "Kudha lama",
+    "tigrinya": "ዓሰርተ ክልተ",
+    "pronunciation": "asra-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirteen",
+    "english": "Thirteen",
+    "amharic": "አስራ ሶስት",
+    "oromifa": "Kudha sadi",
+    "tigrinya": "ዓሰርተ ሰለስተ",
+    "pronunciation": "asra-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fourteen",
+    "english": "Fourteen",
+    "amharic": "አስራ አራት",
+    "oromifa": "Kudha afur",
+    "tigrinya": "ዓሰርተ ኣርባዕተ",
+    "pronunciation": "asra-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifteen",
+    "english": "Fifteen",
+    "amharic": "አስራ አምስት",
+    "oromifa": "Kudha shan",
+    "tigrinya": "ዓሰርተ ሓሙሽተ",
+    "pronunciation": "asra-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixteen",
+    "english": "Sixteen",
+    "amharic": "አስራ ስድስት",
+    "oromifa": "Kudha ja'a",
+    "tigrinya": "ዓሰርተ ሽድሽተ",
+    "pronunciation": "asra-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventeen",
+    "english": "Seventeen",
+    "amharic": "አስራ ሰባት",
+    "oromifa": "Kudha torba",
+    "tigrinya": "ዓሰርተ ሸውዓተ",
+    "pronunciation": "asra-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighteen",
+    "english": "Eighteen",
+    "amharic": "አስራ ስምንት",
+    "oromifa": "Kudha saddeet",
+    "tigrinya": "ዓሰርተ �ሸሞንተ",
+    "pronunciation": "asra-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Nineteen",
+    "english": "Nineteen",
+    "amharic": "አስራ ዘጠኝ",
+    "oromifa": "Kudha sagal",
+    "tigrinya": "ዓሰርተ ትሽዓተ",
+    "pronunciation": "asra-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty",
+    "english": "Twenty",
+    "amharic": "ሃያ",
+    "oromifa": "Digdama",
+    "tigrinya": "ዕስራ",
+    "pronunciation": "haya",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-One",
+    "english": "Twenty-One",
+    "amharic": "ሃያ አንድ",
+    "oromifa": "Digdama tokko",
+    "tigrinya": "ዕስራ ሓደ",
+    "pronunciation": "haya-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Two",
+    "english": "Twenty-Two",
+    "amharic": "ሃያ ሁለት",
+    "oromifa": "Digdama lama",
+    "tigrinya": "ዕስራ ክልተ",
+    "pronunciation": "haya-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Three",
+    "english": "Twenty-Three",
+    "amharic": "ሃያ ሶስት",
+    "oromifa": "Digdama sadi",
+    "tigrinya": "ዕስራ ሰለስተ",
+    "pronunciation": "haya-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Four",
+    "english": "Twenty-Four",
+    "amharic": "ሃያ አራት",
+    "oromifa": "Digdama afur",
+    "tigrinya": "ዕስራ ኣርባዕተ",
+    "pronunciation": "haya-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Five",
+    "english": "Twenty-Five",
+    "amharic": "ሃያ አምስት",
+    "oromifa": "Digdama shan",
+    "tigrinya": "ዕስራ ሓሙሽተ",
+    "pronunciation": "haya-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Six",
+    "english": "Twenty-Six",
+    "amharic": "ሃያ ስድስት",
+    "oromifa": "Digdama ja'a",
+    "tigrinya": "ዕስራ ሽድሽተ",
+    "pronunciation": "haya-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Seven",
+    "english": "Twenty-Seven",
+    "amharic": "ሃያ ሰባት",
+    "oromifa": "Digdama torba",
+    "tigrinya": "ዕስራ ሸውዓተ",
+    "pronunciation": "haya-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Eight",
+    "english": "Twenty-Eight",
+    "amharic": "ሃያ ስምንት",
+    "oromifa": "Digdama saddeet",
+    "tigrinya": "ዕስራ ሸሞንተ",
+    "pronunciation": "haya-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Twenty-Nine",
+    "english": "Twenty-Nine",
+    "amharic": "ሃያ ዘጠኝ",
+    "oromifa": "Digdama sagal",
+    "tigrinya": "ዕስራ ትሽዓተ",
+    "pronunciation": "haya-zeten",
+    "category": "Numbers"
+  }, 
+  {
+    "word": "Thirty",
+    "english": "Thirty",
+    "amharic": "ሰላሳ",
+    "oromifa": "Sodoma",
+    "tigrinya": "ሰላሳ",
+    "pronunciation": "selasa",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-One",
+    "english": "Thirty-One",
+    "amharic": "ሰላሳ አንድ",
+    "oromifa": "Sodoma tokko",
+    "tigrinya": "ሰላሳ ሓደ",
+    "pronunciation": "selasa-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Two",
+    "english": "Thirty-Two",
+    "amharic": "ሰላሳ ሁለት",
+    "oromifa": "Sodoma lama",
+    "tigrinya": "ሰላሳ ክልተ",
+    "pronunciation": "selasa-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Three",
+    "english": "Thirty-Three",
+    "amharic": "ሰላሳ ሶስት",
+    "oromifa": "Sodoma sadi",
+    "tigrinya": "ሰላሳ ሰለስተ",
+    "pronunciation": "selasa-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Four",
+    "english": "Thirty-Four",
+    "amharic": "ሰላሳ አራት",
+    "oromifa": "Sodoma afur",
+    "tigrinya": "ሰላሳ ኣርባዕተ",
+    "pronunciation": "selasa-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Five",
+    "english": "Thirty-Five",
+    "amharic": "ሰላሳ አምስት",
+    "oromifa": "Sodoma shan",
+    "tigrinya": "ሰላሳ ሓሙሽተ",
+    "pronunciation": "selasa-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Six",
+    "english": "Thirty-Six",
+    "amharic": "ሰላሳ ስድስት",
+    "oromifa": "Sodoma ja'a",
+    "tigrinya": "ሰላሳ ሽድሽተ",
+    "pronunciation": "selasa-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Seven",
+    "english": "Thirty-Seven",
+    "amharic": "ሰላሳ ሰባት",
+    "oromifa": "Sodoma torba",
+    "tigrinya": "ሰላሳ ሸውዓተ",
+    "pronunciation": "selasa-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Eight",
+    "english": "Thirty-Eight",
+    "amharic": "ሰላሳ ስምንት",
+    "oromifa": "Sodoma saddeet",
+    "tigrinya": "ሰላሳ ሸሞንተ",
+    "pronunciation": "selasa-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Thirty-Nine",
+    "english": "Thirty-Nine",
+    "amharic": "ሰላሳ ዘጠኝ",
+    "oromifa": "Sodoma sagal",
+    "tigrinya": "ሰላሳ ትሽዓተ",
+    "pronunciation": "selasa-zeten",
+    "category": "Numbers"
+  }, 
+  {
+    "word": "Forty",
+    "english": "Forty",
+    "amharic": "አርባ",
+    "oromifa": "Afurtama",
+    "tigrinya": "ኣርብዓ",
+    "pronunciation": "arba",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-One",
+    "english": "Forty-One",
+    "amharic": "አርባ አንድ",
+    "oromifa": "Afurtama tokko",
+    "tigrinya": "ኣርብዓ ሓደ",
+    "pronunciation": "arba-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Two",
+    "english": "Forty-Two",
+    "amharic": "አርባ ሁለት",
+    "oromifa": "Afurtama lama",
+    "tigrinya": "ኣርብዓ ክልተ",
+    "pronunciation": "arba-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Three",
+    "english": "Forty-Three",
+    "amharic": "አርባ ሶስት",
+    "oromifa": "Afurtama sadi",
+    "tigrinya": "ኣርብዓ ሰለስተ",
+    "pronunciation": "arba-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Four",
+    "english": "Forty-Four",
+    "amharic": "አርባ አራት",
+    "oromifa": "Afurtama afur",
+    "tigrinya": "ኣርብዓ ኣርባዕተ",
+    "pronunciation": "arba-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Five",
+    "english": "Forty-Five",
+    "amharic": "አርባ አምስት",
+    "oromifa": "Afurtama shan",
+    "tigrinya": "ኣርብዓ ሓሙሽተ",
+    "pronunciation": "arba-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Six",
+    "english": "Forty-Six",
+    "amharic": "አርባ ስድስት",
+    "oromifa": "Afurtama ja'a",
+    "tigrinya": "ኣርብዓ ሽድሽተ",
+    "pronunciation": "arba-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Seven",
+    "english": "Forty-Seven",
+    "amharic": "አርባ ሰባት",
+    "oromifa": "Afurtama torba",
+    "tigrinya": "ኣርብዓ ሸውዓተ",
+    "pronunciation": "arba-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Eight",
+    "english": "Forty-Eight",
+    "amharic": "አርባ ስምንት",
+    "oromifa": "Afurtama saddeet",
+    "tigrinya": "ኣርብዓ ሸሞንተ",
+    "pronunciation": "arba-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Forty-Nine",
+    "english": "Forty-Nine",
+    "amharic": "አርባ ዘጠኝ",
+    "oromifa": "Afurtama sagal",
+    "tigrinya": "ኣርብዓ ትሽዓተ",
+    "pronunciation": "arba-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty",
+    "english": "Fifty",
+    "amharic": "ሃምሳ",
+    "oromifa": "Shantama",
+    "tigrinya": "ሓምሳ",
+    "pronunciation": "hamsa",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-One",
+    "english": "Fifty-One",
+    "amharic": "ሃምሳ አንድ",
+    "oromifa": "Shantama tokko",
+    "tigrinya": "ሓምሳ ሓደ",
+    "pronunciation": "hamsa-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Two",
+    "english": "Fifty-Two",
+    "amharic": "ሃምሳ ሁለት",
+    "oromifa": "Shantama lama",
+    "tigrinya": "ሓምሳ ክልተ",
+    "pronunciation": "hamsa-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Three",
+    "english": "Fifty-Three",
+    "amharic": "ሃምሳ ሶስት",
+    "oromifa": "Shantama sadi",
+    "tigrinya": "ሓምሳ ሰለስተ",
+    "pronunciation": "hamsa-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Four",
+    "english": "Fifty-Four",
+    "amharic": "ሃምሳ አራት",
+    "oromifa": "Shantama afur",
+    "tigrinya": "ሓምሳ ኣርባዕተ",
+    "pronunciation": "hamsa-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Five",
+    "english": "Fifty-Five",
+    "amharic": "ሃምሳ አምስት",
+    "oromifa": "Shantama shan",
+    "tigrinya": "ሓምሳ ሓሙሽተ",
+    "pronunciation": "hamsa-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Six",
+    "english": "Fifty-Six",
+    "amharic": "ሃምሳ ስድስት",
+    "oromifa": "Shantama ja'a",
+    "tigrinya": "ሓምሳ ሽድሽተ",
+    "pronunciation": "hamsa-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Seven",
+    "english": "Fifty-Seven",
+    "amharic": "ሃምሳ ሰባት",
+    "oromifa": "Shantama torba",
+    "tigrinya": "ሓምሳ ሸውዓተ",
+    "pronunciation": "hamsa-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Eight",
+    "english": "Fifty-Eight",
+    "amharic": "ሃምሳ ስምንት",
+    "oromifa": "Shantama saddeet",
+    "tigrinya": "ሓምሳ ሸሞንተ",
+    "pronunciation": "hamsa-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Fifty-Nine",
+    "english": "Fifty-Nine",
+    "amharic": "ሃምሳ ዘጠኝ",
+    "oromifa": "Shantama sagal",
+    "tigrinya": "ሓምሳ ትሽዓተ",
+    "pronunciation": "hamsa-zeten",
+    "category": "Numbers"
+  }, 
+  {
+    "word": "Sixty",
+    "english": "Sixty",
+    "amharic": "ስልሳ",
+    "oromifa": "Ja'atama",
+    "tigrinya": "ስላሳ",
+    "pronunciation": "silsa",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-One",
+    "english": "Sixty-One",
+    "amharic": "ስልሳ አንድ",
+    "oromifa": "Ja'atama tokko",
+    "tigrinya": "ስላሳ ሓደ",
+    "pronunciation": "silsa-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Two",
+    "english": "Sixty-Two",
+    "amharic": "ስልሳ ሁለት",
+    "oromifa": "Ja'atama lama",
+    "tigrinya": "ስላሳ ክልተ",
+    "pronunciation": "silsa-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Three",
+    "english": "Sixty-Three",
+    "amharic": "ስልሳ ሶስት",
+    "oromifa": "Ja'atama sadi",
+    "tigrinya": "ስላሳ ሰለስተ",
+    "pronunciation": "silsa-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Four",
+    "english": "Sixty-Four",
+    "amharic": "ስልሳ አራት",
+    "oromifa": "Ja'atama afur",
+    "tigrinya": "ስላሳ ኣርባዕተ",
+    "pronunciation": "silsa-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Five",
+    "english": "Sixty-Five",
+    "amharic": "ስልሳ አምስት",
+    "oromifa": "Ja'atama shan",
+    "tigrinya": "ስላሳ ሓሙሽተ",
+    "pronunciation": "silsa-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Six",
+    "english": "Sixty-Six",
+    "amharic": "ስልሳ ስድስት",
+    "oromifa": "Ja'atama ja'a",
+    "tigrinya": "ስላሳ ሽድሽተ",
+    "pronunciation": "silsa-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Seven",
+    "english": "Sixty-Seven",
+    "amharic": "ስልሳ ሰባት",
+    "oromifa": "Ja'atama torba",
+    "tigrinya": "ስላሳ ሸውዓተ",
+    "pronunciation": "silsa-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Eight",
+    "english": "Sixty-Eight",
+    "amharic": "ስልሳ ስምንት",
+    "oromifa": "Ja'atama saddeet",
+    "tigrinya": "ስላሳ ሸሞንተ",
+    "pronunciation": "silsa-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Sixty-Nine",
+    "english": "Sixty-Nine",
+    "amharic": "ስልሳ ዘጠኝ",
+    "oromifa": "Ja'atama sagal",
+    "tigrinya": "ስላሳ ትሽዓተ",
+    "pronunciation": "silsa-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy",
+    "english": "Seventy",
+    "amharic": "ሰባ",
+    "oromifa": "Torbatama",
+    "tigrinya": "ሰብዓ",
+    "pronunciation": "seba",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-One",
+    "english": "Seventy-One",
+    "amharic": "ሰባ አንድ",
+    "oromifa": "Torbatama tokko",
+    "tigrinya": "ሰብዓ ሓደ",
+    "pronunciation": "seba-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Two",
+    "english": "Seventy-Two",
+    "amharic": "ሰባ ሁለት",
+    "oromifa": "Torbatama lama",
+    "tigrinya": "ሰብዓ ክልተ",
+    "pronunciation": "seba-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Three",
+    "english": "Seventy-Three",
+    "amharic": "ሰባ ሶስት",
+    "oromifa": "Torbatama sadi",
+    "tigrinya": "ሰብዓ ሰለስተ",
+    "pronunciation": "seba-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Four",
+    "english": "Seventy-Four",
+    "amharic": "ሰባ አራት",
+    "oromifa": "Torbatama afur",
+    "tigrinya": "ሰብዓ ኣርባዕተ",
+    "pronunciation": "seba-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Five",
+    "english": "Seventy-Five",
+    "amharic": "ሰባ አምስት",
+    "oromifa": "Torbatama shan",
+    "tigrinya": "ሰብዓ ሓሙሽተ",
+    "pronunciation": "seba-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Six",
+    "english": "Seventy-Six",
+    "amharic": "ሰባ ስድስት",
+    "oromifa": "Torbatama ja'a",
+    "tigrinya": "ሰብዓ ሽድሽተ",
+    "pronunciation": "seba-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Seven",
+    "english": "Seventy-Seven",
+    "amharic": "ሰባ ሰባት",
+    "oromifa": "Torbatama torba",
+    "tigrinya": "ሰብዓ ሸውዓተ",
+    "pronunciation": "seba-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Eight",
+    "english": "Seventy-Eight",
+    "amharic": "ሰባ ስምንት",
+    "oromifa": "Torbatama saddeet",
+    "tigrinya": "ሰብዓ ሸሞንተ",
+    "pronunciation": "seba-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Seventy-Nine",
+    "english": "Seventy-Nine",
+    "amharic": "ሰባ ዘጠኝ",
+    "oromifa": "Torbatama sagal",
+    "tigrinya": "ሰብዓ ትሽዓተ",
+    "pronunciation": "seba-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty",
+    "english": "Eighty",
+    "amharic": "ሰማንያ",
+    "oromifa": "Saddeetama",
+    "tigrinya": "ሰማንያ",
+    "pronunciation": "semanya",
+    "category": "Numbers"
+  }, 
+  {
+    "word": "Eighty",
+    "english": "Eighty",
+    "amharic": "ሰማንያ",
+    "oromifa": "Saddeetama",
+    "tigrinya": "ሰማንያ",
+    "pronunciation": "semanya",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-One",
+    "english": "Eighty-One",
+    "amharic": "ሰማንያ አንድ",
+    "oromifa": "Saddeetama tokko",
+    "tigrinya": "ሰማንያ ሓደ",
+    "pronunciation": "semanya-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Two",
+    "english": "Eighty-Two",
+    "amharic": "ሰማንያ ሁለት",
+    "oromifa": "Saddeetama lama",
+    "tigrinya": "ሰማንያ ክልተ",
+    "pronunciation": "semanya-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Three",
+    "english": "Eighty-Three",
+    "amharic": "ሰማንያ ሶስት",
+    "oromifa": "Saddeetama sadi",
+    "tigrinya": "ሰማንያ ሰለስተ",
+    "pronunciation": "semanya-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Four",
+    "english": "Eighty-Four",
+    "amharic": "ሰማንያ አራት",
+    "oromifa": "Saddeetama afur",
+    "tigrinya": "ሰማንያ ኣርባዕተ",
+    "pronunciation": "semanya-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Five",
+    "english": "Eighty-Five",
+    "amharic": "ሰማንያ አምስት",
+    "oromifa": "Saddeetama shan",
+    "tigrinya": "ሰማንያ ሓሙሽተ",
+    "pronunciation": "semanya-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Six",
+    "english": "Eighty-Six",
+    "amharic": "ሰማንያ ስድስት",
+    "oromifa": "Saddeetama ja'a",
+    "tigrinya": "ሰማንያ �ሽድሽተ",
+    "pronunciation": "semanya-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Seven",
+    "english": "Eighty-Seven",
+    "amharic": "ሰማንያ ሰባት",
+    "oromifa": "Saddeetama torba",
+    "tigrinya": "ሰማንያ ሸውዓተ",
+    "pronunciation": "semanya-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Eight",
+    "english": "Eighty-Eight",
+    "amharic": "ሰማንያ ስምንት",
+    "oromifa": "Saddeetama saddeet",
+    "tigrinya": "ሰማንያ ሸሞንተ",
+    "pronunciation": "semanya-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Eighty-Nine",
+    "english": "Eighty-Nine",
+    "amharic": "ሰማንያ ዘጠኝ",
+    "oromifa": "Saddeetama sagal",
+    "tigrinya": "ሰማንያ ትሽዓተ",
+    "pronunciation": "semanya-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety",
+    "english": "Ninety",
+    "amharic": "ዘጠና",
+    "oromifa": "Sagaltama",
+    "tigrinya": "ተስዓ",
+    "pronunciation": "zetena",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-One",
+    "english": "Ninety-One",
+    "amharic": "ዘጠና አንድ",
+    "oromifa": "Sagaltama tokko",
+    "tigrinya": "ተስዓ ሓደ",
+    "pronunciation": "zetena-and",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Two",
+    "english": "Ninety-Two",
+    "amharic": "ዘጠና ሁለት",
+    "oromifa": "Sagaltama lama",
+    "tigrinya": "ተስዓ ክልተ",
+    "pronunciation": "zetena-hulet",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Three",
+    "english": "Ninety-Three",
+    "amharic": "ዘጠና ሶስት",
+    "oromifa": "Sagaltama sadi",
+    "tigrinya": "ተስዓ ሰለስተ",
+    "pronunciation": "zetena-sost",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Four",
+    "english": "Ninety-Four",
+    "amharic": "ዘጠና አራት",
+    "oromifa": "Sagaltama afur",
+    "tigrinya": "ተስዓ ኣርባዕተ",
+    "pronunciation": "zetena-arat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Five",
+    "english": "Ninety-Five",
+    "amharic": "ዘጠና አምስት",
+    "oromifa": "Sagaltama shan",
+    "tigrinya": "ተስዓ ሓሙሽተ",
+    "pronunciation": "zetena-amist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Six",
+    "english": "Ninety-Six",
+    "amharic": "ዘጠና ስድስት",
+    "oromifa": "Sagaltama ja'a",
+    "tigrinya": "ተስዓ ሽድሽተ",
+    "pronunciation": "zetena-sidist",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Seven",
+    "english": "Ninety-Seven",
+    "amharic": "ዘጠና ሰባት",
+    "oromifa": "Sagaltama torba",
+    "tigrinya": "ተስዓ ሸውዓተ",
+    "pronunciation": "zetena-sebat",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Eight",
+    "english": "Ninety-Eight",
+    "amharic": "ዘጠና ስምንት",
+    "oromifa": "Sagaltama saddeet",
+    "tigrinya": "ተስዓ ሸሞንተ",
+    "pronunciation": "zetena-simint",
+    "category": "Numbers"
+  },
+  {
+    "word": "Ninety-Nine",
+    "english": "Ninety-Nine",
+    "amharic": "ዘጠና ዘጠኝ",
+    "oromifa": "Sagaltama sagal",
+    "tigrinya": "ተስዓ ትሽዓተ",
+    "pronunciation": "zetena-zeten",
+    "category": "Numbers"
+  },
+  {
+    "word": "One Hundred",
+    "english": "One Hundred",
+    "amharic": "መቶ",
+    "oromifa": "Dhibba tokko",
+    "tigrinya": "ሚእቲ",
+    "pronunciation": "meto",
+    "category": "Numbers"
+  }, 
+  {
+    "word": "Five Hundred",
+    "english": "Five Hundred",
+    "amharic": "አምስት መቶ",
+    "oromifa": "Dhibba shan",
+    "tigrinya": "ሓሙሽተ ሚእቲ",
+    "pronunciation": "amist-meto",
+    "category": "Large Numbers"
+  },
+  {
+    "word": "One Thousand",
+    "english": "One Thousand",
+    "amharic": "ሺህ",
+    "oromifa": "Kuma tokko",
+    "tigrinya": "ሽሕ",
+    "pronunciation": "shih",
+    "category": "Large Numbers"
+  },
+  {
+    "word": "Ten Thousand",
+    "english": "Ten Thousand",
+    "amharic": "አስር ሺህ",
+    "oromifa": "Kuma kudhan",
+    "tigrinya": "ዓሰርተ ሽሕ",
+    "pronunciation": "asir-shih",
+    "category": "Large Numbers"
+  },
+  {
+    "word": "One Hundred Thousand",
+    "english": "One Hundred Thousand",
+    "amharic": "መቶ ሺህ",
+    "oromifa": "Kuma dhibba tokko",
+    "tigrinya": "ሚእቲ ሽሕ",
+    "pronunciation": "meto-shih",
+    "category": "Large Numbers"
+  },
+  {
+    "word": "One Million",
+    "english": "One Million",
+    "amharic": "አንድ ሚሊዮን",
+    "oromifa": "Miliyoona tokko",
+    "tigrinya": "ሓደ ሚሊዮን",
+    "pronunciation": "and-million",
+    "category": "Large Numbers"
+  },
+  {
+    "word": "One Billion",
+    "english": "One Billion",
+    "amharic": "አንድ ቢሊዮን",
+    "oromifa": "Biliyoona tokko",
+    "tigrinya": "ሓደ ቢሊዮን",
+    "pronunciation": "and-billion",
+    "category": "Large Numbers"
+  }, 
+  {
+    "word": "Hello",
+    "english": "Hello",
+    "amharic": "ሰላም",
+    "oromifa": "Akkam",
+    "tigrinya": "ሰላም",
+    "pronunciation": "selam",
+    "category": "Greetings",
+    "time_of_day": "Any time"
+  },
+  {
+    "word": "Good morning",
+    "english": "Good morning",
+    "amharic": "እንደምን አደርክ",
+    "oromifa": "Akkam bulte",
+    "tigrinya": "ከመይ ሓዲርኩም",
+    "pronunciation": "endemen-aderk (m)/adersh (f)",
+    "category": "Greetings",
+    "time_of_day": "Morning"
+  },
+  {
+    "word": "Good afternoon",
+    "english": "Good afternoon",
+    "amharic": "እንደምን ተናገርክ",
+    "oromifa": "Akkam oolte",
+    "tigrinya": "ከመይ ዋላኹም",
+    "pronunciation": "endemen-tegnark (m)/tegnarsh (f)",
+    "category": "Greetings",
+    "time_of_day": "Afternoon"
+  },
+  {
+    "word": "Good evening",
+    "english": "Good evening",
+    "amharic": "እንደምን አረፍክ",
+    "oromifa": "Akkam galgala",
+    "tigrinya": "ከመይ ኣምሽትኩም",
+    "pronunciation": "endemen-arefk (m)/arefsh (f)",
+    "category": "Greetings",
+    "time_of_day": "Evening"
+  },
+  {
+    "word": "Good night",
+    "english": "Good night",
+    "amharic": "ምሽቱ በርህ",
+    "oromifa": "Nagaa halkan",
+    "tigrinya": "ልዋም ለይቲ",
+    "pronunciation": "mishtu-berh",
+    "category": "Greetings",
+    "time_of_day": "Night"
+  },
+  {
+    "word": "How are you?",
+    "english": "How are you?",
+    "amharic": "እንዴት ነህ?",
+    "oromifa": "Akkam jirta?",
+    "tigrinya": "ከመይ ኣለኻ?",
+    "pronunciation": "endet-neh (m)/nesh (f)",
+    "category": "Greetings",
+    "response": "Fine, thank you"
+  },
+  {
+    "word": "Fine, thank you",
+    "english": "Fine, thank you",
+    "amharic": "አይዞኝ አመሰግናለሁ",
+    "oromifa": "Nagaa, galatoomi",
+    "tigrinya": "ሰናይ እየ፣ የቅንየለይ",
+    "pronunciation": "eyzoñ amesegnalehu",
+    "category": "Greetings",
+    "response_to": "How are you?"
+  },
+  {
+    "word": "Welcome",
+    "english": "Welcome",
+    "amharic": "እንኳን ደህና መጣህ",
+    "oromifa": "Baga nagaan dhufte",
+    "tigrinya": "እንቋዕ ሰናይ መፂኻ",
+    "pronunciation": "enkuan dehna met'ah (m)/met'ash (f)",
+    "category": "Greetings"
+  },
+  {
+    "word": "Goodbye",
+    "english": "Goodbye",
+    "amharic": "ደህና ሁን",
+    "oromifa": "Nagaatti",
+    "tigrinya": "ሰላም ይበል",
+    "pronunciation": "dehna hun (m)/hon (f)",
+    "category": "Greetings"
+  },
+  {
+    "word": "See you later",
+    "english": "See you later",
+    "amharic": "ደግመን እንገናኝ",
+    "oromifa": "Booda wal agarra",
+    "tigrinya": "ጸኒሕና ክንራኸብ",
+    "pronunciation": "degimen engenany",
+    "category": "Greetings"
+  },
+  {
+    "word": "What is your name?",
+    "english": "What is your name?",
+    "amharic": "ስምህ ማን ነው?",
+    "oromifa": "Maqaan kee eenyu?",
+    "tigrinya": "ሽምካ መን እዩ?",
+    "pronunciation": "simih man new? (m)/simish man new? (f)",
+    "category": "Greetings"
+  },
+  {
+    "word": "My name is...",
+    "english": "My name is...",
+    "amharic": "ስሜ ... ነው",
+    "oromifa": "Maqaan koo...",
+    "tigrinya": "ሽምየ ... እዩ",
+    "pronunciation": "sime... new",
+    "category": "Greetings"
+  },
+  {
+    "word": "Nice to meet you",
+    "english": "Nice to meet you",
+    "amharic": "ስለተገናኝክ ደስ ብሎኛል",
+    "oromifa": "Wal arginaa gammadeera",
+    "tigrinya": "ስለ ዝራኸብኩኻ ሕጉስ እየ",
+    "pronunciation": "siletegenanyuk des beloñal",
+    "category": "Greetings"
+  },
+  {
+    "word": "How is your family?",
+    "english": "How is your family?",
+    "amharic": "ቤተሰብህ እንዴት ነው?",
+    "oromifa": "Maatii kee akkam?",
+    "tigrinya": "ስድራቤትካ ከመይ ኣሎ?",
+    "pronunciation": "betesebih endet new?",
+    "category": "Greetings"
+  },
+  {
+    "word": "Please",
+    "english": "Please",
+    "amharic": "አባክህን",
+    "oromifa": "Mee dhiifama",
+    "tigrinya": "በጃኹም",
+    "pronunciation": "abakin (m)/abakish (f)",
+    "category": "Greetings"
+  },
+  {
+    "word": "Thank you",
+    "english": "Thank you",
+    "amharic": "አመሰግናለሁ",
+    "oromifa": "Galatoomaa",
+    "tigrinya": "የቅንየለይ",
+    "pronunciation": "amesegnalehu",
+    "category": "Greetings"
+  },
+  {
+    "word": "You're welcome",
+    "english": "You're welcome",
+    "amharic": "አይበገሬም",
+    "oromifa": "Homuu hin ta'u",
+    "tigrinya": "ኣይትሕማም",
+    "pronunciation": "aybegerem",
+    "category": "Greetings"
+  },
+  {
+    "word": "Excuse me",
+    "english": "Excuse me",
+    "amharic": "ይቅርታ",
+    "oromifa": "Dhiifama",
+    "tigrinya": "ይቕሬታ",
+    "pronunciation": "yekirta",
+    "category": "Greetings"
+  },
+  {
+    "word": "I'm sorry",
+    "english": "I'm sorry",
+    "amharic": "አዝናለሁ",
+    "oromifa": "Dhiifama naa'i",
+    "tigrinya": "ይቕሬታ",
+    "pronunciation": "aznalehu",
+    "category": "Greetings"
+  }, 
+  {
+    "word": "Food",
+    "english": "Food",
+    "amharic": "ምግብ",
+    "oromifa": "Nyaata",
+    "tigrinya": "ምግቢ",
+    "pronunciation": "migib",
+    "category": "Food"
+  },
+  {
+    "word": "Water",
+    "english": "Water",
+    "amharic": "ውሃ",
+    "oromifa": "Bishaan",
+    "tigrinya": "ማይ",
+    "pronunciation": "wiha",
+    "category": "Food"
+  },
+  {
+    "word": "Bread",
+    "english": "Bread",
+    "amharic": "ዳቦ",
+    "oromifa": "Buddeena",
+    "tigrinya": "ባኒ",
+    "pronunciation": "dabo",
+    "category": "Food"
+  },
+  {
+    "word": "Injera",
+    "english": "Injera",
+    "amharic": "እንጀራ",
+    "oromifa": "Biddeena",
+    "tigrinya": "ታይታ",
+    "pronunciation": "injera",
+    "category": "Food",
+    "description": "Traditional sourdough flatbread"
+  },
+  {
+    "word": "Coffee",
+    "english": "Coffee",
+    "amharic": "ቡና",
+    "oromifa": "Buna",
+    "tigrinya": "ቡን",
+    "pronunciation": "buna",
+    "category": "Food",
+    "description": "Traditional Ethiopian coffee"
+  },
+  {
+    "word": "Tea",
+    "english": "Tea",
+    "amharic": "ሻይ",
+    "oromifa": "Shaayii",
+    "tigrinya": "ሻሂ",
+    "pronunciation": "shai",
+    "category": "Food"
+  },
+  {
+    "word": "Meat",
+    "english": "Meat",
+    "amharic": "ስጋ",
+    "oromifa": "Foon",
+    "tigrinya": "ስጋ",
+    "pronunciation": "siga",
+    "category": "Food"
+  },
+  {
+    "word": "Chicken",
+    "english": "Chicken",
+    "amharic": "ዶሮ",
+    "oromifa": "Lukkuu",
+    "tigrinya": "ደርሆ",
+    "pronunciation": "doro",
+    "category": "Food"
+  },
+  {
+    "word": "Beef",
+    "english": "Beef",
+    "amharic": "በሬ ስጋ",
+    "oromifa": "Foon torbaa",
+    "tigrinya": "ስጋ በሬ",
+    "pronunciation": "bere siga",
+    "category": "Food"
+  },
+  {
+    "word": "Vegetables",
+    "english": "Vegetables",
+    "amharic": "አትክልት",
+    "oromifa": "Qoccoo",
+    "tigrinya": "ኣትክልቲ",
+    "pronunciation": "atkilt",
+    "category": "Food"
+  },
+  {
+    "word": "Spicy",
+    "english": "Spicy",
+    "amharic": "ቃሪማ",
+    "oromifa": "Qaramaa",
+    "tigrinya": "ምስል",
+    "pronunciation": "karima",
+    "category": "Food"
+  },
+  {
+    "word": "Delicious",
+    "english": "Delicious",
+    "amharic": "ጣፋጭ",
+    "oromifa": "Mi'aawaa",
+    "tigrinya": "ጥዑም",
+    "pronunciation": "tafach",
+    "category": "Food"
+  },
+  {
+    "word": "I'm hungry",
+    "english": "I'm hungry",
+    "amharic": "ራብ አለኝ",
+    "oromifa": "Beela koo jira",
+    "tigrinya": "ረሳብ ኣለኒ",
+    "pronunciation": "rab aleñ",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "I'm thirsty",
+    "english": "I'm thirsty",
+    "amharic": "ጥም አለኝ",
+    "oromifa": "Dheebuu koo jira",
+    "tigrinya": "ጽም ኣለኒ",
+    "pronunciation": "tim aleñ",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "Breakfast",
+    "english": "Breakfast",
+    "amharic": "እህል ምግብ",
+    "oromifa": "Ciree nyaata",
+    "tigrinya": "ንግሆኣዊ ምግቢ",
+    "pronunciation": "ehel migib",
+    "category": "Meals"
+  },
+  {
+    "word": "Lunch",
+    "english": "Lunch",
+    "amharic": "ምሳ",
+    "oromifa": "Nyaata guyyaa",
+    "tigrinya": "ቀትሪ ምግቢ",
+    "pronunciation": "misa",
+    "category": "Meals"
+  },
+  {
+    "word": "Dinner",
+    "english": "Dinner",
+    "amharic": "ምሽት ምግብ",
+    "oromifa": "Nyaata halkan",
+    "tigrinya": "ምሸታዊ ምግቢ",
+    "pronunciation": "misht migib",
+    "category": "Meals"
+  },
+  {
+    "word": "Please give me...",
+    "english": "Please give me...",
+    "amharic": "አባክህን ስጠኝ...",
+    "oromifa": "Mee naa kenni...",
+    "tigrinya": "በጃኻ ሃበኒ...",
+    "pronunciation": "abakin setañ...",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "More please",
+    "english": "More please",
+    "amharic": "ተደጋግሜ አባክህን",
+    "oromifa": "Dabaltee mee dhiifama",
+    "tigrinya": "ተደጋጊምካ በጃኻ",
+    "pronunciation": "tedegagme abakin",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "Enough, thank you",
+    "english": "Enough, thank you",
+    "amharic": "በቃ አመሰግናለሁ",
+    "oromifa": "Ga'ee galatoomaa",
+    "tigrinya": "በቃ የቅንየለይ",
+    "pronunciation": "beka amesegnalehu",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "It's delicious",
+    "english": "It's delicious",
+    "amharic": "ጣፋጭ ነው",
+    "oromifa": "Mi'aawaa dha",
+    "tigrinya": "ጥዑም እዩ",
+    "pronunciation": "tafach new",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "Bon appetit",
+    "english": "Bon appetit",
+    "amharic": "ጣፋጭ ምግብ",
+    "oromifa": "Nyaata mi'aawaa",
+    "tigrinya": "ጥዑም ምግቢ",
+    "pronunciation": "tafach migib",
+    "category": "Dining Phrases"
+  },
+  {
+    "word": "Doro Wat",
+    "english": "Chicken Stew",
+    "amharic": "ዶሮ ወጥ",
+    "oromifa": "Lukkuu marqaa",
+    "tigrinya": "ደርሆ ምባራ",
+    "pronunciation": "doro wet",
+    "category": "Ethiopian Dishes",
+    "description": "Spicy chicken stew with berbere"
+  },
+  {
+    "word": "Kitfo",
+    "english": "Minced Beef",
+    "amharic": "ክትፎ",
+    "oromifa": "Kitfoo",
+    "tigrinya": "ክትፎ",
+    "pronunciation": "kitfo",
+    "category": "Ethiopian Dishes",
+    "description": "Minced raw beef with spices"
+  },
+  {
+    "word": "Tibs",
+    "english": "Sauteed Meat",
+    "amharic": "ጥብስ",
+    "oromifa": "Tibsee",
+    "tigrinya": "ጥብስ",
+    "pronunciation": "tibs",
+    "category": "Ethiopian Dishes",
+    "description": "Sauteed meat dish"
+  },
+  {
+    "word": "Shiro",
+    "english": "Chickpea Stew",
+    "amharic": "ሽሮ",
+    "oromifa": "Shiroo",
+    "tigrinya": "ሽሮ",
+    "pronunciation": "shiro",
+    "category": "Ethiopian Dishes",
+    "description": "Chickpea flour stew"
+  },
+  {
+    "word": "Fruit",
+    "english": "Fruit",
+    "amharic": "ፍራፍሬ",
+    "oromifa": "Fuduraa",
+    "tigrinya": "ፍረ",
+    "pronunciation": "frafre",
+    "category": "Food"
+  },
+  {
+    "word": "Milk",
+    "english": "Milk",
+    "amharic": "ወተት",
+    "oromifa": "Aannan",
+    "tigrinya": "ጸባ",
+    "pronunciation": "wetet",
+    "category": "Food"
+  },
+  {
+    "word": "Egg",
+    "english": "Egg",
+    "amharic": "እንቁላል",
+    "oromifa": "Hanqaaquu",
+    "tigrinya": "እንቋል",
+    "pronunciation": "enkulal",
+    "category": "Food"
+  },
+  {
+    "word": "Honey",
+    "english": "Honey",
+    "amharic": "ማር",
+    "oromifa": "Damma",
+    "tigrinya": "ማር",
+    "pronunciation": "mar",
+    "category": "Food"
+  },
+  {
+    "word": "Salt",
+    "english": "Salt",
+    "amharic": "ጨው",
+    "oromifa": "Asheedaa",
+    "tigrinya": "ጨው",
+    "pronunciation": "chew",
+    "category": "Food"
+  },
+  {
+    "word": "Sugar",
+    "english": "Sugar",
+    "amharic": "ስኳር",
+    "oromifa": "Sukkaraa",
+    "tigrinya": "ስኳር",
+    "pronunciation": "sukar",
+    "category": "Food"
+  },
+  {
+    "word": "Market",
+    "english": "Market",
+    "amharic": "ገበያ",
+    "oromifa": "Gabaaba",
+    "tigrinya": "መሸጣ",
+    "pronunciation": "gebeya",
+    "category": "Food Shopping"
+  },
+  {
+    "word": "How much is this?",
+    "english": "How much is this?",
+    "amharic": "ይህ �ንድስ ነው?",
+    "oromifa": "Kun meeqa?",
+    "tigrinya": "እዚ ክንድዓይ እዩ?",
+    "pronunciation": "yih ends new?",
+    "category": "Food Shopping"
+  }, 
+  {
+    "word": "Time",
+    "english": "Time",
+    "amharic": "ጊዜ",
+    "oromifa": "Yeroo",
+    "tigrinya": "ግዜ",
+    "pronunciation": "gize",
+    "category": "Time"
+  },
+  {
+    "word": "Hour",
+    "english": "Hour",
+    "amharic": "ሰዓት",
+    "oromifa": "Sa'aatii",
+    "tigrinya": "ሰዓት",
+    "pronunciation": "se'at",
+    "category": "Time"
+  },
+  {
+    "word": "Minute",
+    "english": "Minute",
+    "amharic": "ደቂቃ",
+    "oromifa": "Daqiiqaa",
+    "tigrinya": "ደቒቕ",
+    "pronunciation": "dekika",
+    "category": "Time"
+  },
+  {
+    "word": "Second",
+    "english": "Second",
+    "amharic": "ሰከንድ",
+    "oromifa": "Sekondii",
+    "tigrinya": "ሰከንድ",
+    "pronunciation": "sekend",
+    "category": "Time"
+  },
+  {
+    "word": "Morning",
+    "english": "Morning",
+    "amharic": "ጠዋት",
+    "oromifa": "Barii",
+    "tigrinya": "ንግሆ",
+    "pronunciation": "tewat",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Afternoon",
+    "english": "Afternoon",
+    "amharic": "ከሰዓት",
+    "oromifa": "Guyyaa",
+    "tigrinya": "ድሕሪ ቀትሪ",
+    "pronunciation": "kese'at",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Evening",
+    "english": "Evening",
+    "amharic": "ምሽት",
+    "oromifa": "Galgala",
+    "tigrinya": "ምሸት",
+    "pronunciation": "misht",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Night",
+    "english": "Night",
+    "amharic": "ሌሊት",
+    "oromifa": "Halkan",
+    "tigrinya": "ለይቲ",
+    "pronunciation": "lelit",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Now",
+    "english": "Now",
+    "amharic": "አሁን",
+    "oromifa": "Amma",
+    "tigrinya": "ሕጂ",
+    "pronunciation": "ahoon",
+    "category": "Time"
+  },
+  {
+    "word": "Today",
+    "english": "Today",
+    "amharic": "ዛሬ",
+    "oromifa": "Har'a",
+    "tigrinya": "ሎሚ",
+    "pronunciation": "zare",
+    "category": "Time"
+  },
+  {
+    "word": "Tomorrow",
+    "english": "Tomorrow",
+    "amharic": "ነገ",
+    "oromifa": "Boru",
+    "tigrinya": "ጽባሕ",
+    "pronunciation": "nege",
+    "category": "Time"
+  },
+  {
+    "word": "Yesterday",
+    "english": "Yesterday",
+    "amharic": "ትላንት",
+    "oromifa": "Kaleessa",
+    "tigrinya": "ትማሊ",
+    "pronunciation": "tilant",
+    "category": "Time"
+  }, 
+  {
+    "word": "Monday",
+    "english": "Monday",
+    "amharic": "ሰኞ",
+    "oromifa": "Wiixata",
+    "tigrinya": "ሰኑ",
+    "pronunciation": "senyo",
+    "category": "Days"
+  },
+  {
+    "word": "Tuesday",
+    "english": "Tuesday",
+    "amharic": "ማክሰኞ",
+    "oromifa": "Qibxata",
+    "tigrinya": "ሠሉስ",
+    "pronunciation": "maksenyo",
+    "category": "Days"
+  },
+  {
+    "word": "Wednesday",
+    "english": "Wednesday",
+    "amharic": "ረቡዕ",
+    "oromifa": "Roobii",
+    "tigrinya": "ረቡዕ",
+    "pronunciation": "rabu",
+    "category": "Days"
+  },
+  {
+    "word": "Thursday",
+    "english": "Thursday",
+    "amharic": "ሐሙስ",
+    "oromifa": "Kamiisa",
+    "tigrinya": "ኃሙስ",
+    "pronunciation": "hamus",
+    "category": "Days"
+  },
+  {
+    "word": "Friday",
+    "english": "Friday",
+    "amharic": "ዓርብ",
+    "oromifa": "Jimaata",
+    "tigrinya": "ዓርቢ",
+    "pronunciation": "arb",
+    "category": "Days"
+  },
+  {
+    "word": "Saturday",
+    "english": "Saturday",
+    "amharic": "ቅዳሜ",
+    "oromifa": "Sanbata",
+    "tigrinya": "ቀዳም",
+    "pronunciation": "kidame",
+    "category": "Days"
+  },
+  {
+    "word": "Sunday",
+    "english": "Sunday",
+    "amharic": "እሁድ",
+    "oromifa": "Dilbata",
+    "tigrinya": "ሰንበት",
+    "pronunciation": "ehud",
+    "category": "Days"
+  }, 
+  {
+    "word": "January",
+    "english": "January",
+    "amharic": "ጃንዩወሪ",
+    "oromifa": "Amajjii",
+    "tigrinya": "ጥሪ",
+    "pronunciation": "january",
+    "category": "Months"
+  },
+  {
+    "word": "February",
+    "english": "February",
+    "amharic": "ፌብሩወሪ",
+    "oromifa": "Guraandhala",
+    "tigrinya": "ለካቲት",
+    "pronunciation": "february",
+    "category": "Months"
+  },
+  {
+    "word": "March",
+    "english": "March",
+    "amharic": "ማርች",
+    "oromifa": "Bitooteessa",
+    "tigrinya": "መጋቢት",
+    "pronunciation": "march",
+    "category": "Months"
+  },
+  {
+    "word": "April",
+    "english": "April",
+    "amharic": "ኤፕሪል",
+    "oromifa": "Ebla",
+    "tigrinya": "ሚያዝያ",
+    "pronunciation": "april",
+    "category": "Months"
+  },
+  {
+    "word": "May",
+    "english": "May",
+    "amharic": "ሜይ",
+    "oromifa": "Caamsaa",
+    "tigrinya": "ግንቦት",
+    "pronunciation": "may",
+    "category": "Months"
+  },
+  {
+    "word": "June",
+    "english": "June",
+    "amharic": "ጁን",
+    "oromifa": "Waxabajjii",
+    "tigrinya": "ሰነ",
+    "pronunciation": "june",
+    "category": "Months"
+  },
+  {
+    "word": "July",
+    "english": "July",
+    "amharic": "ጁላይ",
+    "oromifa": "Adooleessa",
+    "tigrinya": "ሓምለ",
+    "pronunciation": "july",
+    "category": "Months"
+  },
+  {
+    "word": "August",
+    "english": "August",
+    "amharic": "ኦገስት",
+    "oromifa": "Hagayya",
+    "tigrinya": "ነሓሰ",
+    "pronunciation": "august",
+    "category": "Months"
+  },
+  {
+    "word": "September",
+    "english": "September",
+    "amharic": "ሴፕቴምበር",
+    "oromifa": "Fuulbana",
+    "tigrinya": "መስከረም",
+    "pronunciation": "september",
+    "category": "Months"
+  },
+  {
+    "word": "October",
+    "english": "October",
+    "amharic": "ኦክቶበር",
+    "oromifa": "Onkololeessa",
+    "tigrinya": "ጥቅምቲ",
+    "pronunciation": "october",
+    "category": "Months"
+  },
+  {
+    "word": "November",
+    "english": "November",
+    "amharic": "ኖቬምበር",
+    "oromifa": "Sadaasa",
+    "tigrinya": "ሕዳር",
+    "pronunciation": "november",
+    "category": "Months"
+  },
+  {
+    "word": "December",
+    "english": "December",
+    "amharic": "ዲሴምበር",
+    "oromifa": "Muddee",
+    "tigrinya": "ታሕሳስ",
+    "pronunciation": "december",
+    "category": "Months"
+  } , 
+  {
+    "word": "What time is it?",
+    "english": "What time is it?",
+    "amharic": "ስንት ሰዓት ነው?",
+    "oromifa": "Sa'aatii meeqa?",
+    "tigrinya": "ክንድዓይ ሰዓት እዩ?",
+    "pronunciation": "sint se'at new?",
+    "category": "Time Phrases"
+  },
+  {
+    "word": "It's 3 o'clock",
+    "english": "It's 3 o'clock",
+    "amharic": "ሶስት ሰዓት ነው",
+    "oromifa": "Sa'aatii sadi dha",
+    "tigrinya": "ሰለስተ ሰዓት እዩ",
+    "pronunciation": "sost se'at new",
+    "category": "Time Phrases"
+  },
+  {
+    "word": "Morning",
+    "english": "Morning",
+    "amharic": "ጠዋት",
+    "oromifa": "Barii",
+    "tigrinya": "ንግሆ",
+    "pronunciation": "tewat",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Noon",
+    "english": "Noon",
+    "amharic": "ቀትር",
+    "oromifa": "Waaree",
+    "tigrinya": "ቀትሪ",
+    "pronunciation": "ketir",
+    "category": "Time of Day"
+  },
+  {
+    "word": "Midnight",
+    "english": "Midnight",
+    "amharic": "ግማሽ ሌሊት",
+    "oromifa": "Galgala gubbaa",
+    "tigrinya": "ፍርቂ ለይቲ",
+    "pronunciation": "gmash lelit",
+    "category": "Time of Day"
+  }, 
+  {
+    "word": "Right",
+    "english": "Right",
+    "amharic": "ቀኝ",
+    "oromifa": "Mirga",
+    "tigrinya": "ቀኝ",
+    "pronunciation": "ken",
+    "category": "Directions"
+  },
+  {
+    "word": "Left",
+    "english": "Left",
+    "amharic": "ግራ",
+    "oromifa": "Bita",
+    "tigrinya": "ግራ",
+    "pronunciation": "gra",
+    "category": "Directions"
+  },
+  {
+    "word": "Straight",
+    "english": "Straight",
+    "amharic": "ቀጥ ብሎ",
+    "oromifa": "Sirrii",
+    "tigrinya": "ትኽክል",
+    "pronunciation": "ket belo",
+    "category": "Directions"
+  },
+  {
+    "word": "Up",
+    "english": "Up",
+    "amharic": "ላይ",
+    "oromifa": "Ol",
+    "tigrinya": "ላዕሊ",
+    "pronunciation": "lay",
+    "category": "Directions"
+  },
+  {
+    "word": "Down",
+    "english": "Down",
+    "amharic": "ታች",
+    "oromifa": "Gadi",
+    "tigrinya": "ታሕቲ",
+    "pronunciation": "tach",
+    "category": "Directions"
+  },
+  {
+    "word": "Front",
+    "english": "Front",
+    "amharic": "ፊት",
+    "oromifa": "Fuula",
+    "tigrinya": "ቅድሚት",
+    "pronunciation": "fit",
+    "category": "Directions"
+  },
+  {
+    "word": "Back",
+    "english": "Back",
+    "amharic": "ኋላ",
+    "oromifa": "Duuba",
+    "tigrinya": "ድሕሪት",
+    "pronunciation": "hula",
+    "category": "Directions"
+  },
+  {
+    "word": "Near",
+    "english": "Near",
+    "amharic": "አቅራቢ",
+    "oromifa": "Dhiyoo",
+    "tigrinya": "ቀሪብ",
+    "pronunciation": "akrabi",
+    "category": "Directions"
+  },
+  {
+    "word": "Far",
+    "english": "Far",
+    "amharic": "ሩቅ",
+    "oromifa": "Fagoo",
+    "tigrinya": "ርሑቕ",
+    "pronunciation": "ruk",
+    "category": "Directions"
+  }, 
+  {
+    "word": "Where is...?",
+    "english": "Where is...?",
+    "amharic": "...የት ነው?",
+    "oromifa": "...eessa jira?",
+    "tigrinya": "...ኣበይ ኣሎ?",
+    "pronunciation": "...yet new?",
+    "category": "Direction Phrases"
+  },
+  {
+    "word": "How do I get to...?",
+    "english": "How do I get to...?",
+    "amharic": "እንዴት መድረስ እችላለሁ...?",
+    "oromifa": "...akkasii deemuu danda'a?",
+    "tigrinya": "ከመይ ኢለ ክበጽሕ...?",
+    "pronunciation": "endet medres echilalehu...?",
+    "category": "Direction Phrases"
+  },
+  {
+    "word": "Is it far?",
+    "english": "Is it far?",
+    "amharic": "ሩቅ ነው?",
+    "oromifa": "Fagoo dha?",
+    "tigrinya": "ርሑቕ ድዩ?",
+    "pronunciation": "ruk new?",
+    "category": "Direction Phrases"
+  },
+  {
+    "word": "Can you show me?",
+    "english": "Can you show me?",
+    "amharic": "ሊያሳዩኝ ይችላሉ?",
+    "oromifa": "Na agarsiisuu dandeessaa?",
+    "tigrinya": "ትርኢኒ ትኽእል?",
+    "pronunciation": "liyasayung yichilalu?",
+    "category": "Direction Phrases"
+  },
+  {
+    "word": "I'm lost",
+    "english": "I'm lost",
+    "amharic": "ጠፍቻለሁ",
+    "oromifa": "Badeera",
+    "tigrinya": "ጠፊአኒ",
+    "pronunciation": "tefichalehu",
+    "category": "Direction Phrases"
+  },
+  {
+    "word": "Market",
+    "english": "Market",
+    "amharic": "ገበያ",
+    "oromifa": "Gabaaba",
+    "tigrinya": "መሸጣ",
+    "pronunciation": "gebeya",
+    "category": "Places"
+  },
+  {
+    "word": "Hospital",
+    "english": "Hospital",
+    "amharic": "ሆስፒታል",
+    "oromifa": "Ospitaala",
+    "tigrinya": "ሆስፒታል",
+    "pronunciation": "hospital",
+    "category": "Places"
+  },
+  {
+    "word": "Hotel",
+    "english": "Hotel",
+    "amharic": "ሆቴል",
+    "oromifa": "Hoteela",
+    "tigrinya": "ሆቴል",
+    "pronunciation": "hotel",
+    "category": "Places"
+  },
+  {
+    "word": "Restaurant",
+    "english": "Restaurant",
+    "amharic": "ምግብ ቤት",
+    "oromifa": "Mana nyaataa",
+    "tigrinya": "ቤት ምግቢ",
+    "pronunciation": "migib bet",
+    "category": "Places"
+  },
+  {
+    "word": "Bank",
+    "english": "Bank",
+    "amharic": "ባንክ",
+    "oromifa": "Baankii",
+    "tigrinya": "ባንክ",
+    "pronunciation": "bank",
+    "category": "Places"
+  },
+  {
+    "word": "Toilet",
+    "english": "Toilet",
+    "amharic": "መጸዳጃ ቤት",
+    "oromifa": "Mana fincaanii",
+    "tigrinya": "ቤት ምጽላይ",
+    "pronunciation": "metsedaja bet",
+    "category": "Places"
+  }, 
+  {
+    "word": "Bus station",
+    "english": "Bus station",
+    "amharic": "አውቶብስ መቆሚያ",
+    "oromifa": "Basiisteenii",
+    "tigrinya": "መደበር ኣውቶቡስ",
+    "pronunciation": "autobus mekomiya",
+    "category": "Transportation"
+  },
+  {
+    "word": "Taxi",
+    "english": "Taxi",
+    "amharic": "ታክሲ",
+    "oromifa": "Taksii",
+    "tigrinya": "ታክሲ",
+    "pronunciation": "taxi",
+    "category": "Transportation"
+  },
+  {
+    "word": "Stop here",
+    "english": "Stop here",
+    "amharic": "እዚህ ቁም",
+    "oromifa": "Asii dhaabbadhu",
+    "tigrinya": "ኣብዚ ደው በል",
+    "pronunciation": "ezih kum",
+    "category": "Transportation"
+  },
+  {
+    "word": "How much is the fare?",
+    "english": "How much is the fare?",
+    "amharic": "ክፍያው ስንት ነው?",
+    "oromifa": "Kaffaltii meeqa?",
+    "tigrinya": "ክፍሊት ክንድዓይ እዩ?",
+    "pronunciation": "kifiyaw sint new?",
+    "category": "Transportation"
+  }, 
+  {
+    "word": "Car",
+    "english": "Car",
+    "amharic": "መኪና",
+    "oromifa": "Makiinaa",
+    "tigrinya": "መኪና",
+    "pronunciation": "mekina",
+    "category": "Transportation"
+  },
+  {
+    "word": "Bus",
+    "english": "Bus",
+    "amharic": "አውቶብስ",
+    "oromifa": "Baasi",
+    "tigrinya": "ኣውቶቡስ",
+    "pronunciation": "autobus",
+    "category": "Transportation"
+  },
+  {
+    "word": "Taxi",
+    "english": "Taxi",
+    "amharic": "ታክሲ",
+    "oromifa": "Taksii",
+    "tigrinya": "ታክሲ",
+    "pronunciation": "taxi",
+    "category": "Transportation"
+  },
+  {
+    "word": "Bajaj (Tuk-tuk)",
+    "english": "Bajaj",
+    "amharic": "ባጃጅ",
+    "oromifa": "Bajajii",
+    "tigrinya": "ባጃጅ",
+    "pronunciation": "bajaj",
+    "category": "Transportation",
+    "description": "Three-wheeled auto rickshaw"
+  },
+  {
+    "word": "Bicycle",
+    "english": "Bicycle",
+    "amharic": "ብስክሌት",
+    "oromifa": "Baaskileetii",
+    "tigrinya": "ብሽክለታ",
+    "pronunciation": "biskelet",
+    "category": "Transportation"
+  },
+  {
+    "word": "Motorcycle",
+    "english": "Motorcycle",
+    "amharic": "ሞተር ሳይክል",
+    "oromifa": "Mootorsaayikil",
+    "tigrinya": "ሞተርሳይክል",
+    "pronunciation": "motor saikil",
+    "category": "Transportation"
+  },
+  {
+    "word": "Airplane",
+    "english": "Airplane",
+    "amharic": "አውሮፕላን",
+    "oromifa": "Xiyyaara",
+    "tigrinya": "ነዋሪት",
+    "pronunciation": "aeroplane",
+    "category": "Transportation"
+  },
+  {
+    "word": "Train",
+    "english": "Train",
+    "amharic": "ባቡር",
+    "oromifa": "Duraa",
+    "tigrinya": "ባቡር",
+    "pronunciation": "babur",
+    "category": "Transportation"
+  },
+  {
+    "word": "Boat",
+    "english": "Boat",
+    "amharic": "ባሕር መንኮራኩር",
+    "oromifa": "Doonyii",
+    "tigrinya": "ሳምባ",
+    "pronunciation": "bahir menkokorkur",
+    "category": "Transportation"
+  }, 
+  {
+    "word": "Car",
+    "english": "Car",
+    "amharic": "መኪና",
+    "oromifa": "Makiinaa",
+    "tigrinya": "መኪና",
+    "pronunciation": "mekina",
+    "category": "Transportation"
+  },
+  {
+    "word": "Bus",
+    "english": "Bus",
+    "amharic": "አውቶብስ",
+    "oromifa": "Baasi",
+    "tigrinya": "ኣውቶቡስ",
+    "pronunciation": "autobus",
+    "category": "Transportation"
+  },
+  {
+    "word": "Taxi",
+    "english": "Taxi",
+    "amharic": "ታክሲ",
+    "oromifa": "Taksii",
+    "tigrinya": "ታክሲ",
+    "pronunciation": "taxi",
+    "category": "Transportation"
+  },
+  {
+    "word": "Bajaj (Tuk-tuk)",
+    "english": "Bajaj",
+    "amharic": "ባጃጅ",
+    "oromifa": "Bajajii",
+    "tigrinya": "ባጃጅ",
+    "pronunciation": "bajaj",
+    "category": "Transportation",
+    "description": "Three-wheeled auto rickshaw"
+  },
+  {
+    "word": "Bicycle",
+    "english": "Bicycle",
+    "amharic": "ብስክሌት",
+    "oromifa": "Baaskileetii",
+    "tigrinya": "ብሽክለታ",
+    "pronunciation": "biskelet",
+    "category": "Transportation"
+  },
+  {
+    "word": "Motorcycle",
+    "english": "Motorcycle",
+    "amharic": "ሞተር ሳይክል",
+    "oromifa": "Mootorsaayikil",
+    "tigrinya": "ሞተርሳይክል",
+    "pronunciation": "motor saikil",
+    "category": "Transportation"
+  },
+  {
+    "word": "Airplane",
+    "english": "Airplane",
+    "amharic": "አውሮፕላን",
+    "oromifa": "Xiyyaara",
+    "tigrinya": "ነዋሪት",
+    "pronunciation": "aeroplane",
+    "category": "Transportation"
+  },
+  {
+    "word": "Train",
+    "english": "Train",
+    "amharic": "ባቡር",
+    "oromifa": "Duraa",
+    "tigrinya": "ባቡር",
+    "pronunciation": "babur",
+    "category": "Transportation"
+  },
+  {
+    "word": "Boat",
+    "english": "Boat",
+    "amharic": "ባሕር መንኮራኩር",
+    "oromifa": "Doonyii",
+    "tigrinya": "ሳምባ",
+    "pronunciation": "bahir menkokorkur",
+    "category": "Transportation"
+  },
+  {
+    "word": "To go",
+    "english": "To go",
+    "amharic": "መሄድ",
+    "oromifa": "Deemu",
+    "tigrinya": "ምኻድ",
+    "pronunciation": "mehed",
+    "category": "Transportation Verbs"
+  },
+  {
+    "word": "To come",
+    "english": "To come",
+    "amharic": "መምጣት",
+    "oromifa": "Dhufuu",
+    "tigrinya": "ምምጻእ",
+    "pronunciation": "memtat",
+    "category": "Transportation Verbs"
+  },
+  {
+    "word": "To drive",
+    "english": "To drive",
+    "amharic": "መንዳት",
+    "oromifa": "Dhaqsuu",
+    "tigrinya": "ምዝዋር",
+    "pronunciation": "mendat",
+    "category": "Transportation Verbs"
+  },
+  {
+    "word": "To ride",
+    "english": "To ride",
+    "amharic": "መርቀቅ",
+    "oromifa": "Baachuu",
+    "tigrinya": "ምትሕጋስ",
+    "pronunciation": "merkek",
+    "category": "Transportation Verbs"
+  },
+  {
+    "word": "To walk",
+    "english": "To walk",
+    "amharic": "መጓዝ",
+    "oromifa": "Fiiguu",
+    "tigrinya": "ምጉያ",
+    "pronunciation": "megoz",
+    "category": "Transportation Verbs"
+  },
+  {
+    "word": "School",
+    "english": "School",
+    "amharic": "ትምህርት ቤት",
+    "oromifa": "Mana Barumsaa",
+    "tigrinya": "ትምህርቲ ቤት",
+    "pronunciation": "timhirt bet",
+    "category": "Locations"
+  },
+  {
+    "word": "Hospital",
+    "english": "Hospital",
+    "amharic": "ሆስፒታል",
+    "oromifa": "Hospitaala",
+    "tigrinya": "ሆስፒታል",
+    "pronunciation": "hospitaal",
+    "category": "Locations"
+  },
+  {
+    "word": "Market",
+    "english": "Market",
+    "amharic": "ገበያ",
+    "oromifa": "Gabaa",
+    "tigrinya": "መሰብ",
+    "pronunciation": "gebeya",
+    "category": "Locations"
+  },
+  {
+    "word": "Airport",
+    "english": "Airport",
+    "amharic": "አየር ማረፊያ",
+    "oromifa": "Xayyaara Buufata",
+    "tigrinya": "መዓርፎ ነፈስ",
+    "pronunciation": "ayer marefiya",
+    "category": "Locations"
+  },
+  {
+    "word": "Library",
+    "english": "Library",
+    "amharic": "ቤተ መጻሕፍት",
+    "oromifa": "Mana Kitaabaa",
+    "tigrinya": "ቤተ መጻሕፍቲ",
+    "pronunciation": "bete metsahift",
+    "category": "Locations"
+  },
+  {
+    "word": "Restaurant",
+    "english": "Restaurant",
+    "amharic": "ሬስቶራንት",
+    "oromifa": "Mana Nyaataa",
+    "tigrinya": "ሬስቶራንት",
+    "pronunciation": "restorant",
+    "category": "Locations"
+  },
+  {
+    "word": "Police Station",
+    "english": "Police Station",
+    "amharic": "ፖሊስ ጣቢያ",
+    "oromifa": "Buufata Poolisii",
+    "tigrinya": "ጣቢያ ፖሊስ",
+    "pronunciation": "polis tabiya",
+    "category": "Locations"
+  },
+  {
+    "word": "Bank",
+    "english": "Bank",
+    "amharic": "ባንክ",
+    "oromifa": "Baankii",
+    "tigrinya": "ባንኪ",
+    "pronunciation": "bank",
+    "category": "Locations"
+  },
+  {
+    "word": "Hotel",
+    "english": "Hotel",
+    "amharic": "ሆቴል",
+    "oromifa": "Hoteela",
+    "tigrinya": "ሆቴል",
+    "pronunciation": "hotel",
+    "category": "Locations"
+  },
+  {
+    "word": "Post Office",
+    "english": "Post Office",
+    "amharic": "ፖስታ ቤት",
+    "oromifa": "Mana Postaa",
+    "tigrinya": "ቤተ ፖስታ",
+    "pronunciation": "posta bet",
+    "category": "Locations"
+  },
+  {
+    "word": "Church",
+    "english": "Church",
+    "amharic": "ቤተ ክርስቲያን",
+    "oromifa": "Mana Kiristaanaa",
+    "tigrinya": "ቤተ ክርስቲያን",
+    "pronunciation": "bete kristiyan",
+    "category": "Locations"
+  },
+  {
+    "word": "Mosque",
+    "english": "Mosque",
+    "amharic": "መስጊድ",
+    "oromifa": "Masgiida",
+    "tigrinya": "መስጊድ",
+    "pronunciation": "mesgid",
+    "category": "Locations"
+  },
+  {
+    "word": "Park",
+    "english": "Park",
+    "amharic": "ፓርክ",
+    "oromifa": "Paarkii",
+    "tigrinya": "ፓርክ",
+    "pronunciation": "park",
+    "category": "Locations"
+  },
+  {
+    "word": "Zoo",
+    "english": "Zoo",
+    "amharic": "የእንስሳት መኖሪያ",
+    "oromifa": "Bosona Horii",
+    "tigrinya": "መንእሰይ ግምጃ",
+    "pronunciation": "ensisat menoriya",
+    "category": "Locations"
+  },
+  {
+    "word": "Cinema",
+    "english": "Cinema",
+    "amharic": "ሲኒማ",
+    "oromifa": "Sinimaa",
+    "tigrinya": "ሲኒማ",
+    "pronunciation": "sinema",
+    "category": "Locations"
+  },
+  {
+    "word": "Bus Station",
+    "english": "Bus Station",
+    "amharic": "አውቶቡስ ጣቢያ",
+    "oromifa": "Buufata Awutobusi",
+    "tigrinya": "ጣቢያ ኣውቶቡስ",
+    "pronunciation": "awtobus tabiya",
+    "category": "Locations"
+  },
+  {
+    "word": "Train Station",
+    "english": "Train Station",
+    "amharic": "ባቡር ጣቢያ",
+    "oromifa": "Buufata Baaburaa",
+    "tigrinya": "ጣቢያ ባቡር",
+    "pronunciation": "babur tabiya",
+    "category": "Locations"
+  },
+  {
+    "word": "Beach",
+    "english": "Beach",
+    "amharic": "የባህር ዳርቻ",
+    "oromifa": "Daandii Galaanaa",
+    "tigrinya": "ዳርቻ ባሕሪ",
+    "pronunciation": "bahir daricha",
+    "category": "Locations"
+  },
+  {
+    "word": "Bridge",
+    "english": "Bridge",
+    "amharic": "ድልድይ",
+    "oromifa": "Godina",
+    "tigrinya": "ድልድይ",
+    "pronunciation": "dildiy",
+    "category": "Locations"
+  },
+  {
+    "word": "Farm",
+    "english": "Farm",
+    "amharic": "እርሻ",
+    "oromifa": "Dirree",
+    "tigrinya": "እርሻ",
+    "pronunciation": "ersha",
+    "category": "Locations"
+  },
+  {
+    "word": "Village",
+    "english": "Village",
+    "amharic": "መንደር",
+    "oromifa": "Ganda",
+    "tigrinya": "ከተማ ንኢት",
+    "pronunciation": "mender",
+    "category": "Locations"
+  },
+  {
+    "word": "City",
+    "english": "City",
+    "amharic": "ከተማ",
+    "oromifa": "Magaalaa",
+    "tigrinya": "ከተማ",
+    "pronunciation": "ketema",
+    "category": "Locations"
+  },
+  {
+    "word": "Mountain",
+    "english": "Mountain",
+    "amharic": "ተራራ",
+    "oromifa": "Tulluu",
+    "tigrinya": "ተራራ",
+    "pronunciation": "terara",
+    "category": "Locations"
+  },
+  {
+    "word": "River",
+    "english": "River",
+    "amharic": "ገበታ",
+    "oromifa": "Lagaa",
+    "tigrinya": "ምድሪ",
+    "pronunciation": "gebeta",
+    "category": "Locations"
+  },
+  {
+    "word": "Forest",
+    "english": "Forest",
+    "amharic": "ጫካ",
+    "oromifa": "Bosona",
+    "tigrinya": "ጫካ",
+    "pronunciation": "chaka",
+    "category": "Locations"
+  },
+  {
+    "word": "Mall",
+    "english": "Mall",
+    "amharic": "የግብይት ማዕከል",
+    "oromifa": "Gurgurtaa Guddaa",
+    "tigrinya": "ዕቃ ገበሬ ማዕከል",
+    "pronunciation": "gibbit maekel",
+    "category": "Locations"
+  },
+  {
+    "word": "Playground",
+    "english": "Playground",
+    "amharic": "መጫወቻ መድረክ",
+    "oromifa": "Iddoo Tapha",
+    "tigrinya": "መድረኽ ጨዋታ",
+    "pronunciation": "mechawetcha medrek",
+    "category": "Locations"
+  },
+  {
+    "word": "Office",
+    "english": "Office",
+    "amharic": "ቢሮ",
+    "oromifa": "Biiroo",
+    "tigrinya": "ቢሮ",
+    "pronunciation": "biro",
+    "category": "Locations"
+  },
+  {
+    "word": "Stadium",
+    "english": "Stadium",
+    "amharic": "ስታዲየም",
+    "oromifa": "Istaadiyoomii",
+    "tigrinya": "ስታዲየም",
+    "pronunciation": "stadium",
+    "category": "Locations"
+  },
+  {
+    "word": "Museum",
+    "english": "Museum",
+    "amharic": "ሙዚየም",
+    "oromifa": "Muzeemii",
+    "tigrinya": "ሙዚየም",
+    "pronunciation": "muzeyem",
+    "category": "Locations"
+  },
+  {
+    "word": "Eat",
+    "english": "Eat",
+    "amharic": "ብላ",
+    "oromifa": "Nyadhu",
+    "tigrinya": "ብልካ",
+    "pronunciation": "bela",
+    "category": "Eating"
+  },
+  {
+    "word": "Drink",
+    "english": "Drink",
+    "amharic": "ጠጣ",
+    "oromifa": "Dhugi",
+    "tigrinya": "ሓሲ",
+    "pronunciation": "teta",
+    "category": "Eating"
+  },
+  {
+    "word": "Bread",
+    "english": "Bread",
+    "amharic": "ዳቦ",
+    "oromifa": "Daboo",
+    "tigrinya": "ዳቦ",
+    "pronunciation": "dabo",
+    "category": "Eating"
+  },
+  {
+    "word": "Water",
+    "english": "Water",
+    "amharic": "ውሃ",
+    "oromifa": "Bishaan",
+    "tigrinya": "ማይ",
+    "pronunciation": "wuha",
+    "category": "Eating"
+  },
+  {
+    "word": "Milk",
+    "english": "Milk",
+    "amharic": "ወተት",
+    "oromifa": "Aannan",
+    "tigrinya": "እንቋቕሖ",
+    "pronunciation": "wetet",
+    "category": "Eating"
+  },
+  {
+    "word": "Spoon",
+    "english": "Spoon",
+    "amharic": "ማንኪያ",
+    "oromifa": "Mankiyaa",
+    "tigrinya": "ማንኺያ",
+    "pronunciation": "mankiya",
+    "category": "Eating"
+  },
+  {
+    "word": "Fork",
+    "english": "Fork",
+    "amharic": "ምግብ ማንኪያ",
+    "oromifa": "Mankiya Farka",
+    "tigrinya": "ምግቢ ማንኺያ",
+    "pronunciation": "mankiya",
+    "category": "Eating"
+  },
+  {
+    "word": "Knife",
+    "english": "Knife",
+    "amharic": "ቢላዋ",
+    "oromifa": "Ximita",
+    "tigrinya": "ቢላዋ",
+    "pronunciation": "bilawa",
+    "category": "Eating"
+  },
+  {
+    "word": "Plate",
+    "english": "Plate",
+    "amharic": "ሳህን",
+    "oromifa": "Sahan",
+    "tigrinya": "ሳሕን",
+    "pronunciation": "sahan",
+    "category": "Eating"
+  },
+  {
+    "word": "Cup",
+    "english": "Cup",
+    "amharic": "ቡና ቡድን",
+    "oromifa": "Kubbii",
+    "tigrinya": "ኩባያ",
+    "pronunciation": "kubaaya",
+    "category": "Eating"
+  },
+  {
+    "word": "Coffee",
+    "english": "Coffee",
+    "amharic": "ቡና",
+    "oromifa": "Buna",
+    "tigrinya": "ቡና",
+    "pronunciation": "buna",
+    "category": "Eating"
+  },
+  {
+    "word": "Tea",
+    "english": "Tea",
+    "amharic": "ሻይ",
+    "oromifa": "Shaayii",
+    "tigrinya": "ሻሂ",
+    "pronunciation": "shayi",
+    "category": "Eating"
+  },
+  {
+    "word": "Honey",
+    "english": "Honey",
+    "amharic": "ማር",
+    "oromifa": "Damma",
+    "tigrinya": "ማር",
+    "pronunciation": "mar",
+    "category": "Eating"
+  },
+  {
+    "word": "Sugar",
+    "english": "Sugar",
+    "amharic": "ስኳር",
+    "oromifa": "Sukkaar",
+    "tigrinya": "ስኳር",
+    "pronunciation": "sukar",
+    "category": "Eating"
+  },
+  {
+    "word": "Salt",
+    "english": "Salt",
+    "amharic": "ጨው",
+    "oromifa": "Cuunfaa",
+    "tigrinya": "ጨው",
+    "pronunciation": "chew",
+    "category": "Eating"
+  },
+  {
+    "word": "Pepper",
+    "english": "Pepper",
+    "amharic": "ቃፍ",
+    "oromifa": "Qamadii",
+    "tigrinya": "ቃፍ",
+    "pronunciation": "kaf",
+    "category": "Eating"
+  },
+  {
+    "word": "Injera",
+    "english": "Injera",
+    "amharic": "እንጀራ",
+    "oromifa": "Injjeraa",
+    "tigrinya": "እንጀራ",
+    "pronunciation": "injera",
+    "category": "Eating"
+  },
+  {
+    "word": "Meat",
+    "english": "Meat",
+    "amharic": "ስጋ",
+    "oromifa": "Foon",
+    "tigrinya": "ስጋ",
+    "pronunciation": "siga",
+    "category": "Eating"
+  },
+  {
+    "word": "Fish",
+    "english": "Fish",
+    "amharic": "አሳ",
+    "oromifa": "Qurxummii",
+    "tigrinya": "ኣሳ",
+    "pronunciation": "asa",
+    "category": "Eating"
+  },
+  {
+    "word": "Vegetables",
+    "english": "Vegetables",
+    "amharic": "አትክልት",
+    "oromifa": "Muduraa",
+    "tigrinya": "አትክልቲ",
+    "pronunciation": "atkilt",
+    "category": "Eating"
+  },
+  {
+    "word": "Fruit",
+    "english": "Fruit",
+    "amharic": "ፍራፍሬ",
+    "oromifa": "Muka Buna",
+    "tigrinya": "ፍራፍሬ",
+    "pronunciation": "firafire",
+    "category": "Eating"
+  },
+  {
+    "word": "Rice",
+    "english": "Rice",
+    "amharic": "ሩዝ",
+    "oromifa": "Roozii",
+    "tigrinya": "ሩዝ",
+    "pronunciation": "ruz",
+    "category": "Eating"
+  },
+  {
+    "word": "Soup",
+    "english": "Soup",
+    "amharic": "ሾርባ",
+    "oromifa": "Sopa",
+    "tigrinya": "ሾርባ",
+    "pronunciation": "shorba",
+    "category": "Eating"
+  },
+  {
+    "word": "Oil",
+    "english": "Oil",
+    "amharic": "ዘይት",
+    "oromifa": "Zayitii",
+    "tigrinya": "ዘይቲ",
+    "pronunciation": "zeyt",
+    "category": "Eating"
+  },
+  {
+    "word": "Butter",
+    "english": "Butter",
+    "amharic": "ቅቤ",
+    "oromifa": "Dhadhii",
+    "tigrinya": "ቅቤ",
+    "pronunciation": "kibe",
+    "category": "Eating"
+  },
+  {
+    "word": "Cheese",
+    "english": "Cheese",
+    "amharic": "አይብ",
+    "oromifa": "Ayibii",
+    "tigrinya": "አይብ",
+    "pronunciation": "ayib",
+    "category": "Eating"
+  },
+  {
+    "word": "Breakfast",
+    "english": "Breakfast",
+    "amharic": "ቁርስ",
+    "oromifa": "Qurxii",
+    "tigrinya": "ቁርስ",
+    "pronunciation": "qurs",
+    "category": "Eating"
+  },
+  {
+    "word": "Lunch",
+    "english": "Lunch",
+    "amharic": "ምሳ",
+    "oromifa": "Halkan",
+    "tigrinya": "ምሳ",
+    "pronunciation": "mesa",
+    "category": "Eating"
+  },
+  {
+    "word": "Dinner",
+    "english": "Dinner",
+    "amharic": "እራት",
+    "oromifa": "Galgalessa",
+    "tigrinya": "ድንሽ",
+    "pronunciation": "erat",
+    "category": "Eating"
+  },
+  {
+    "word": "Snack",
+    "english": "Snack",
+    "amharic": "ቀለም ምግብ",
+    "oromifa": "Hudduu",
+    "tigrinya": "ቀለም ምግብ",
+    "pronunciation": "kelem migib",
+    "category": "Eating"
+  },
+  {
+    "word": "Porridge",
+    "english": "Porridge",
+    "amharic": "ጥብስ",
+    "oromifa": "Atara",
+    "tigrinya": "ጥብስ",
+    "pronunciation": "tibs",
+    "category": "Eating"
+  },
+  {
+    "word": "Juice",
+    "english": "Juice",
+    "amharic": "ፍራፍሬ ጭማቂ",
+    "oromifa": "Furdaa",
+    "tigrinya": "ፍራፍሬ ማርማር",
+    "pronunciation": "firafire chimaki",
+    "category": "Eating"
+  },
+  {
+    "word": "Chicken",
+    "english": "Chicken",
+    "amharic": "ዶሮ",
+    "oromifa": "Hidda",
+    "tigrinya": "ድሙ",
+    "pronunciation": "doro",
+    "category": "Eating"
+  },
+  {
+    "word": "Egg",
+    "english": "Egg",
+    "amharic": "እንቁላል",
+    "oromifa": "Handhuura",
+    "tigrinya": "እንቁላል",
+    "pronunciation": "enqulal",
+    "category": "Eating"
+  },
+  {
+    "word": "Onion",
+    "english": "Onion",
+    "amharic": "ሽንኩርት",
+    "oromifa": "Qullubbii",
+    "tigrinya": "ሽንኩርቲ",
+    "pronunciation": "shinkurt",
+    "category": "Eating"
+  },
+  {
+    "word": "Tomato",
+    "english": "Tomato",
+    "amharic": "ቲማቲም",
+    "oromifa": "Timaatimii",
+    "tigrinya": "ቲማቲም",
+    "pronunciation": "timatim",
+    "category": "Eating"
+  },
+  {
+    "word": "Carrot",
+    "english": "Carrot",
+    "amharic": "ካሮት",
+    "oromifa": "Karotii",
+    "tigrinya": "ካሮት",
+    "pronunciation": "karot",
+    "category": "Eating"
+  },
+  {
+    "word": "Garlic",
+    "english": "Garlic",
+    "amharic": "ነጭ ሽንኩርት",
+    "oromifa": "Qullubbii Adii",
+    "tigrinya": "ባሕርያ ሽንኩርቲ",
+    "pronunciation": "nech shinkurt",
+    "category": "Eating"
+  },
+  {
+    "word": "Chili",
+    "english": "Chili",
+    "amharic": "ቃፍ",
+    "oromifa": "Qamadii Diimaa",
+    "tigrinya": "ቃፍ",
+    "pronunciation": "kaf",
+    "category": "Eating"
+  },
+  {
+    "word": "Big",
+    "english": "Big",
+    "amharic": "ትልቅ",
+    "oromifa": "Guddaa",
+    "tigrinya": "ኣብዚ",
+    "pronunciation": "tillik",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Small",
+    "english": "Small",
+    "amharic": "ትንሽ",
+    "oromifa": "Xinnaa",
+    "tigrinya": "ንእሽተ",
+    "pronunciation": "tinish",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Fast",
+    "english": "Fast",
+    "amharic": "ፈጣን",
+    "oromifa": "Saffisaa",
+    "tigrinya": "ተራእይ",
+    "pronunciation": "fet'an",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Slow",
+    "english": "Slow",
+    "amharic": "ዝግታ",
+    "oromifa": "Dadhabaa",
+    "tigrinya": "ዝተዘገየ",
+    "pronunciation": "zigita",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Beautiful",
+    "english": "Beautiful",
+    "amharic": "ቆንጆ",
+    "oromifa": "Bareedduu",
+    "tigrinya": "ምርጥ",
+    "pronunciation": "konjo",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Ugly",
+    "english": "Ugly",
+    "amharic": "ስቃሚ",
+    "oromifa": "Sibba",
+    "tigrinya": "ስዓር",
+    "pronunciation": "siqami",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Easy",
+    "english": "Easy",
+    "amharic": "ቀላል",
+    "oromifa": "Salphaa",
+    "tigrinya": "ቀሊል",
+    "pronunciation": "kelal",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Hard",
+    "english": "Hard",
+    "amharic": "ከባድ",
+    "oromifa": "Ulfaataa",
+    "tigrinya": "ከባድ",
+    "pronunciation": "kebad",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Happy",
+    "english": "Happy",
+    "amharic": "ደስተኛ",
+    "oromifa": "Gammachuu",
+    "tigrinya": "ደስ ዝበለ",
+    "pronunciation": "desitenga",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Sad",
+    "english": "Sad",
+    "amharic": "አሳፋሪ",
+    "oromifa": "Gadda",
+    "tigrinya": "ሓዘን",
+    "pronunciation": "asafari",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Hot",
+    "english": "Hot",
+    "amharic": "ትኩስ",
+    "oromifa": "Ho'a",
+    "tigrinya": "ትኹስ",
+    "pronunciation": "tikus",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Cold",
+    "english": "Cold",
+    "amharic": "ቀዝቃዛ",
+    "oromifa": "Qabbana",
+    "tigrinya": "ቀዝቃዛ",
+    "pronunciation": "kezikaza",
+    "category": "Adjectives"
+  },
+  {
+    "word": "New",
+    "english": "New",
+    "amharic": "አዲስ",
+    "oromifa": "Haarawa",
+    "tigrinya": "ሓድሽ",
+    "pronunciation": "adis",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Old",
+    "english": "Old",
+    "amharic": "አሮጌ",
+    "oromifa": "Moofaa",
+    "tigrinya": "ድሕን",
+    "pronunciation": "aroge",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Strong",
+    "english": "Strong",
+    "amharic": "ብርቱ",
+    "oromifa": "Jabaa",
+    "tigrinya": "ብርቱዕ",
+    "pronunciation": "birtu",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Weak",
+    "english": "Weak",
+    "amharic": "ደካማ",
+    "oromifa": "Laafaa",
+    "tigrinya": "ድኻ",
+    "pronunciation": "dekama",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Clean",
+    "english": "Clean",
+    "amharic": "ንጹህ",
+    "oromifa": "Qulqulluu",
+    "tigrinya": "ንጹህ",
+    "pronunciation": "nitsu",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Dirty",
+    "english": "Dirty",
+    "amharic": "ቆሻሻ",
+    "oromifa": "Balbala",
+    "tigrinya": "ቆሻሻ",
+    "pronunciation": "koshasha",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Rich",
+    "english": "Rich",
+    "amharic": "ባለጠጋ",
+    "oromifa": "Duunfaa",
+    "tigrinya": "ባለጠጋ",
+    "pronunciation": "baletega",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Poor",
+    "english": "Poor",
+    "amharic": "ድሀ",
+    "oromifa": "Hiyyeessa",
+    "tigrinya": "ድሃ",
+    "pronunciation": "diha",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Funny",
+    "english": "Funny",
+    "amharic": "አስቂኝ",
+    "oromifa": "Seka'a",
+    "tigrinya": "ሓሚሻዊ",
+    "pronunciation": "asikin",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Serious",
+    "english": "Serious",
+    "amharic": "ከባድ ነገር",
+    "oromifa": "Dhugaa",
+    "tigrinya": "ጽኑዕ",
+    "pronunciation": "kebad neger",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Friendly",
+    "english": "Friendly",
+    "amharic": "ወዳጅ",
+    "oromifa": "Jaallataa",
+    "tigrinya": "ጎቦኛ",
+    "pronunciation": "wedaj",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Angry",
+    "english": "Angry",
+    "amharic": "ቁጣማ",
+    "oromifa": "Aarii",
+    "tigrinya": "ቁጣዊ",
+    "pronunciation": "kutama",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Brave",
+    "english": "Brave",
+    "amharic": "አንደበት",
+    "oromifa": "Goottummaa",
+    "tigrinya": "ደፊኡ",
+    "pronunciation": "andebet",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Afraid",
+    "english": "Afraid",
+    "amharic": "ፈሪ",
+    "oromifa": "Dhiphachuu",
+    "tigrinya": "ፍርሒ",
+    "pronunciation": "feri",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Tired",
+    "english": "Tired",
+    "amharic": "ደከመ",
+    "oromifa": "Dadhabuu",
+    "tigrinya": "ድኻ",
+    "pronunciation": "dekeme",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Fresh",
+    "english": "Fresh",
+    "amharic": "ቀጥታ",
+    "oromifa": "Haaraa",
+    "tigrinya": "ሓዳስ",
+    "pronunciation": "keteta",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Old-fashioned",
+    "english": "Old-fashioned",
+    "amharic": "አሮጌ ቅርስ",
+    "oromifa": "Aadaa durii",
+    "tigrinya": "ድሕነት ልምድ",
+    "pronunciation": "aroge kirs",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Soft",
+    "english": "Soft",
+    "amharic": "ለስላሳ",
+    "oromifa": "Laafaa",
+    "tigrinya": "ለስላስ",
+    "pronunciation": "leslasa",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Hard (texture)",
+    "english": "Hard",
+    "amharic": "ጠንካራ",
+    "oromifa": "Cimdaa",
+    "tigrinya": "ጠንካራ",
+    "pronunciation": "tenkara",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Noisy",
+    "english": "Noisy",
+    "amharic": "ጫጫታ",
+    "oromifa": "Saxaxa",
+    "tigrinya": "ጫጫታ",
+    "pronunciation": "chachata",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Quiet",
+    "english": "Quiet",
+    "amharic": "ጸጥ",
+    "oromifa": "Calma",
+    "tigrinya": "ጸጥታ",
+    "pronunciation": "ts'eta",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Expensive",
+    "english": "Expensive",
+    "amharic": "ውድ",
+    "oromifa": "Qaalii",
+    "tigrinya": "ውድ",
+    "pronunciation": "wed",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Cheap",
+    "english": "Cheap",
+    "amharic": "ርካሽ",
+    "oromifa": "Arfii",
+    "tigrinya": "ርካሽ",
+    "pronunciation": "rikash",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Important",
+    "english": "Important",
+    "amharic": "አስፈላጊ",
+    "oromifa": "Barbaachisaa",
+    "tigrinya": "ኣሳፋሪ",
+    "pronunciation": "asfelagi",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Unimportant",
+    "english": "Unimportant",
+    "amharic": "አልፈለገም",
+    "oromifa": "Hin barbaachisne",
+    "tigrinya": "ዘይምንባር",
+    "pronunciation": "alfelegem",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Ambulance",
+    "english": "Ambulance",
+    "amharic": "የአስቸኳይ መኪና",
+    "oromifa": "Ambaalaansii",
+    "tigrinya": "መኪና ኣስተኻኺል",
+    "pronunciation": "yaschekwai mekina",
+    "category": "Emergency"
+  },
+  {
+    "word": "Fire",
+    "english": "Fire",
+    "amharic": "እሳት",
+    "oromifa": "Ibidaa",
+    "tigrinya": "እሳት",
+    "pronunciation": "isat",
+    "category": "Emergency"
+  },
+  {
+    "word": "Police",
+    "english": "Police",
+    "amharic": "ፖሊስ",
+    "oromifa": "Polisii",
+    "tigrinya": "ፖሊስ",
+    "pronunciation": "polis",
+    "category": "Emergency"
+  },
+  {
+    "word": "Hospital",
+    "english": "Hospital",
+    "amharic": "ሆስፒታል",
+    "oromifa": "Hospitaala",
+    "tigrinya": "ሆስፒታል",
+    "pronunciation": "hospital",
+    "category": "Emergency"
+  },
+  {
+    "word": "Accident",
+    "english": "Accident",
+    "amharic": "አደጋ",
+    "oromifa": "Mishaa",
+    "tigrinya": "ኣደጋ",
+    "pronunciation": "adega",
+    "category": "Emergency"
+  },
+  {
+    "word": "Injury",
+    "english": "Injury",
+    "amharic": "ውድቀት",
+    "oromifa": "Gubaa",
+    "tigrinya": "ሓደጋ",
+    "pronunciation": "wudeket",
+    "category": "Emergency"
+  },
+  {
+    "word": "Doctor",
+    "english": "Doctor",
+    "amharic": "ዶክተር",
+    "oromifa": "Doctora",
+    "tigrinya": "ዶክተር",
+    "pronunciation": "doktor",
+    "category": "Emergency"
+  },
+  {
+    "word": "Nurse",
+    "english": "Nurse",
+    "amharic": "ነርስ",
+    "oromifa": "Narsii",
+    "tigrinya": "ነርስ",
+    "pronunciation": "ners",
+    "category": "Emergency"
+  },
+  {
+    "word": "Help",
+    "english": "Help",
+    "amharic": "እርዳታ",
+    "oromifa": "Gargaarsa",
+    "tigrinya": "ሓገዝ",
+    "pronunciation": "erdeta",
+    "category": "Emergency"
+  },
+  {
+    "word": "Rescue",
+    "english": "Rescue",
+    "amharic": "ማዳን",
+    "oromifa": "Fayyisu",
+    "tigrinya": "ምድናን",
+    "pronunciation": "madan",
+    "category": "Emergency"
+  },
+  {
+    "word": "Firefighter",
+    "english": "Firefighter",
+    "amharic": "እሳት አንሳሽ",
+    "oromifa": "Of-eegu",
+    "tigrinya": "ወንድም እሳት",
+    "pronunciation": "esat ansash",
+    "category": "Emergency"
+  },
+  {
+    "word": "Emergency",
+    "english": "Emergency",
+    "amharic": "አስቸኳይ ነገር",
+    "oromifa": "Sammuu",
+    "tigrinya": "ኣስተኻኺል ነገር",
+    "pronunciation": "aschekwai neger",
+    "category": "Emergency"
+  },
+  {
+    "word": "Earthquake",
+    "english": "Earthquake",
+    "amharic": "የመሬት መናወጥ",
+    "oromifa": "Laftii Hirriba",
+    "tigrinya": "ዝነኛ",
+    "pronunciation": "yemeret menawet",
+    "category": "Emergency"
+  },
+  {
+    "word": "Flood",
+    "english": "Flood",
+    "amharic": "ጎርፍ",
+    "oromifa": "Dhibaa",
+    "tigrinya": "ጎርፍ",
+    "pronunciation": "gorf",
+    "category": "Emergency"
+  },
+  {
+    "word": "Evacuate",
+    "english": "Evacuate",
+    "amharic": "ማስወገድ",
+    "oromifa": "Baasu",
+    "tigrinya": "ምውጻእ",
+    "pronunciation": "maswoged",
+    "category": "Emergency"
+  },
+  {
+    "word": "Alert",
+    "english": "Alert",
+    "amharic": "ማስጠንቀቂያ",
+    "oromifa": "Alaartii",
+    "tigrinya": "ምልክት ምግላጽ",
+    "pronunciation": "mastanekekiya",
+    "category": "Emergency"
+  },
+  {
+    "word": "Danger",
+    "english": "Danger",
+    "amharic": "አደጋ",
+    "oromifa": "Soba",
+    "tigrinya": "ኣደጋ",
+    "pronunciation": "adega",
+    "category": "Emergency"
+  },
+  {
+    "word": "Safe",
+    "english": "Safe",
+    "amharic": "ደህና",
+    "oromifa": "Nagaa",
+    "tigrinya": "ደሓን",
+    "pronunciation": "dehna",
+    "category": "Emergency"
+  },
+  {
+    "word": "Shelter",
+    "english": "Shelter",
+    "amharic": "መጠለያ",
+    "oromifa": "Awwaallaa",
+    "tigrinya": "መጠለያ",
+    "pronunciation": "meteleya",
+    "category": "Emergency"
+  },
+  {
+    "word": "Collapse",
+    "english": "Collapse",
+    "amharic": "መውደቅ",
+    "oromifa": "Caccabu",
+    "tigrinya": "ምውዳቕ",
+    "pronunciation": "mewedek",
+    "category": "Emergency"
+  },
+  {
+    "word": "Blood",
+    "english": "Blood",
+    "amharic": "ደም",
+    "oromifa": "Dhiiga",
+    "tigrinya": "ደም",
+    "pronunciation": "dem",
+    "category": "Emergency"
+  },
+  {
+    "word": "Fire alarm",
+    "english": "Fire alarm",
+    "amharic": "የእሳት ማንቂያ",
+    "oromifa": "Ibidaa Aleeffannoo",
+    "tigrinya": "ማንቂያ እሳት",
+    "pronunciation": "yesat manekiya",
+    "category": "Emergency"
+  },
+  {
+    "word": "First Aid",
+    "english": "First Aid",
+    "amharic": "የመጀመሪያ እርዳታ",
+    "oromifa": "Gargaarsa jalqabaa",
+    "tigrinya": "የመጀመሪያ ሓገዝ",
+    "pronunciation": "yemegemeria erdata",
+    "category": "Emergency"
+  },
+  {
+    "word": "Survivor",
+    "english": "Survivor",
+    "amharic": "ተራፊ",
+    "oromifa": "Birmadhu",
+    "tigrinya": "ምሕደባይ",
+    "pronunciation": "terafi",
+    "category": "Emergency"
+  },
+  {
+    "word": "Explosion",
+    "english": "Explosion",
+    "amharic": "ፍንዳታ",
+    "oromifa": "Uffisuu",
+    "tigrinya": "ፍንዳታ",
+    "pronunciation": "findata",
+    "category": "Emergency"
+  },
+  {
+    "word": "Call",
+    "english": "Call",
+    "amharic": "ጥሪ",
+    "oromifa": "Waamicha",
+    "tigrinya": "ጥሪ",
+    "pronunciation": "t'ri",
+    "category": "Emergency"
+  },
+  {
+    "word": "Breathing",
+    "english": "Breathing",
+    "amharic": "መተንፈስ",
+    "oromifa": "Hammachuu",
+    "tigrinya": "መተንፈሲ",
+    "pronunciation": "metenfes",
+    "category": "Emergency"
+  },
+  {
+    "word": "CPR",
+    "english": "CPR",
+    "amharic": "ካርዲዮፑልሞናሪ እንቅስቃሴ",
+    "oromifa": "CPR",
+    "tigrinya": "ካርዲዮፑልሞናሪ እንቅስቃሴ",
+    "pronunciation": "CPR",
+    "category": "Emergency"
+  },
+  {
+    "word": "Fire exit",
+    "english": "Fire exit",
+    "amharic": "የእሳት መውጫ",
+    "oromifa": "Irra Bahaa Ibiddaa",
+    "tigrinya": "መውጫ እሳት",
+    "pronunciation": "yesat mewcha",
+    "category": "Emergency"
+  },
+  {
+    "word": "Burn",
+    "english": "Burn",
+    "amharic": "ቃጠሎ",
+    "oromifa": "Gubuu",
+    "tigrinya": "ቃጠሎ",
+    "pronunciation": "katelo",
+    "category": "Emergency"
+  },
+  {
+    "word": "Help!",
+    "english": "Help!",
+    "amharic": "እርዳታ!",
+    "oromifa": "Gargaaruu!",
+    "tigrinya": "ሓገዝ!",
+    "pronunciation": "ehrdata!",
+    "category": "Emergency"
+  },
+  {
+    "word": "I need a doctor",
+    "english": "I need a doctor",
+    "amharic": "ዶክተር ያስፈልገኛል",
+    "oromifa": "Doktara barbaada",
+    "tigrinya": "ዶክተር የድልየኒ ኣሎ",
+    "pronunciation": "doktor yasfelgeñal",
+    "category": "Emergency"
+  },
+  {
+    "word": "Call an ambulance",
+    "english": "Call an ambulance",
+    "amharic": "አምቡላንስ ይደውሉ",
+    "oromifa": "Ambulaansii bilbilaa",
+    "tigrinya": "ኣምቡላንስ ደውሉ",
+    "pronunciation": "ambulans yidewlu",
+    "category": "Emergency"
+  },
+  {
+    "word": "I’m sick",
+    "english": "I’m sick",
+    "amharic": "ታምሜአለሁ",
+    "oromifa": "Dhukkubaan jira",
+    "tigrinya": "ሕሙም እየ",
+    "pronunciation": "tammealehu",
+    "category": "Medical Phrases"
+  },
+  {
+    "word": "It hurts here",
+    "english": "It hurts here",
+    "amharic": "እዚህ ይለብሳል",
+    "oromifa": "Asii na dhukkubsisa",
+    "tigrinya": "ኣብዚ ይሳቐ",
+    "pronunciation": "ezih yilebsal",
+    "category": "Medical Phrases"
+  },
+  {
+    "word": "I have a fever",
+    "english": "I have a fever",
+    "amharic": "ትኩሳት አለኝ",
+    "oromifa": "Qoricha koo jira",
+    "tigrinya": "ትኩሳት ኣለኒ",
+    "pronunciation": "tikusat aleñ",
+    "category": "Medical Phrases"
+  },  {
+        "word": "Head",
+        "english": "Head",
+        "amharic": "ራስ",
+        "oromifa": "Mataa",
+        "tigrinya": "ርእሲ",
+        "pronunciation": "ras",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Hair",
+        "english": "Hair",
+        "amharic": "ፀጉር",
+        "oromifa": "Rifensa",
+        "tigrinya": "ጸጉሪ",
+        "pronunciation": "tsegure",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Forehead",
+        "english": "Forehead",
+        "amharic": "ግንባር",
+        "oromifa": "Garaa",
+        "tigrinya": "ግንባር",
+        "pronunciation": "ginbar",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Eye",
+        "english": "Eye",
+        "amharic": "ዓይን",
+        "oromifa": "Ija",
+        "tigrinya": "ዓይኒ",
+        "pronunciation": "ayn",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Eyebrow",
+        "english": "Eyebrow",
+        "amharic": "የዓይን ቅንድብ",
+        "oromifa": "Ija qixxeessaa",
+        "tigrinya": "ቅንድብ",
+        "pronunciation": "yayn kindib",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Eyelash",
+        "english": "Eyelash",
+        "amharic": "የዓይን ሽፋሽፍት",
+        "oromifa": "Ija qixxeessaa",
+        "tigrinya": "ሽፋሽፍቲ",
+        "pronunciation": "yayn shifashift",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Nose",
+        "english": "Nose",
+        "amharic": "አፍንጫ",
+        "oromifa": "Funyaan",
+        "tigrinya": "ኣፍንጫ",
+        "pronunciation": "afnicha",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Mouth",
+        "english": "Mouth",
+        "amharic": "አፍ",
+        "oromifa": "Afaan",
+        "tigrinya": "ኣፍ",
+        "pronunciation": "af",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Lip",
+        "english": "Lip",
+        "amharic": "ከንፈር",
+        "oromifa": "Dhangala",
+        "tigrinya": "ከንፈር",
+        "pronunciation": "kenfer",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Tongue",
+        "english": "Tongue",
+        "amharic": "ምላስ",
+        "oromifa": "Arraba",
+        "tigrinya": "ምላስ",
+        "pronunciation": "milas",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Teeth",
+        "english": "Teeth",
+        "amharic": "ጥርስ",
+        "oromifa": "Ilkaan",
+        "tigrinya": "ስኒ",
+        "pronunciation": "tirs",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Cheek",
+        "english": "Cheek",
+        "amharic": "ጉንጭ",
+        "oromifa": "Gogaa",
+        "tigrinya": "ጉንጪ",
+        "pronunciation": "gunch",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Chin",
+        "english": "Chin",
+        "amharic": "አገጭ",
+        "oromifa": "Angara",
+        "tigrinya": "ኣገጭ",
+        "pronunciation": "agech",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Neck",
+        "english": "Neck",
+        "amharic": "አንገት",
+        "oromifa": "Goofaa",
+        "tigrinya": "ኣንገት",
+        "pronunciation": "anget",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Throat",
+        "english": "Throat",
+        "amharic": "ጉሮሮ",
+        "oromifa": "Huurgoo",
+        "tigrinya": "ጉሮሮ",
+        "pronunciation": "guroro",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Shoulder",
+        "english": "Shoulder",
+        "amharic": "ትከሻ",
+        "oromifa": "Garba",
+        "tigrinya": "መንኩስና",
+        "pronunciation": "tikesa",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Arm",
+        "english": "Arm",
+        "amharic": "ክንድ",
+        "oromifa": "Harka",
+        "tigrinya": "ቅልቛጽ",
+        "pronunciation": "kind",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Elbow",
+        "english": "Elbow",
+        "amharic": "ክርን",
+        "oromifa": "Cuffaa",
+        "tigrinya": "ክርን",
+        "pronunciation": "kirn",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Forearm",
+        "english": "Forearm",
+        "amharic": "ታችኛው ክንድ",
+        "oromifa": "Harka jala",
+        "tigrinya": "ታሕቲ ቅልቛጽ",
+        "pronunciation": "tachnaw kind",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Wrist",
+        "english": "Wrist",
+        "amharic": "የእጅ አንጓ",
+        "oromifa": "Cuffaa harkaa",
+        "tigrinya": "ኣንጕዕ ኢድ",
+        "pronunciation": "yeij angwa",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Hand",
+        "english": "Hand",
+        "amharic": "እጅ",
+        "oromifa": "Harka",
+        "tigrinya": "ኢድ",
+        "pronunciation": "ij",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Palm",
+        "english": "Palm",
+        "amharic": "የእጅ መዳፍ",
+        "oromifa": "Caffee harkaa",
+        "tigrinya": "ንጣፍ ኢድ",
+        "pronunciation": "yeij medaf",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Finger",
+        "english": "Finger",
+        "amharic": "ጣት",
+        "oromifa": "Quuba",
+        "tigrinya": "ኣጻብዕ",
+        "pronunciation": "tat",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Thumb",
+        "english": "Thumb",
+        "amharic": "አውራ ጣት",
+        "oromifa": "Quuba guddaa",
+        "tigrinya": "ኣውራ ኣጻብዕ",
+        "pronunciation": "awra tat",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Nail",
+        "english": "Nail",
+        "amharic": "ጥፍር",
+        "oromifa": "Sunsuma",
+        "tigrinya": "ጽፍሪ",
+        "pronunciation": "tifir",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Chest",
+        "english": "Chest",
+        "amharic": "ደረት",
+        "oromifa": "Qoma",
+        "tigrinya": "ኣፍልቡ",
+        "pronunciation": "deret",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Heart",
+        "english": "Heart",
+        "amharic": "ልብ",
+        "oromifa": "Onnee",
+        "tigrinya": "ልቢ",
+        "pronunciation": "lib",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Lung",
+        "english": "Lung",
+        "amharic": "ሳንባ",
+        "oromifa": "Somba",
+        "tigrinya": "ሳንባ",
+        "pronunciation": "sanba",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Back",
+        "english": "Back",
+        "amharic": "ጀርባ",
+        "oromifa": "Duuba",
+        "tigrinya": "ድሕሪ",
+        "pronunciation": "jerba",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Spine",
+        "english": "Spine",
+        "amharic": "የጀርባ አጥንት",
+        "oromifa": "Lafee duuba",
+        "tigrinya": "ዓጽሚ ድሕሪ",
+        "pronunciation": "yejerba atint",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Waist",
+        "english": "Waist",
+        "amharic": "ወገብ",
+        "oromifa": "Citaa",
+        "tigrinya": "መቐን",
+        "pronunciation": "wegeb",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Abdomen",
+        "english": "Abdomen",
+        "amharic": "ሆድ",
+        "oromifa": "Garaa",
+        "tigrinya": "ሆዲ",
+        "pronunciation": "hod",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Stomach",
+        "english": "Stomach",
+        "amharic": "ጨጓራ",
+        "oromifa": "Uurra",
+        "tigrinya": "ከብዲ",
+        "pronunciation": "chegwara",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Hip",
+        "english": "Hip",
+        "amharic": "ዳሌ",
+        "oromifa": "Cinaa",
+        "tigrinya": "ወስኪ",
+        "pronunciation": "dale",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Leg",
+        "english": "Leg",
+        "amharic": "እግር",
+        "oromifa": "Luka",
+        "tigrinya": "እግሪ",
+        "pronunciation": "igir",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Thigh",
+        "english": "Thigh",
+        "amharic": "ጭን",
+        "oromifa": "Muraa",
+        "tigrinya": "ጭን",
+        "pronunciation": "chin",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Knee",
+        "english": "Knee",
+        "amharic": "ጉልበት",
+        "oromifa": "Jilba",
+        "tigrinya": "ጉልበት",
+        "pronunciation": "gulbet",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Calf",
+        "english": "Calf",
+        "amharic": "ውሻ ጥፍር",
+        "oromifa": "Cangachaa",
+        "tigrinya": "ሻንቅላ",
+        "pronunciation": "wusha tifir",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Ankle",
+        "english": "Ankle",
+        "amharic": "የእግር አንጓ",
+        "oromifa": "Cuffaa luka",
+        "tigrinya": "ኣንጕዕ እግሪ",
+        "pronunciation": "yeigir angwa",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Foot",
+        "english": "Foot",
+        "amharic": "እግር",
+        "oromifa": "Miila",
+        "tigrinya": "እግሪ",
+        "pronunciation": "igir",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Heel",
+        "english": "Heel",
+        "amharic": "ተረከዝ",
+        "oromifa": "Dhiita miilaa",
+        "tigrinya": "ተረከዝ",
+        "pronunciation": "terekez",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Toe",
+        "english": "Toe",
+        "amharic": "የእግር ጣት",
+        "oromifa": "Quuba miila",
+        "tigrinya": "ኣጻብዕ እግሪ",
+        "pronunciation": "yeigir tat",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Skin",
+        "english": "Skin",
+        "amharic": "ቆዳ",
+        "oromifa": "Gogaa",
+        "tigrinya": "ቆርበት",
+        "pronunciation": "koda",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Bone",
+        "english": "Bone",
+        "amharic": "አጥንት",
+        "oromifa": "Lafee",
+        "tigrinya": "ዓጽሚ",
+        "pronunciation": "atint",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Muscle",
+        "english": "Muscle",
+        "amharic": "ጡንቻ",
+        "oromifa": "Mudaa",
+        "tigrinya": "ስጋ",
+        "pronunciation": "tuncha",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Blood",
+        "english": "Blood",
+        "amharic": "ደም",
+        "oromifa": "Dhiiga",
+        "tigrinya": "ደም",
+        "pronunciation": "dem",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Vein",
+        "english": "Vein",
+        "amharic": "ደም መላሽ",
+        "oromifa": "Dhiiga deemsa",
+        "tigrinya": "ደም መሕወይ",
+        "pronunciation": "dem melash",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Brain",
+        "english": "Brain",
+        "amharic": "አንጎል",
+        "oromifa": "Sammoo",
+        "tigrinya": "ሞዖ",
+        "pronunciation": "angol",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Ear",
+        "english": "Ear",
+        "amharic": "ጆሮ",
+        "oromifa": "Gurra",
+        "tigrinya": "እዝኒ",
+        "pronunciation": "joro",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Torso",
+        "english": "Torso",
+        "amharic": "የሰውነት ክፍል",
+        "oromifa": "Qabduu",
+        "tigrinya": "ስጋ ኣካል",
+        "pronunciation": "yesewnet kifil",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Rib",
+        "english": "Rib",
+        "amharic": "ጎድን",
+        "oromifa": "Qadabduu",
+        "tigrinya": "ጎድኒ",
+        "pronunciation": "godin",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Liver",
+        "english": "Liver",
+        "amharic": "ጉበት",
+        "oromifa": "Kaanfudhaa",
+        "tigrinya": "ጉብዝ",
+        "pronunciation": "gubet",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Kidney",
+        "english": "Kidney",
+        "amharic": "ኩላሊት",
+        "oromifa": "Kaaluu",
+        "tigrinya": "ኩላሊት",
+        "pronunciation": "kulalit",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Intestine",
+        "english": "Intestine",
+        "amharic": "አንጀት",
+        "oromifa": "Uurra",
+        "tigrinya": "ከብዲ",
+        "pronunciation": "anjet",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Bladder",
+        "english": "Bladder",
+        "amharic": "ፊኛ",
+        "oromifa": "Foonqa",
+        "tigrinya": "ፊኛ",
+        "pronunciation": "finya",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Joint",
+        "english": "Joint",
+        "amharic": "መገጣጠሚያ",
+        "oromifa": "Cuffaa",
+        "tigrinya": "መጋጠሚ",
+        "pronunciation": "megetatemia",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Tendon",
+        "english": "Tendon",
+        "amharic": "ጅማት",
+        "oromifa": "Jilaa",
+        "tigrinya": "ጅማት",
+        "pronunciation": "jimat",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Eyelid",
+        "english": "Eyelid",
+        "amharic": "የዓይን መሸፈኛ",
+        "oromifa": "Ija duudhaa",
+        "tigrinya": "መሸፈኒ ዓይኒ",
+        "pronunciation": "yayn meshefenya",
+        "category": "Body Parts"
+    },
+    {
+        "word": "Gum",
+        "english": "Gum",
+        "amharic": "ድድ",
+        "oromifa": "Jiffaa",
+        "tigrinya": "ድድ",
+        "pronunciation": "did",
+        "category": "Body Parts"
+    },
+  {
+    "word": "Pain",
+    "english": "Pain",
+    "amharic": "ህመም",
+    "oromifa": "Dhukkuba",
+    "tigrinya": "ሕማም",
+    "pronunciation": "hemam",
+    "category": "Symptoms"
+  },
+  {
+    "word": "Cough",
+    "english": "Cough",
+    "amharic": "ሳል",
+    "oromifa": "Qufaa",
+    "tigrinya": "ስል",
+    "pronunciation": "sal",
+    "category": "Symptoms"
+  },
+  {
+    "word": "Diarrhea",
+    "english": "Diarrhea",
+    "amharic": "ምራጭ",
+    "oromifa": "Dhukkuba fincaanii",
+    "tigrinya": "ምራጽ",
+    "pronunciation": "mirach",
+    "category": "Symptoms"
+  },
+  {
+    "word": "Malaria",
+    "english": "Malaria",
+    "amharic": "ናባ",
+    "oromifa": "Nabaa",
+    "tigrinya": "ናባ",
+    "pronunciation": "naba",
+    "category": "Illnesses"
+  }, 
+  {
+    "word": "Medicine",
+    "english": "Medicine",
+    "amharic": "መድሃኒት",
+    "oromifa": "Qorichaa",
+    "tigrinya": "መድሓኒት",
+    "pronunciation": "medhanit",
+    "category": "Pharmacy"
+  },
+  {
+    "word": "Pharmacy",
+    "english": "Pharmacy",
+    "amharic": "ፋርማሲ",
+    "oromifa": "Farmasii",
+    "tigrinya": "ፋርማሲ",
+    "pronunciation": "pharmacy",
+    "category": "Pharmacy"
+  },
+  {
+    "word": "Prescription",
+    "english": "Prescription",
+    "amharic": "ፍቃድ ውስጥ",
+    "oromifa": "Qoricha barreessuu",
+    "tigrinya": "ፍቓድ መድሓኒት",
+    "pronunciation": "fikad wust",
+    "category": "Pharmacy"
+  },
+  {
+    "word": "Teacher",
+    "english": "Teacher",
+    "amharic": "መምህር",
+    "oromifa": "Barsiisaa",
+    "tigrinya": "መምህር",
+    "pronunciation": "mämhïr",
+    "category": "Occupations"
+  },
+  {
+    "word": "Doctor",
+    "english": "Doctor",
+    "amharic": "ሐኪም",
+    "oromifa": "Doktor",
+    "tigrinya": "ሐኪም",
+    "pronunciation": "hakïm",
+    "category": "Occupations"
+  },
+  {
+    "word": "Engineer",
+    "english": "Engineer",
+    "amharic": "መሳሪያ ባለሞያ",
+    "oromifa": "Injiner",
+    "tigrinya": "መሳሪያ ባለሞያ",
+    "pronunciation": "mäsariyä bälämoya",
+    "category": "Occupations"
+  },
+  {
+    "word": "Nurse",
+    "english": "Nurse",
+    "amharic": "ሐኪማት",
+    "oromifa": "Narsi",
+    "tigrinya": "ሐኪማት",
+    "pronunciation": "hakïmat",
+    "category": "Occupations"
+  },
+  {
+    "word": "Farmer",
+    "english": "Farmer",
+    "amharic": "አባል አንደኛ",
+    "oromifa": "Qotee",
+    "tigrinya": "ገበሬ",
+    "pronunciation": "abäl āndäña",
+    "category": "Occupations"
+  },
+  {
+    "word": "Chef",
+    "english": "Chef",
+    "amharic": "ምሳ ተመን",
+    "oromifa": "Cafii",
+    "tigrinya": "ምሳ ተመን",
+    "pronunciation": "mïsä tämën",
+    "category": "Occupations"
+  },
+  {
+    "word": "Lawyer",
+    "english": "Lawyer",
+    "amharic": "ሐበሻ",
+    "oromifa": "Abbaa Seeraa",
+    "tigrinya": "ሐበሻ",
+    "pronunciation": "habäsha",
+    "category": "Occupations"
+  },
+  {
+    "word": "Soldier",
+    "english": "Soldier",
+    "amharic": "ሰራዊት",
+    "oromifa": "Waraana",
+    "tigrinya": "ሰራዊት",
+    "pronunciation": "särawït",
+    "category": "Occupations"
+  },
+  {
+    "word": "Scientist",
+    "english": "Scientist",
+    "amharic": "ሳይንቲስት",
+    "oromifa": "Saayinsiistii",
+    "tigrinya": "ሳይንቲስት",
+    "pronunciation": "sayïntïst",
+    "category": "Occupations"
+  },
+  {
+    "word": "Artist",
+    "english": "Artist",
+    "amharic": "ስነ ጥበብ",
+    "oromifa": "Artiistii",
+    "tigrinya": "ስነ ጥበብ",
+    "pronunciation": "sïnä tïbäb",
+    "category": "Occupations"
+  },
+  {
+    "word": "Journalist",
+    "english": "Journalist",
+    "amharic": "ጋዜጠኛ",
+    "oromifa": "Oduu Barreessaa",
+    "tigrinya": "ጋዜጠኛ",
+    "pronunciation": "gazetäñña",
+    "category": "Occupations"
+  },
+  {
+    "word": "Waiter",
+    "english": "Waiter",
+    "amharic": "ተከታታይ",
+    "oromifa": "Tajaajilaa",
+    "tigrinya": "ተከታታይ",
+    "pronunciation": "täkätatayi",
+    "category": "Occupations"
+  },
+  {
+    "word": "Driver",
+    "english": "Driver",
+    "amharic": "መንገድ ተምሳሌት",
+    "oromifa": "Tajaajilaa",
+    "tigrinya": "መንገድ ተምሳሌት",
+    "pronunciation": "mängäd tämsälet",
+    "category": "Occupations"
+  },
+  {
+    "word": "Plumber",
+    "english": "Plumber",
+    "amharic": "ተምሳሌት እና ግንባታ ስርስር",
+    "oromifa": "Tajaajilaa",
+    "tigrinya": "ተምሳሌት እና ግንባታ ስርስር",
+    "pronunciation": "mängäd tämsälet",
+    "category": "Occupations"
+  },
+  {
+    "word": "Carpenter",
+    "english": "Carpenter",
+    "amharic": "ተተኪ",
+    "oromifa": "Mäggärree",
+    "tigrinya": "ተተኪ",
+    "pronunciation": "tätäkï",
+    "category": "Occupations"
+  },
+  {
+    "word": "Electrician",
+    "english": "Electrician",
+    "amharic": "ኤሌክትሪክ",
+    "oromifa": "Injiner Elektirikii",
+    "tigrinya": "ኤሌክትሪክ",
+    "pronunciation": "ïlɛktrïk",
+    "category": "Occupations"
+  },
+  {
+    "word": "Tailor",
+    "english": "Tailor",
+    "amharic": "ተለመድ በሸማቸ",
+    "oromifa": "Tajaajilaa",
+    "tigrinya": "ተለመድ በሸማቸ",
+    "pronunciation": "tälämäd bïshämațch",
+    "category": "Occupations"
+  },
+  {
+    "word": "Plumber",
+    "english": "Plumber",
+    "amharic": "አምባጣ አቅም",
+    "oromifa": "Biyyaa Maqaa",
+    "tigrinya": "አምባጣ አቅም",
+    "pronunciation": "ambata",
+    "category": "Occupations"
+    },
+   {
+        "word": "Aunt's daughter",
+        "english": "Aunt's daughter",
+        "amharic": "አንቺ ሴት ልጅ",
+        "oromifa": "Eetaa Ilmi",
+        "tigrinya": "አንቺ ሴት ልጅ",
+        "pronunciation": "anti sët lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Brother",
+        "english": "Brother",
+        "amharic": "ወንድም",
+        "oromifa": "Obboleessa",
+        "tigrinya": "ሓው",
+        "pronunciation": "wendim",
+        "category": "Relatives"
+    },
+    {
+        "word": "Sister",
+        "english": "Sister",
+        "amharic": "እህት",
+        "oromifa": "Obboleettii",
+        "tigrinya": "ሓፍቲ",
+        "pronunciation": "iht",
+        "category": "Relatives"
+    },
+    {
+        "word": "Father",
+        "english": "Father",
+        "amharic": "አባት",
+        "oromifa": "Abbaa",
+        "tigrinya": "ኣቦ",
+        "pronunciation": "abat",
+        "category": "Relatives"
+    },
+    {
+        "word": "Mother",
+        "english": "Mother",
+        "amharic": "እናት",
+        "oromifa": "Haadha",
+        "tigrinya": "እኸ",
+        "pronunciation": "inat",
+        "category": "Relatives"
+    },
+    {
+        "word": "Grandfather",
+        "english": "Grandfather",
+        "amharic": "አያት",
+        "oromifa": "Abbaa Boorana",
+        "tigrinya": "ሓጎ",
+        "pronunciation": "ayat",
+        "category": "Relatives"
+    },
+    {
+        "word": "Grandmother",
+        "english": "Grandmother",
+        "amharic": "አያት",
+        "oromifa": "Akkoo",
+        "tigrinya": "ሓግኣ",
+        "pronunciation": "ayat",
+        "category": "Relatives"
+    },
+    {
+        "word": "Uncle",
+        "english": "Uncle",
+        "amharic": "አጎት",
+        "oromifa": "Abbaa Warraa",
+        "tigrinya": "ኣያ",
+        "pronunciation": "agot",
+        "category": "Relatives"
+    },
+    {
+        "word": "Aunt",
+        "english": "Aunt",
+        "amharic": "አንቺ",
+        "oromifa": "Eessuma",
+        "tigrinya": "ኣከ",
+        "pronunciation": "anchi",
+        "category": "Relatives"
+    },
+    {
+        "word": "Cousin",
+        "english": "Cousin",
+        "amharic": "የአጎት ልጅ",
+        "oromifa": "Ilmi Eessuma",
+        "tigrinya": "የሓው ወዲ",
+        "pronunciation": "yagot lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Husband",
+        "english": "Husband",
+        "amharic": "ባል",
+        "oromifa": "Abbaa Mana",
+        "tigrinya": "ባል",
+        "pronunciation": "bal",
+        "category": "Relatives"
+    },
+    {
+        "word": "Wife",
+        "english": "Wife",
+        "amharic": "ሚስት",
+        "oromifa": "Haadha Mana",
+        "tigrinya": "ሰበይቲ",
+        "pronunciation": "mist",
+        "category": "Relatives"
+    },
+    {
+        "word": "Son",
+        "english": "Son",
+        "amharic": "ወንድ ልጅ",
+        "oromifa": "Ilma",
+        "tigrinya": "ወዲ",
+        "pronunciation": "wend lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Daughter",
+        "english": "Daughter",
+        "amharic": "ሴት ልጅ",
+        "oromifa": "Intala",
+        "tigrinya": "ጓል",
+        "pronunciation": "sët lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Nephew",
+        "english": "Nephew",
+        "amharic": "የወንድም ልጅ",
+        "oromifa": "Ilma Obboleessa",
+        "tigrinya": "ወዲ ሓው",
+        "pronunciation": "yewendim lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Niece",
+        "english": "Niece",
+        "amharic": "የእህት ልጅ",
+        "oromifa": "Intala Obboleettii",
+        "tigrinya": "ጓል ሓፍቲ",
+        "pronunciation": "yeiht lij",
+        "category": "Relatives"
+    },
+    {
+        "word": "Friend",
+        "english": "Friend",
+        "amharic": "ጓደኛ",
+        "oromifa": "Hiriyaa",
+        "tigrinya": "ዓርከ",
+        "pronunciation": "gwadegna",
+        "category": "Relationships"
+    },
+    {
+        "word": "Neighbor",
+        "english": "Neighbor",
+        "amharic": "ጎረቤት",
+        "oromifa": "Itti Gaara",
+        "tigrinya": "ጎረቤት",
+        "pronunciation": "gorebët",
+        "category": "Relationships"
+    },
+    {
+        "word": "Teacher",
+        "english": "Teacher",
+        "amharic": "አስተማሪ",
+        "oromifa": "Barsiisaa",
+        "tigrinya": "መምህር",
+        "pronunciation": "astemari",
+        "category": "Professions"
+    },
+    {
+        "word": "Student",
+        "english": "Student",
+        "amharic": "ተማሪ",
+        "oromifa": "Barataa",
+        "tigrinya": "ተምሃራይ",
+        "pronunciation": "temari",
+        "category": "Professions"
+    },
+    {
+        "word": "Doctor",
+        "english": "Doctor",
+        "amharic": "ዶክተር",
+        "oromifa": "Doofaa",
+        "tigrinya": "ዶክተር",
+        "pronunciation": "dokter",
+        "category": "Professions"
+    },
+    {
+        "word": "Nurse",
+        "english": "Nurse",
+        "amharic": "ነርስ",
+        "oromifa": "Naarsii",
+        "tigrinya": "ነርስ",
+        "pronunciation": "ners",
+        "category": "Professions"
+    },
+    {
+        "word": "House",
+        "english": "House",
+        "amharic": "ቤት",
+        "oromifa": "Mana",
+        "tigrinya": "ገዛ",
+        "pronunciation": "bët",
+        "category": "Places"
+    },
+    {
+        "word": "School",
+        "english": "School",
+        "amharic": "ትምህርት ቤት",
+        "oromifa": "Mana Barumsaa",
+        "tigrinya": "ቤት ትምህርቲ",
+        "pronunciation": "timhirt bët",
+        "category": "Places"
+    },
+    {
+        "word": "Market",
+        "english": "Market",
+        "amharic": "ገበያ",
+        "oromifa": "Gabayaa",
+        "tigrinya": "ዕዳጋ",
+        "pronunciation": "gebeya",
+        "category": "Places"
+    },
+    {
+        "word": "Church",
+        "english": "Church",
+        "amharic": "ቤተክርስቲያን",
+        "oromifa": "Mana Kiristaana",
+        "tigrinya": "ቤተክርስትያን",
+        "pronunciation": "bëtekristiyan",
+        "category": "Places"
+    },
+    {
+        "word": "Mosque",
+        "english": "Mosque",
+        "amharic": "መስጊድ",
+        "oromifa": "Masjiida",
+        "tigrinya": "መስጊድ",
+        "pronunciation": "mesgid",
+        "category": "Places"
+    },
+    {
+        "word": "Water",
+        "english": "Water",
+        "amharic": "ውሃ",
+        "oromifa": "Bishaan",
+        "tigrinya": "ማይ",
+        "pronunciation": "wuha",
+        "category": "Nature"
+    },
+    {
+        "word": "Fire",
+        "english": "Fire",
+        "amharic": "እሳት",
+        "oromifa": "Ibiddii",
+        "tigrinya": "እሳት",
+        "pronunciation": "isat",
+        "category": "Nature"
+    },
+    {
+        "word": "Sun",
+        "english": "Sun",
+        "amharic": "ፀሐይ",
+        "oromifa": "Adduu",
+        "tigrinya": "ፀሓይ",
+        "pronunciation": "tsihay",
+        "category": "Nature"
+    },
+    {
+        "word": "Moon",
+        "english": "Moon",
+        "amharic": "ጨረቃ",
+        "oromifa": "Ji’aa",
+        "tigrinya": "ወርሒ",
+        "pronunciation": "chereqa",
+        "category": "Nature"
+    },
+    {
+        "word": "Tree",
+        "english": "Tree",
+        "amharic": "ዛፍ",
+        "oromifa": "Muka",
+        "tigrinya": "ኦም",
+        "pronunciation": "zaf",
+        "category": "Nature"
+    },
+    {
+        "word": "Food",
+        "english": "Food",
+        "amharic": "ምግብ",
+        "oromifa": "Nyaata",
+        "tigrinya": "ምግቢ",
+        "pronunciation": "migib",
+        "category": "Daily Life"
+    },
+    {
+        "word": "Bread",
+        "english": "Bread",
+        "amharic": "ዳቦ",
+        "oromifa": "Daabboo",
+        "tigrinya": "ባኒ",
+        "pronunciation": "dabo",
+        "category": "Daily Life"
+    },
+    {
+        "word": "Milk",
+        "english": "Milk",
+        "amharic": "ወተት",
+        "oromifa": "Aannan",
+        "tigrinya": "ጸባ",
+        "pronunciation": "wetet",
+        "category": "Daily Life"
+    },
+    {
+        "word": "Clothes",
+        "english": "Clothes",
+        "amharic": "ልብስ",
+        "oromifa": "Uffata",
+        "tigrinya": "ልብሲ",
+        "pronunciation": "libis",
+        "category": "Daily Life"
+    },
+    {
+        "word": "Shoes",
+        "english": "Shoes",
+        "amharic": "ጫማ",
+        "oromifa": "Kamphee",
+        "tigrinya": "ጫማ",
+        "pronunciation": "chama",
+        "category": "Daily Life"
+    },
+    {
+        "word": "Book",
+        "english": "Book",
+        "amharic": "መጽሐፍ",
+        "oromifa": "Kitaaba",
+        "tigrinya": "መጽሓፍ",
+        "pronunciation": "metshaf",
+        "category": "Objects"
+    },
+    {
+        "word": "Pen",
+        "english": "Pen",
+        "amharic": "ብእር",
+        "oromifa": "Peenii",
+        "tigrinya": "ብርዒ",
+        "pronunciation": "bir",
+        "category": "Objects"
+    },
+    {
+        "word": "Table",
+        "english": "Table",
+        "amharic": "ጠረጴዛ",
+        "oromifa": "Teepilee",
+        "tigrinya": "መንበር",
+        "pronunciation": "terapeza",
+        "category": "Objects"
+    },
+    {
+        "word": "Chair",
+        "english": "Chair",
+        "amharic": "ወንበር",
+        "oromifa": "Kursii",
+        "tigrinya": "መንበር",
+        "pronunciation": "wenber",
+        "category": "Objects"
+    },
+  {
+        "word": "Rain",
+        "english": "Rain",
+        "amharic": "ዝናብ",
+        "oromifa": "Roobaa",
+        "tigrinya": "ዝናብ",
+        "pronunciation": "zinab",
+        "category": "Weather"
+    },
+    {
+        "word": "Sun",
+        "english": "Sun",
+        "amharic": "ፀሐይ",
+        "oromifa": "Adduu",
+        "tigrinya": "ፀሓይ",
+        "pronunciation": "tsihay",
+        "category": "Weather"
+    },
+    {
+        "word": "Cloud",
+        "english": "Cloud",
+        "amharic": "ደመና",
+        "oromifa": "Dukkana",
+        "tigrinya": "ደመና",
+        "pronunciation": "demena",
+        "category": "Weather"
+    },
+    {
+        "word": "Wind",
+        "english": "Wind",
+        "amharic": "ነፋስ",
+        "oromifa": "Buura",
+        "tigrinya": "ንፋስ",
+        "pronunciation": "nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Snow",
+        "english": "Snow",
+        "amharic": "በረዶ",
+        "oromifa": "Caaca",
+        "tigrinya": "በረዶ",
+        "pronunciation": "beredo",
+        "category": "Weather"
+    },
+    {
+        "word": "Fog",
+        "english": "Fog",
+        "amharic": "ጉም",
+        "oromifa": "Hurruma",
+        "tigrinya": "ምንጣፍ",
+        "pronunciation": "gum",
+        "category": "Weather"
+    },
+    {
+        "word": "Storm",
+        "english": "Storm",
+        "amharic": "ነጎድጓድ",
+        "oromifa": "Hormaata",
+        "tigrinya": "ታዕትዓት",
+        "pronunciation": "negodguad",
+        "category": "Weather"
+    },
+    {
+        "word": "Thunder",
+        "english": "Thunder",
+        "amharic": "ነጎድጓድ",
+        "oromifa": "Dukkana Qilleensa",
+        "tigrinya": "ራዕዲ",
+        "pronunciation": "negodguad",
+        "category": "Weather"
+    },
+    {
+        "word": "Lightning",
+        "english": "Lightning",
+        "amharic": "መብረቅ",
+        "oromifa": "Birkii",
+        "tigrinya": "በርቂ",
+        "pronunciation": "mebreq",
+        "category": "Weather"
+    },
+    {
+        "word": "Rainbow",
+        "english": "Rainbow",
+        "amharic": "ቀስተ ደመና",
+        "oromifa": "Dambalii",
+        "tigrinya": "ቀስተ ደመና",
+        "pronunciation": "qeste demena",
+        "category": "Weather"
+    },
+    {
+        "word": "Heat",
+        "english": "Heat",
+        "amharic": "ሙቀት",
+        "oromifa": "Ho’aa",
+        "tigrinya": "ሙቐት",
+        "pronunciation": "muqet",
+        "category": "Weather"
+    },
+    {
+        "word": "Cold",
+        "english": "Cold",
+        "amharic": "ቅዝቃዜ",
+        "oromifa": "Qorra",
+        "tigrinya": "ቅዝቃዜ",
+        "pronunciation": "qizqaze",
+        "category": "Weather"
+    },
+    {
+        "word": "Mist",
+        "english": "Mist",
+        "amharic": "ጭጋግ",
+        "oromifa": "Hurruma",
+        "tigrinya": "ምንጣፍ",
+        "pronunciation": "chigag",
+        "category": "Weather"
+    },
+    {
+        "word": "Hail",
+        "english": "Hail",
+        "amharic": "በረዶ ዝናብ",
+        "oromifa": "Roobaa Caaca",
+        "tigrinya": "በረዶ",
+        "pronunciation": "beredo zinab",
+        "category": "Weather"
+    },
+    {
+        "word": "Drizzle",
+        "english": "Drizzle",
+        "amharic": "ቀላል ዝናብ",
+        "oromifa": "Roobaa Xiqqaa",
+        "tigrinya": "ፍሽኽታ",
+        "pronunciation": "qelal zinab",
+        "category": "Weather"
+    },
+    {
+        "word": "Humidity",
+        "english": "Humidity",
+        "amharic": "እርጥበት",
+        "oromifa": "Dhiphaa",
+        "tigrinya": "እርጥበት",
+        "pronunciation": "irtibet",
+        "category": "Weather"
+    },
+    {
+        "word": "Frost",
+        "english": "Frost",
+        "amharic": "በረዶ ግንድ",
+        "oromifa": "Qorra Muka",
+        "tigrinya": "በረዶ",
+        "pronunciation": "beredo gind",
+        "category": "Weather"
+    },
+    {
+        "word": "Sunshine",
+        "english": "Sunshine",
+        "amharic": "የፀሐይ ብርሃን",
+        "oromifa": "Ibsa Adduu",
+        "tigrinya": "ብርሃን ፀሓይ",
+        "pronunciation": "yetsihay birhan",
+        "category": "Weather"
+    },
+    {
+        "word": "Breeze",
+        "english": "Breeze",
+        "amharic": "ቀላል ነፋስ",
+        "oromifa": "Buura Xiqqaa",
+        "tigrinya": "ሸሚም ንፋስ",
+        "pronunciation": "qelal nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Tornado",
+        "english": "Tornado",
+        "amharic": "አውሎ ነፋስ",
+        "oromifa": "Buura Qilleensa",
+        "tigrinya": "ነፋስ ተዓዘብ",
+        "pronunciation": "awlo nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Flood",
+        "english": "Flood",
+        "amharic": "ጎርፍ",
+        "oromifa": "Lolaa",
+        "tigrinya": "ውሕጅ",
+        "pronunciation": "gorif",
+        "category": "Weather"
+    },
+    {
+        "word": "Drought",
+        "english": "Drought",
+        "amharic": "ድርቅ",
+        "oromifa": "Olla",
+        "tigrinya": "ነቕጺ",
+        "pronunciation": "dirq",
+        "category": "Weather"
+    },
+    {
+        "word": "Sky",
+        "english": "Sky",
+        "amharic": "ሰማይ",
+        "oromifa": "Samii",
+        "tigrinya": "ሰማይ",
+        "pronunciation": "semay",
+        "category": "Weather"
+    },
+    {
+        "word": "Clear",
+        "english": "Clear",
+        "amharic": "ንጹህ",
+        "oromifa": "Safaa",
+        "tigrinya": "ንጹህ",
+        "pronunciation": "nitsuh",
+        "category": "Weather"
+    },
+    {
+        "word": "Overcast",
+        "english": "Overcast",
+        "amharic": "ደመናማ",
+        "oromifa": "Dukkanaa",
+        "tigrinya": "ደመናዊ",
+        "pronunciation": "demenama",
+        "category": "Weather"
+    },
+    {
+        "word": "Warm",
+        "english": "Warm",
+        "amharic": "ሞቃት",
+        "oromifa": "Ho’aa",
+        "tigrinya": "ምቁር",
+        "pronunciation": "moqat",
+        "category": "Weather"
+    },
+    {
+        "word": "Cool",
+        "english": "Cool",
+        "amharic": "ቀዝቃዛ",
+        "oromifa": "Qabbana’aa",
+        "tigrinya": "ዝቃዝሕ",
+        "pronunciation": "qezqaza",
+        "category": "Weather"
+    },
+    {
+        "word": "Wet",
+        "english": "Wet",
+        "amharic": "እርጥብ",
+        "oromifa": "Dhipha",
+        "tigrinya": "ርጥብ",
+        "pronunciation": "irtib",
+        "category": "Weather"
+    },
+    {
+        "word": "Dry",
+        "english": "Dry",
+        "amharic": "ደረቅ",
+        "oromifa": "Gogaa",
+        "tigrinya": "ደረቕ",
+        "pronunciation": "dereq",
+        "category": "Weather"
+    },
+    {
+        "word": "Temperature",
+        "english": "Temperature",
+        "amharic": "ሙቀት መጠን",
+        "oromifa": "Ho’ina",
+        "tigrinya": "መጠን ሙቐት",
+        "pronunciation": "muqet meten",
+        "category": "Weather"
+    },
+    {
+        "word": "Forecast",
+        "english": "Forecast",
+        "amharic": "የአየር ትንበያ",
+        "oromifa": "Ragaa Qilleensa",
+        "tigrinya": "ትንበያ ኩነታት ኣየር",
+        "pronunciation": "yeyer tinbeya",
+        "category": "Weather"
+    },
+    {
+        "word": "Hurricane",
+        "english": "Hurricane",
+        "amharic": "ኃይለኛ ነፋስ",
+        "oromifa": "Buura Guddina",
+        "tigrinya": "ባሕሪ ነፋስ",
+        "pronunciation": "haylegna nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Blizzard",
+        "english": "Blizzard",
+        "amharic": "ከባድ በረዶ ነፋስ",
+        "oromifa": "Caaca Buura",
+        "tigrinya": "በረዶ ነፋስ",
+        "pronunciation": "kebad beredo nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Dew",
+        "english": "Dew",
+        "amharic": "ጤው",
+        "oromifa": "Doo’a",
+        "tigrinya": "ጠል",
+        "pronunciation": "tew",
+        "category": "Weather"
+    },
+    {
+        "word": "Sleet",
+        "english": "Sleet",
+        "amharic": "ቀዝቃዛ ዝናብ",
+        "oromifa": "Roobaa Qorra",
+        "tigrinya": "በረዶ ዝናብ",
+        "pronunciation": "qezqaza zinab",
+        "category": "Weather"
+    },
+    {
+        "word": "Squall",
+        "english": "Squall",
+        "amharic": "ፈጣን ነፋስ",
+        "oromifa": "Buura Barbaara",
+        "tigrinya": "ትንኮሳ ነፋስ",
+        "pronunciation": "fetan nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Gale",
+        "english": "Gale",
+        "amharic": "ጠንካራ ነፋስ",
+        "oromifa": "Buura Jabaa",
+        "tigrinya": "ብርቱዕ ነፋስ",
+        "pronunciation": "tenkara nefas",
+        "category": "Weather"
+    },
+    {
+        "word": "Monsoon",
+        "english": "Monsoon",
+        "amharic": "ወቅታዊ ዝናብ",
+        "oromifa": "Roobaa Guyyaa",
+        "tigrinya": "ወቅታዊ ዝናብ",
+        "pronunciation": "weqtawi zinab",
+        "category": "Weather"
+    },
+    {
+        "word": "Air",
+        "english": "Air",
+        "amharic": "አየር",
+        "oromifa": "Qilleensa",
+        "tigrinya": "ኣየር",
+        "pronunciation": "ayer",
+        "category": "Weather"
+    },
+    {
+        "word": "Climate",
+        "english": "Climate",
+        "amharic": "የአየር ንብረት",
+        "oromifa": "Haala Qilleensa",
+        "tigrinya": "ኩነታት ኣየር",
+        "pronunciation": "yeyer nibret",
+        "category": "Weather"
+    },  {
+        "word": "Tree",
+        "english": "Tree",
+        "amharic": "ዛፍ",
+        "oromifa": "Muka",
+        "tigrinya": "ኦም",
+        "pronunciation": "zaf",
+        "category": "Nature"
+    },
+    {
+        "word": "Forest",
+        "english": "Forest",
+        "amharic": "ጫካ",
+        "oromifa": "Bosona",
+        "tigrinya": "ጫካ",
+        "pronunciation": "chaka",
+        "category": "Nature"
+    },
+    {
+        "word": "River",
+        "english": "River",
+        "amharic": "ወንዝ",
+        "oromifa": "Laga",
+        "tigrinya": "ሩባ",
+        "pronunciation": "wenz",
+        "category": "Nature"
+    },
+    {
+        "word": "Lake",
+        "english": "Lake",
+        "amharic": "ሐይቅ",
+        "oromifa": "Hoodoo",
+        "tigrinya": "ማይ ባሕሪ",
+        "pronunciation": "hayq",
+        "category": "Nature"
+    },
+    {
+        "word": "Mountain",
+        "english": "Mountain",
+        "amharic": "ተራራ",
+        "oromifa": "Tulluu",
+        "tigrinya": "እምባ",
+        "pronunciation": "terara",
+        "category": "Nature"
+    },
+    {
+        "word": "Valley",
+        "english": "Valley",
+        "amharic": "ሸለቆ",
+        "oromifa": "Gola",
+        "tigrinya": "ጎዳጉዲ",
+        "pronunciation": "sheleqo",
+        "category": "Nature"
+    },
+    {
+        "word": "Flower",
+        "english": "Flower",
+        "amharic": "አበባ",
+        "oromifa": "Abbayyee",
+        "tigrinya": "ዕምባባ",
+        "pronunciation": "abeba",
+        "category": "Nature"
+    },
+    {
+        "word": "Grass",
+        "english": "Grass",
+        "amharic": "ሣር",
+        "oromifa": "Citaa",
+        "tigrinya": "ሳዕሪ",
+        "pronunciation": "sar",
+        "category": "Nature"
+    },
+    {
+        "word": "Leaf",
+        "english": "Leaf",
+        "amharic": "ቅጠል",
+        "oromifa": "Baala",
+        "tigrinya": "ቆጽሊ",
+        "pronunciation": "qitel",
+        "category": "Nature"
+    },
+    {
+        "word": "Root",
+        "english": "Root",
+        "amharic": "ሥር",
+        "oromifa": "Hidda",
+        "tigrinya": "ስር",
+        "pronunciation": "sir",
+        "category": "Nature"
+    },
+    {
+        "word": "Sky",
+        "english": "Sky",
+        "amharic": "ሰማይ",
+        "oromifa": "Samii",
+        "tigrinya": "ሰማይ",
+        "pronunciation": "semay",
+        "category": "Nature"
+    },
+    {
+        "word": "Sun",
+        "english": "Sun",
+        "amharic": "ፀሐይ",
+        "oromifa": "Adduu",
+        "tigrinya": "ፀሓይ",
+        "pronunciation": "tsihay",
+        "category": "Nature"
+    },
+    {
+        "word": "Moon",
+        "english": "Moon",
+        "amharic": "ጨረቃ",
+        "oromifa": "Ji’aa",
+        "tigrinya": "ወርሒ",
+        "pronunciation": "chereqa",
+        "category": "Nature"
+    },
+    {
+        "word": "Star",
+        "english": "Star",
+        "amharic": "ኮከብ",
+        "oromifa": "Urjii",
+        "tigrinya": "ኮኾብ",
+        "pronunciation": "kokeb",
+        "category": "Nature"
+    },
+    {
+        "word": "Cloud",
+        "english": "Cloud",
+        "amharic": "ደመና",
+        "oromifa": "Dukkana",
+        "tigrinya": "ደመና",
+        "pronunciation": "demena",
+        "category": "Nature"
+    },
+    {
+        "word": "Water",
+        "english": "Water",
+        "amharic": "ውሃ",
+        "oromifa": "Bishaan",
+        "tigrinya": "ማይ",
+        "pronunciation": "wuha",
+        "category": "Nature"
+    },
+    {
+        "word": "Fire",
+        "english": "Fire",
+        "amharic": "እሳት",
+        "oromifa": "Ibiddii",
+        "tigrinya": "እሳት",
+        "pronunciation": "isat",
+        "category": "Nature"
+    },
+    {
+        "word": "Soil",
+        "english": "Soil",
+        "amharic": "መሬት",
+        "oromifa": "Laachuu",
+        "tigrinya": "መሬት",
+        "pronunciation": "meret",
+        "category": "Nature"
+    },
+    {
+        "word": "Stone",
+        "english": "Stone",
+        "amharic": "ድንጋይ",
+        "oromifa": "Dhagaa",
+        "tigrinya": "ሓጻብ",
+        "pronunciation": "dingay",
+        "category": "Nature"
+    },
+    {
+        "word": "Sand",
+        "english": "Sand",
+        "amharic": "አሸዋ",
+        "oromifa": "Cita",
+        "tigrinya": "ሑጻ",
+        "pronunciation": "ashewa",
+        "category": "Nature"
+    },
+    {
+        "word": "Bird",
+        "english": "Bird",
+        "amharic": "ወፍ",
+        "oromifa": "Simbira",
+        "tigrinya": "ዕንቁ",
+        "pronunciation": "wef",
+        "category": "Nature"
+    },
+    {
+        "word": "Fish",
+        "english": "Fish",
+        "amharic": "ዓሣ",
+        "oromifa": "Qurxummii",
+        "tigrinya": "ዓሳ",
+        "pronunciation": "asa",
+        "category": "Nature"
+    },
+    {
+        "word": "Lion",
+        "english": "Lion",
+        "amharic": "አንበሳ",
+        "oromifa": "Leenca",
+        "tigrinya": "ኣንበሳ",
+        "pronunciation": "anbesa",
+        "category": "Nature"
+    },
+    {
+        "word": "Elephant",
+        "english": "Elephant",
+        "amharic": "ዝሆን",
+        "oromifa": "Arba",
+        "tigrinya": "ጋንጂ",
+        "pronunciation": "zihon",
+        "category": "Nature"
+    },
+    {
+        "word": "Monkey",
+        "english": "Monkey",
+        "amharic": "ጦጣ",
+        "oromifa": "Shaanqoo",
+        "tigrinya": "ህበይ",
+        "pronunciation": "tota",
+        "category": "Nature"
+    },
+    {
+        "word": "Snake",
+        "english": "Snake",
+        "amharic": "እባብ",
+        "oromifa": "Bofa",
+        "tigrinya": "ሳብዓ",
+        "pronunciation": "ibab",
+        "category": "Nature"
+    },
+    {
+        "word": "Crocodile",
+        "english": "Crocodile",
+        "amharic": "አዞ",
+        "oromifa": "Goromsa",
+        "tigrinya": "ኣዝሒ",
+        "pronunciation": "azo",
+        "category": "Nature"
+    },
+    {
+        "word": "Butterfly",
+        "english": "Butterfly",
+        "amharic": "ቢራቢሮ",
+        "oromifa": "Bilaala",
+        "tigrinya": "ፍሑል",
+        "pronunciation": "birabiro",
+        "category": "Nature"
+    },
+    {
+        "word": "Bee",
+        "english": "Bee",
+        "amharic": "ንብ",
+        "oromifa": "Nyaala",
+        "tigrinya": "ንህቢ",
+        "pronunciation": "nib",
+        "category": "Nature"
+    },
+    {
+        "word": "Ant",
+        "english": "Ant",
+        "amharic": "ጉንዳን",
+        "oromifa": "Citaa",
+        "tigrinya": "ጉንጅ",
+        "pronunciation": "gundan",
+        "category": "Nature"
+    },
+    {
+        "word": "Wind",
+        "english": "Wind",
+        "amharic": "ነፋስ",
+        "oromifa": "Buura",
+        "tigrinya": "ንፋስ",
+        "pronunciation": "nefas",
+        "category": "Nature"
+    },
+    {
+        "word": "Rain",
+        "english": "Rain",
+        "amharic": "ዝናብ",
+        "oromifa": "Roobaa",
+        "tigrinya": "ዝናብ",
+        "pronunciation": "zinab",
+        "category": "Nature"
+    },
+    {
+        "word": "Ocean",
+        "english": "Ocean",
+        "amharic": "ውቅያኖስ",
+        "oromifa": "Garba",
+        "tigrinya": "ባሕሪ",
+        "pronunciation": "wuqiyanos",
+        "category": "Nature"
+    },
+    {
+        "word": "Desert",
+        "english": "Desert",
+        "amharic": "በረሃ",
+        "oromifa": "Daaba",
+        "tigrinya": "በረኻ",
+        "pronunciation": "bereha",
+        "category": "Nature"
+    },
+    {
+        "word": "Cave",
+        "english": "Cave",
+        "amharic": "ዋሻ",
+        "oromifa": "Godaa",
+        "tigrinya": "በዓቲ",
+        "pronunciation": "washa",
+        "category": "Nature"
+    },
+    {
+        "word": "Hill",
+        "english": "Hill",
+        "amharic": "ኮረብታ",
+        "oromifa": "Tulluu Xiqqaa",
+        "tigrinya": "ጎቦ",
+        "pronunciation": "korebta",
+        "category": "Nature"
+    },
+    {
+        "word": "Waterfall",
+        "english": "Waterfall",
+        "amharic": "የውሃ መውደቅ",
+        "oromifa": "Bishaan Dhufu",
+        "tigrinya": "ማይ ውሕጅ",
+        "pronunciation": "yewuha mewdeq",
+        "category": "Nature"
+    },
+    {
+        "word": "Meadow",
+        "english": "Meadow",
+        "amharic": "ሜዳ",
+        "oromifa": "Lafa Balleessaa",
+        "tigrinya": "ሜዳ",
+        "pronunciation": "meda",
+        "category": "Nature"
+    },
+    {
+        "word": "Bush",
+        "english": "Bush",
+        "amharic": "ቁጥቋጦ",
+        "oromifa": "Buttaa",
+        "tigrinya": "ቁጥቋጦ",
+        "pronunciation": "qutqwato",
+        "category": "Nature"
+    },
+    {
+        "word": "Seed",
+        "english": "Seed",
+        "amharic": "ዘር",
+        "oromifa": "Sanyii",
+        "tigrinya": "ዘርኢ",
+        "pronunciation": "zer",
+        "category": "Nature"
+    }, {
+        "word": "Happiness",
+        "english": "Happiness",
+        "amharic": "ደስታ",
+        "oromifa": "Gammachuu",
+        "tigrinya": "ፍስሃ",
+        "pronunciation": "desta",
+        "category": "Emotion"
+    },
+    {
+        "word": "Sadness",
+        "english": "Sadness",
+        "amharic": "ኀዘን",
+        "oromifa": "Gadda",
+        "tigrinya": "ሓዘን",
+        "pronunciation": "hazen",
+        "category": "Emotion"
+    },
+    {
+        "word": "Anger",
+        "english": "Anger",
+        "amharic": "ቁጣ",
+        "oromifa": "Aarsoo",
+        "tigrinya": "ቁጥዓ",
+        "pronunciation": "kuta",
+        "category": "Emotion"
+    },
+    {
+        "word": "Fear",
+        "english": "Fear",
+        "amharic": "ፍርሃት",
+        "oromifa": "Sodaa",
+        "tigrinya": "ፍርሒ",
+        "pronunciation": "firhat",
+        "category": "Emotion"
+    },
+    {
+        "word": "Love",
+        "english": "Love",
+        "amharic": "ፍቅር",
+        "oromifa": "Jaalala",
+        "tigrinya": "ፍቕሪ",
+        "pronunciation": "fikir",
+        "category": "Emotion"
+    },
+    {
+        "word": "Joy",
+        "english": "Joy",
+        "amharic": "ደስታ",
+        "oromifa": "Ilola",
+        "tigrinya": "ሓጎስ",
+        "pronunciation": "desta",
+        "category": "Emotion"
+    },
+    {
+        "word": "Sorrow",
+        "english": "Sorrow",
+        "amharic": "ኀዘን",
+        "oromifa": "Dhukkuba",
+        "tigrinya": "ሓዘን",
+        "pronunciation": "hazen",
+        "category": "Emotion"
+    },
+    {
+        "word": "Surprise",
+        "english": "Surprise",
+        "amharic": "ግርምት",
+        "oromifa": "Calla",
+        "tigrinya": "ስግንት",
+        "pronunciation": "girmt",
+        "category": "Emotion"
+    },
+    {
+        "word": "Trust",
+        "english": "Trust",
+        "amharic": "እምነት",
+        "oromifa": "Ammantaa",
+        "tigrinya": "እምነት",
+        "pronunciation": "imnet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Disgust",
+        "english": "Disgust",
+        "amharic": "መጸየፍ",
+        "oromifa": "Jibba",
+        "tigrinya": "ጽልኢ",
+        "pronunciation": "metseyef",
+        "category": "Emotion"
+    },
+    {
+        "word": "Hope",
+        "english": "Hope",
+        "amharic": "ተስፋ",
+        "oromifa": "Ibsa",
+        "tigrinya": "ተስፋ",
+        "pronunciation": "tesfa",
+        "category": "Emotion"
+    },
+    {
+        "word": "Pride",
+        "english": "Pride",
+        "amharic": "ኩራት",
+        "oromifa": "Boona",
+        "tigrinya": "ንቕለት",
+        "pronunciation": "kurat",
+        "category": "Emotion"
+    },
+    {
+        "word": "Shame",
+        "english": "Shame",
+        "amharic": "እፍረት",
+        "oromifa": "Qaanii",
+        "tigrinya": "ሕፍረት",
+        "pronunciation": "ifret",
+        "category": "Emotion"
+    },
+    {
+        "word": "Guilt",
+        "english": "Guilt",
+        "amharic": "ጥፋተኝነት",
+        "oromifa": "Dhiita",
+        "tigrinya": "ጥፍኣት",
+        "pronunciation": "tifatenet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Envy",
+        "english": "Envy",
+        "amharic": "ቅንይነት",
+        "oromifa": "Arraa",
+        "tigrinya": "ምቅንያት",
+        "pronunciation": "kinet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Jealousy",
+        "english": "Jealousy",
+        "amharic": "ቅንይነት",
+        "oromifa": "Morkaa",
+        "tigrinya": "ምቅንያት",
+        "pronunciation": "kinet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Anxiety",
+        "english": "Anxiety",
+        "amharic": "ጭንቀት",
+        "oromifa": "Dhiphina",
+        "tigrinya": "ሻቕሎት",
+        "pronunciation": "chinket",
+        "category": "Emotion"
+    },
+    {
+        "word": "Calm",
+        "english": "Calm",
+        "amharic": "ሰላም",
+        "oromifa": "Nagaa",
+        "tigrinya": "ሰላም",
+        "pronunciation": "selam",
+        "category": "Emotion"
+    },
+    {
+        "word": "Excitement",
+        "english": "Excitement",
+        "amharic": "ደስታ",
+        "oromifa": "Hirmaadhaa",
+        "tigrinya": "ምትንኩዕ",
+        "pronunciation": "desta",
+        "category": "Emotion"
+    },
+    {
+        "word": "Frustration",
+        "english": "Frustration",
+        "amharic": "ብስጭት",
+        "oromifa": "Dhiphachuu",
+        "tigrinya": "ግርጭት",
+        "pronunciation": "bischit",
+        "category": "Emotion"
+    },
+    {
+        "word": "Gratitude",
+        "english": "Gratitude",
+        "amharic": "ምስጋና",
+        "oromifa": "Galata",
+        "tigrinya": "ምስጋና",
+        "pronunciation": "misgana",
+        "category": "Emotion"
+    },
+    {
+        "word": "Confusion",
+        "english": "Confusion",
+        "amharic": "ግራ መጋባት",
+        "oromifa": "Maddachuu",
+        "tigrinya": "ምትካኽ",
+        "pronunciation": "gira megabat",
+        "category": "Emotion"
+    },
+    {
+        "word": "Relief",
+        "english": "Relief",
+        "amharic": "እፎይታ",
+        "oromifa": "Hinarguu",
+        "tigrinya": "ዕረፍቲ",
+        "pronunciation": "efoyta",
+        "category": "Emotion"
+    },
+    {
+        "word": "Boredom",
+        "english": "Boredom",
+        "amharic": "መሰልቸት",
+        "oromifa": "Badaa",
+        "tigrinya": "ምስልቻው",
+        "pronunciation": "meselchet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Curiosity",
+        "english": "Curiosity",
+        "amharic": "ጉጉት",
+        "oromifa": "Qulqulluu",
+        "tigrinya": "ፍልጠት",
+        "pronunciation": "gugut",
+        "category": "Emotion"
+    },
+    {
+        "word": "Loneliness",
+        "english": "Loneliness",
+        "amharic": "ብቸኝነት",
+        "oromifa": "Nayyaa",
+        "tigrinya": "በይነት",
+        "pronunciation": "bichenet",
+        "category": "Emotion"
+    },
+    {
+        "word": "Nostalgia",
+        "english": "Nostalgia",
+        "amharic": "የቀድሞ ናፍቆት",
+        "oromifa": "Yaadannoo",
+        "tigrinya": "ዝናፍቕ",
+        "pronunciation": "yekedmo nafkot",
+        "category": "Emotion"
+    },
+    {
+        "word": "Admiration",
+        "english": "Admiration",
+        "amharic": "ምኞት",
+        "oromifa": "Ulfinna",
+        "tigrinya": "ምድንጋጽ",
+        "pronunciation": "minot",
+        "category": "Emotion"
+    },
+    {
+        "word": "Anticipation",
+        "english": "Anticipation",
+        "amharic": "መጠበቅ",
+        "oromifa": "Eeguu",
+        "tigrinya": "ትጽቢት",
+        "pronunciation": "metebek",
+        "category": "Emotion"
+    },
+    {
+        "word": "Despair",
+        "english": "Despair",
+        "amharic": "ተስፋ መቁረጥ",
+        "oromifa": "Ibsa dhabuu",
+        "tigrinya": "ተስፋ ምቑራጽ",
+        "pronunciation": "tesfa mekuret",
+        "category": "Emotion"
+    },
+    {
+        "word": "Satisfaction",
+        "english": "Satisfaction",
+        "amharic": "እርካታ",
+        "oromifa": "Qananiisa",
+        "tigrinya": "ርእየት",
+        "pronunciation": "irkata",
+        "category": "Emotion"
+    },
+    {
+        "word": "Embarrassment",
+        "english": "Embarrassment",
+        "amharic": "እፍረት",
+        "oromifa": "Qaanii",
+        "tigrinya": "ሕፍረት",
+        "pronunciation": "ifret",
+        "category": "Emotion"
+    },
+    {
+        "word": "Sympathy",
+        "english": "Sympathy",
+        "amharic": "ርኅራኄ",
+        "oromifa": "Maalala",
+        "tigrinya": "ሓዘን",
+        "pronunciation": "rehrahe",
+        "category": "Emotion"
+    },
+    {
+        "word": "Affection",
+        "english": "Affection",
+        "amharic": "ፍቅር",
+        "oromifa": "Jaalala",
+        "tigrinya": "ፍቕሪ",
+        "pronunciation": "fikir",
+        "category": "Emotion"
+    },
+    {
+        "word": "Contentment",
+        "english": "Contentment",
+        "amharic": "እርካታ",
+        "oromifa": "Qananiisa",
+        "tigrinya": "ምጽንናዕ",
+        "pronunciation": "irkata",
+        "category": "Emotion"
+    },
+    {
+        "word": "Irritation",
+        "english": "Irritation",
+        "amharic": "ብስጭት",
+        "oromifa": "Dhiphachuu",
+        "tigrinya": "ምቁጣዕ",
+        "pronunciation": "bischit",
+        "category": "Emotion"
+    },
+    {
+        "word": "Amusement",
+        "english": "Amusement",
+        "amharic": "መዝናናት",
+        "oromifa": "Tolaa",
+        "tigrinya": "ምዝንናዕ",
+        "pronunciation": "meznanat",
+        "category": "Emotion"
+    },
+    {
+        "word": "Empathy",
+        "english": "Empathy",
+        "amharic": "ርኅራኄ",
+        "oromifa": "Maalala",
+        "tigrinya": "ምስምማዕ",
+        "pronunciation": "rehrahe",
+        "category": "Emotion"
+    },
+    {
+        "word": "Resentment",
+        "english": "Resentment",
+        "amharic": "ጭንቀት",
+        "oromifa": "Aarsoo",
+        "tigrinya": "ምቅልል",
+        "pronunciation": "chinket",
+        "category": "Emotion"
+    },
+    {
+        "word": "Optimism",
+        "english": "Optimism",
+        "amharic": "ብሩህ ተስፋ",
+        "oromifa": "Ibsa qaba",
+        "tigrinya": "ተስፋ ምህላው",
+        "pronunciation": "biruh tesfa",
+        "category": "Emotion"
+    },
+ {
+        "word": "Market",
+        "english": "Market",
+        "amharic": "ገበያ",
+        "oromifa": "Gabaa",
+        "tigrinya": "መዕደቢ",
+        "pronunciation": "gebeya",
+        "category": "Commerce"
+    },
+    {
+        "word": "Trade",
+        "english": "Trade",
+        "amharic": "ንግድ",
+        "oromifa": "Daldala",
+        "tigrinya": "ንግዲ",
+        "pronunciation": "nigdi",
+        "category": "Commerce"
+    },
+    {
+        "word": "Business",
+        "english": "Business",
+        "amharic": "ቢዝነስ",
+        "oromifa": "Biizinasii",
+        "tigrinya": "ቢዝነስ",
+        "pronunciation": "biznis",
+        "category": "Commerce"
+    },
+    {
+        "word": "Money",
+        "english": "Money",
+        "amharic": "ገንዘብ",
+        "oromifa": "Maallaqa",
+        "tigrinya": "ገንዘብ",
+        "pronunciation": "genzeb",
+        "category": "Commerce"
+    },
+    {
+        "word": "Sale",
+        "english": "Sale",
+        "amharic": "ሽያጭ",
+        "oromifa": "Gurgurtaa",
+        "tigrinya": "ሽያጥ",
+        "pronunciation": "shiyach",
+        "category": "Commerce"
+    },
+    {
+        "word": "Purchase",
+        "english": "Purchase",
+        "amharic": "ግዢ",
+        "oromifa": "Bittaa",
+        "tigrinya": "ግዝኢ",
+        "pronunciation": "gizi",
+        "category": "Commerce"
+    },
+    {
+        "word": "Profit",
+        "english": "Profit",
+        "amharic": "ትርፍ",
+        "oromifa": "Galii",
+        "tigrinya": "መወዳደ",
+        "pronunciation": "tirf",
+        "category": "Commerce"
+    },
+    {
+        "word": "Loss",
+        "english": "Loss",
+        "amharic": "ኪሳራ",
+        "oromifa": "Hir’ina",
+        "tigrinya": "ክሳራ",
+        "pronunciation": "kisara",
+        "category": "Commerce"
+    },
+    {
+        "word": "Price",
+        "english": "Price",
+        "amharic": "ዋጋ",
+        "oromifa": "Gati",
+        "tigrinya": "ዋጋ",
+        "pronunciation": "waga",
+        "category": "Commerce"
+    },
+    {
+        "word": "Customer",
+        "english": "Customer",
+        "amharic": "ደንበኛ",
+        "oromifa": "Garee",
+        "tigrinya": "ደንበኛ",
+        "pronunciation": "denbegna",
+        "category": "Commerce"
+    },
+    {
+        "word": "Seller",
+        "english": "Seller",
+        "amharic": "ሻጭ",
+        "oromifa": "Gurguraa",
+        "tigrinya": "ሸያጢ",
+        "pronunciation": "shach",
+        "category": "Commerce"
+    },
+    {
+        "word": "Buyer",
+        "english": "Buyer",
+        "amharic": "ገዥ",
+        "oromifa": "Bittaa",
+        "tigrinya": "ገዛኢ",
+        "pronunciation": "gezi",
+        "category": "Commerce"
+    },
+    {
+        "word": "Goods",
+        "english": "Goods",
+        "amharic": "እቃ",
+        "oromifa": "Meeshaa",
+        "tigrinya": "ኣቕሑ",
+        "pronunciation": "ika",
+        "category": "Commerce"
+    },
+    {
+        "word": "Service",
+        "english": "Service",
+        "amharic": "አገልግሎት",
+        "oromifa": "Tajaajila",
+        "tigrinya": "ግልጋሎት",
+        "pronunciation": "agelglot",
+        "category": "Commerce"
+    },
+    {
+        "word": "Shop",
+        "english": "Shop",
+        "amharic": "መደብር",
+        "oromifa": "Duukaan",
+        "tigrinya": "ድኳን",
+        "pronunciation": "medebr",
+        "category": "Commerce"
+    },
+    {
+        "word": "Merchant",
+        "english": "Merchant",
+        "amharic": "ነጋዴ",
+        "oromifa": "Daldalaa",
+        "tigrinya": "ነጋዳይ",
+        "pronunciation": "negade",
+        "category": "Commerce"
+    },
+    {
+        "word": "Invoice",
+        "english": "Invoice",
+        "amharic": "ክፍያ ደረሰኝ",
+        "oromifa": "Kaffaltii",
+        "tigrinya": "መኽፈሊ",
+        "pronunciation": "kifiya deresegn",
+        "category": "Commerce"
+    },
+    {
+        "word": "Receipt",
+        "english": "Receipt",
+        "amharic": "ደረሰኝ",
+        "oromifa": "Resiitii",
+        "tigrinya": "ሪሰቲ",
+        "pronunciation": "deresegn",
+        "category": "Commerce"
+    },
+    {
+        "word": "Discount",
+        "english": "Discount",
+        "amharic": "ቅናሽ",
+        "oromifa": "Hirrachuu",
+        "tigrinya": "ቅናሽ",
+        "pronunciation": "kinash",
+        "category": "Commerce"
+    },
+    {
+        "word": "Bargain",
+        "english": "Bargain",
+        "amharic": "መደራደር",
+        "oromifa": "Makmaaksa",
+        "tigrinya": "ምድላው",
+        "pronunciation": "mederader",
+        "category": "Commerce"
+    },
+    {
+        "word": "Investment",
+        "english": "Investment",
+        "amharic": "ኢንቨስትመንት",
+        "oromifa": "Maallaqaa",
+        "tigrinya": "ወፍሪ",
+        "pronunciation": "investiment",
+        "category": "Commerce"
+    },
+    {
+        "word": "Loan",
+        "english": "Loan",
+        "amharic": "ብድር",
+        "oromifa": "Daboo",
+        "tigrinya": "ብድሪ",
+        "pronunciation": "bdir",
+        "category": "Commerce"
+    },
+    {
+        "word": "Interest",
+        "english": "Interest",
+        "amharic": "ወለድ",
+        "oromifa": "Faayidaa",
+        "tigrinya": "ወለድ",
+        "pronunciation": "weled",
+        "category": "Commerce"
+    },
+    {
+        "word": "Tax",
+        "english": "Tax",
+        "amharic": "ግብር",
+        "oromifa": "Gibira",
+        "tigrinya": "ግብሪ",
+        "pronunciation": "gibir",
+        "category": "Commerce"
+    },
+    {
+        "word": "Revenue",
+        "english": "Revenue",
+        "amharic": "ገቢ",
+        "oromifa": "Galii",
+        "tigrinya": "እታ",
+        "pronunciation": "gebi",
+        "category": "Commerce"
+    },
+    {
+        "word": "Expense",
+        "english": "Expense",
+        "amharic": "ወጪ",
+        "oromifa": "Baasii",
+        "tigrinya": "ወጻኢ",
+        "pronunciation": "wechi",
+        "category": "Commerce"
+    },
+    {
+        "word": "Contract",
+        "english": "Contract",
+        "amharic": "ውል",
+        "oromifa": "Waliigaltee",
+        "tigrinya": "ውዕል",
+        "pronunciation": "wil",
+        "category": "Commerce"
+    },
+    {
+        "word": "Brand",
+        "english": "Brand",
+        "amharic": "ብራንድ",
+        "oromifa": "Maqaa",
+        "tigrinya": "ምልክት",
+        "pronunciation": "brand",
+        "category": "Commerce"
+    },
+    {
+        "word": "Advertisement",
+        "english": "Advertisement",
+        "amharic": "ማስታወቂያ",
+        "oromifa": "Beeksisaa",
+        "tigrinya": "ምልክታ",
+        "pronunciation": "mastawokiya",
+        "category": "Commerce"
+    },
+    {
+        "word": "Supply",
+        "english": "Supply",
+        "amharic": "አቅርቦት",
+        "oromifa": "Kenniinsa",
+        "tigrinya": "ኣቕረብ",
+        "pronunciation": "akribot",
+        "category": "Commerce"
+    },
+    {
+        "word": "Demand",
+        "english": "Demand",
+        "amharic": "ፍላጎት",
+        "oromifa": "Hawwii",
+        "tigrinya": "ልኡኽ",
+        "pronunciation": "filagot",
+        "category": "Commerce"
+    },
+    {
+        "word": "Warehouse",
+        "english": "Warehouse",
+        "amharic": "መጋዘን",
+        "oromifa": "Kuusaa",
+        "tigrinya": "ማከዘኒ",
+        "pronunciation": "megazen",
+        "category": "Commerce"
+    },
+    {
+        "word": "Inventory",
+        "english": "Inventory",
+        "amharic": "ቆጠራ",
+        "oromifa": "Herreega",
+        "tigrinya": "ዝርዝር",
+        "pronunciation": "kotera",
+        "category": "Commerce"
+    },
+    {
+        "word": "Export",
+        "english": "Export",
+        "amharic": "ወደ ውጭ መላክ",
+        "oromifa": "Alaa kaa’uu",
+        "tigrinya": "ወፃኢ ምልኣኽ",
+        "pronunciation": "wede wichi melak",
+        "category": "Commerce"
+    },
+    {
+        "word": "Import",
+        "english": "Import",
+        "amharic": "ወደ ውስጥ ማስገባት",
+        "oromifa": "Gara keessaa galchuu",
+        "tigrinya": "ናብ ውሽጢ ምእታው",
+        "pronunciation": "wede wist masgebat",
+        "category": "Commerce"
+    },
+    {
+        "word": "Transaction",
+        "english": "Transaction",
+        "amharic": "ግብይት",
+        "oromifa": "Daldala",
+        "tigrinya": "ግብረ-መልከዕ",
+        "pronunciation": "gibiyit",
+        "category": "Commerce"
+    },
+    {
+        "word": "Payment",
+        "english": "Payment",
+        "amharic": "ክፍያ",
+        "oromifa": "Kaffaltii",
+        "tigrinya": "ክፍሊት",
+        "pronunciation": "kifiya",
+        "category": "Commerce"
+    },
+    {
+        "word": "Credit",
+        "english": "Credit",
+        "amharic": "ብድር",
+        "oromifa": "Qaraxa",
+        "tigrinya": "ብድሪ",
+        "pronunciation": "bdir",
+        "category": "Commerce"
+    },
+    {
+        "word": "Debt",
+        "english": "Debt",
+        "amharic": "ዕዳ",
+        "oromifa": "Qaraxa",
+        "tigrinya": "ዕዳ",
+        "pronunciation": "ida",
+        "category": "Commerce"
+    },
+    {
+        "word": "Profit Margin",
+        "english": "Profit Margin",
+        "amharic": "የትርፍ መጠን",
+        "oromifa": "Galii qabachuu",
+        "tigrinya": "መጠን መወዳደ",
+        "pronunciation": "yetirf meten",
+        "category": "Commerce"
+    },
+    {
+        "word": "Retailer",
+        "english": "Retailer",
+        "amharic": "ቸርቻሪ",
+        "oromifa": "Gurguraa",
+        "tigrinya": "ሸያጢ ተደላዳሊ",
+        "pronunciation": "cherchari",
+        "category": "Commerce"
+    },
+    {
+        "word": "Wholesaler",
+        "english": "Wholesaler",
+        "amharic": "ጅምላ ነጋዴ",
+        "oromifa": "Daldalaa guddaa",
+        "tigrinya": "ጅምላ ነጋዳይ",
+        "pronunciation": "jimla negade",
+        "category": "Commerce"
+    },
+     {
+        "word": "School",
+        "english": "School",
+        "amharic": "ትምህርት ቤት",
+        "oromifa": "Mana Barumsaa",
+        "tigrinya": "ቤት ትምህርቲ",
+        "pronunciation": "timhirt bet",
+        "category": "Education"
+    },
+    {
+        "word": "Teacher",
+        "english": "Teacher",
+        "amharic": "መምህር",
+        "oromifa": "Barsiisaa",
+        "tigrinya": "መምህር",
+        "pronunciation": "memhir",
+        "category": "Education"
+    },
+    {
+        "word": "Student",
+        "english": "Student",
+        "amharic": "ተማሪ",
+        "oromifa": "Barataa",
+        "tigrinya": "ተማሃራይ",
+        "pronunciation": "temari",
+        "category": "Education"
+    },
+    {
+        "word": "Education",
+        "english": "Education",
+        "amharic": "ትምህርት",
+        "oromifa": "Barumsa",
+        "tigrinya": "ትምህርቲ",
+        "pronunciation": "timhirt",
+        "category": "Education"
+    },
+    {
+        "word": "Book",
+        "english": "Book",
+        "amharic": "መጽሐፍ",
+        "oromifa": "Kitaaba",
+        "tigrinya": "መጽሓፍ",
+        "pronunciation": "metshaf",
+        "category": "Education"
+    },
+    {
+        "word": "Classroom",
+        "english": "Classroom",
+        "amharic": "ክፍል",
+        "oromifa": "Kutaa",
+        "tigrinya": "ክፍሊ",
+        "pronunciation": "kifil",
+        "category": "Education"
+    },
+    {
+        "word": "Lesson",
+        "english": "Lesson",
+        "amharic": "ትምህርት",
+        "oromifa": "Barnoota",
+        "tigrinya": "ትምህርቲ",
+        "pronunciation": "timhirt",
+        "category": "Education"
+    },
+    {
+        "word": "Homework",
+        "english": "Homework",
+        "amharic": "የቤት ሥራ",
+        "oromifa": "Hoji Mana",
+        "tigrinya": "ስራሕ ገዛ",
+        "pronunciation": "yebet sira",
+        "category": "Education"
+    },
+    {
+        "word": "Exam",
+        "english": "Exam",
+        "amharic": "ፈተና",
+        "oromifa": "Qorannoo",
+        "tigrinya": "ፈተና",
+        "pronunciation": "fetena",
+        "category": "Education"
+    },
+    {
+        "word": "Grade",
+        "english": "Grade",
+        "amharic": "ውጤት",
+        "oromifa": "Sadarkaa",
+        "tigrinya": "ውጽኢት",
+        "pronunciation": "wutet",
+        "category": "Education"
+    },
+    {
+        "word": "Knowledge",
+        "english": "Knowledge",
+        "amharic": "ዕውቀት",
+        "oromifa": "Beekumsa",
+        "tigrinya": "ፍልጠት",
+        "pronunciation": "iwket",
+        "category": "Education"
+    },
+    {
+        "word": "Learning",
+        "english": "Learning",
+        "amharic": "መማር",
+        "oromifa": "Barachuu",
+        "tigrinya": "ትምህርቲ",
+        "pronunciation": "memar",
+        "category": "Education"
+    },
+    {
+        "word": "Library",
+        "english": "Library",
+        "amharic": "ቤተ መጻሕፍት",
+        "oromifa": "Mana Kitaabaa",
+        "tigrinya": "ቤተ-መጻሕፍቲ",
+        "pronunciation": "bete metshafit",
+        "category": "Education"
+    },
+    {
+        "word": "Pen",
+        "english": "Pen",
+        "amharic": "ብእር",
+        "oromifa": "Paansii",
+        "tigrinya": "ብርዒ",
+        "pronunciation": "bir",
+        "category": "Education"
+    },
+    {
+        "word": "Pencil",
+        "english": "Pencil",
+        "amharic": "እርሳስ",
+        "oromifa": "Laafto",
+        "tigrinya": "እርሳስ",
+        "pronunciation": "irsas",
+        "category": "Education"
+    },
+    {
+        "word": "Notebook",
+        "english": "Notebook",
+        "amharic": "ደብተር",
+        "oromifa": "Daftar",
+        "tigrinya": "ደብተር",
+        "pronunciation": "debter",
+        "category": "Education"
+    },
+    {
+        "word": "Subject",
+        "english": "Subject",
+        "amharic": "ትምህርት",
+        "oromifa": "Mata duree",
+        "tigrinya": "ኣርእስቲ",
+        "pronunciation": "timhirt",
+        "category": "Education"
+    },
+    {
+        "word": "Mathematics",
+        "english": "Mathematics",
+        "amharic": "ሒሳብ",
+        "oromifa": "Herregaa",
+        "tigrinya": "ሒሳብ",
+        "pronunciation": "hisab",
+        "category": "Education"
+    },
+    {
+        "word": "Science",
+        "english": "Science",
+        "amharic": "ሳይንስ",
+        "oromifa": "Saayinsii",
+        "tigrinya": "ሳይንስ",
+        "pronunciation": "sayins",
+        "category": "Education"
+    },
+    {
+        "word": "History",
+        "english": "History",
+        "amharic": "ታሪክ",
+        "oromifa": "Seenaa",
+        "tigrinya": "ታሪኽ",
+        "pronunciation": "tarik",
+        "category": "Education"
+    },
+    {
+        "word": "Literature",
+        "english": "Literature",
+        "amharic": "ሥነ ጽሑፍ",
+        "oromifa": "Og-barruu",
+        "tigrinya": "ስነ-ጽሑፍ",
+        "pronunciation": "sine tshuf",
+        "category": "Education"
+    },
+    {
+        "word": "Language",
+        "english": "Language",
+        "amharic": "ቋንቋ",
+        "oromifa": "Afaan",
+        "tigrinya": "ቋንቋ",
+        "pronunciation": "kwankwa",
+        "category": "Education"
+    },
+    {
+        "word": "Reading",
+        "english": "Reading",
+        "amharic": "መጽሐፍ ማንበብ",
+        "oromifa": "Dubisuu",
+        "tigrinya": "ንባብ",
+        "pronunciation": "metshaf manbeb",
+        "category": "Education"
+    },
+    {
+        "word": "Writing",
+        "english": "Writing",
+        "amharic": "መጻፍ",
+        "oromifa": "Barreessuu",
+        "tigrinya": "ጽሑፍ",
+        "pronunciation": "metzaf",
+        "category": "Education"
+    },
+    {
+        "word": "University",
+        "english": "University",
+        "amharic": "ዩኒቨርሲቲ",
+        "oromifa": "Yuunivarsitii",
+        "tigrinya": "ዩኒቨርስቲ",
+        "pronunciation": "yuniversiti",
+        "category": "Education"
+    },
+    {
+        "word": "Professor",
+        "english": "Professor",
+        "amharic": "ፕሮፌሰር",
+        "oromifa": "Pirofeessara",
+        "tigrinya": "ፕሮፌሰር",
+        "pronunciation": "profeser",
+        "category": "Education"
+    },
+    {
+        "word": "Degree",
+        "english": "Degree",
+        "amharic": "ዲግሪ",
+        "oromifa": "Diigrii",
+        "tigrinya": "ዲግሪ",
+        "pronunciation": "digri",
+        "category": "Education"
+    },
+    {
+        "word": "Curriculum",
+        "english": "Curriculum",
+        "amharic": "ትምህርት እቅድ",
+        "oromifa": "Karoorri",
+        "tigrinya": "መደብ ትምህርቲ",
+        "pronunciation": "timhirt ekid",
+        "category": "Education"
+    },
+    {
+        "word": "Scholarship",
+        "english": "Scholarship",
+        "amharic": "የትምህርት ድጎማ",
+        "oromifa": "Gorsa Barumsaa",
+        "tigrinya": "ስኮላርሺፕ",
+        "pronunciation": "yetimhirt digoma",
+        "category": "Education"
+    },
+    {
+        "word": "Lecture",
+        "english": "Lecture",
+        "amharic": "ትምህርት",
+        "oromifa": "Barnoota",
+        "tigrinya": "ንባብ",
+        "pronunciation": "timhirt",
+        "category": "Education"
+    },
+    {
+        "word": "Research",
+        "english": "Research",
+        "amharic": "ምርምር",
+        "oromifa": "Qorannoo",
+        "tigrinya": "ምርምር",
+        "pronunciation": "mirmir",
+        "category": "Education"
+    },
+    {
+        "word": "Assignment",
+        "english": "Assignment",
+        "amharic": "ሥራ",
+        "oromifa": "Hoji",
+        "tigrinya": "ስራሕ",
+        "pronunciation": "sira",
+        "category": "Education"
+    },
+    {
+        "word": "Textbook",
+        "english": "Textbook",
+        "amharic": "የትምህርት መጽሐፍ",
+        "oromifa": "Kitaaba Barumsaa",
+        "tigrinya": "መጽሓፍ ትምህርቲ",
+        "pronunciation": "yetimhirt metshaf",
+        "category": "Education"
+    },
+    {
+        "word": "Board",
+        "english": "Board",
+        "amharic": "ጥቁር ሰሌዳ",
+        "oromifa": "Saakuu",
+        "tigrinya": "ቦርድ",
+        "pronunciation": "tikur seleda",
+        "category": "Education"
+    },
+    {
+        "word": "Chalk",
+        "english": "Chalk",
+        "amharic": "ኖራ",
+        "oromifa": "Noora",
+        "tigrinya": "ኖራ",
+        "pronunciation": "nora",
+        "category": "Education"
+    },
+    {
+        "word": "Desk",
+        "english": "Desk",
+        "amharic": "ጠረጴዛ",
+        "oromifa": "Teepilee",
+        "tigrinya": "መንበር",
+        "pronunciation": "terapeza",
+        "category": "Education"
+    },
+    {
+        "word": "Chair",
+        "english": "Chair",
+        "amharic": "ወንበር",
+        "oromifa": "Kursii",
+        "tigrinya": "መንበር",
+        "pronunciation": "wenber",
+        "category": "Education"
+    },
+    {
+        "word": "Uniform",
+        "english": "Uniform",
+        "amharic": "ዩኒፎርም",
+        "oromifa": "Yuunifoorimii",
+        "tigrinya": "ዩኒፎርም",
+        "pronunciation": "yuniform",
+        "category": "Education"
+    },
+    {
+        "word": "Semester",
+        "english": "Semester",
+        "amharic": "ሴሚስተር",
+        "oromifa": "Semistara",
+        "tigrinya": "ሴሚስተር",
+        "pronunciation": "semister",
+        "category": "Education"
+    },
+    {
+        "word": "Project",
+        "english": "Project",
+        "amharic": "ፕሮጀክት",
+        "oromifa": "Projektii",
+        "tigrinya": "ፕሮጀክት",
+        "pronunciation": "projekt",
+        "category": "Education"
+    },
+    {
+        "word": "Study",
+        "english": "Study",
+        "amharic": "መማር",
+        "oromifa": "Barachuu",
+        "tigrinya": "ትምህርቲ",
+        "pronunciation": "memar",
+        "category": "Education"
+    },
+    {
+        "word": "Skill",
+        "english": "Skill",
+        "amharic": "ችሎታ",
+        "oromifa": "Dandeettii",
+        "tigrinya": "ክእለት",
+        "pronunciation": "chilota",
+        "category": "Education"
+    },
+    {
+        "word": "Training",
+        "english": "Training",
+        "amharic": "ሥልጠና",
+        "oromifa": "Leenjii",
+        "tigrinya": "ስልጠና",
+        "pronunciation": "siltana",
+        "category": "Education"
+    },
+    {
+        "word": "Tutor",
+        "english": "Tutor",
+        "amharic": "አስጠኚ",
+        "oromifa": "Barsiisaa",
+        "tigrinya": "መምህር",
+        "pronunciation": "astegni",
+        "category": "Education"
+    },
+    {
+        "word": "Course",
+        "english": "Course",
+        "amharic": "ኮርስ",
+        "oromifa": "Koorsoo",
+        "tigrinya": "ኮርስ",
+        "pronunciation": "kors",
+        "category": "Education"
+    },
+    {
+        "word": "Syllabus",
+        "english": "Syllabus",
+        "amharic": "ትምህርት መርሐ ግብር",
+        "oromifa": "Sirna Barnoota",
+        "tigrinya": "ሲላበስ",
+        "pronunciation": "timhirt merhe gibir",
+        "category": "Education"
+    },
+    {
+        "word": "Graduation",
+        "english": "Graduation",
+        "amharic": "መመረቅ",
+        "oromifa": "Xumura Barumsaa",
+        "tigrinya": "መመረቒ",
+        "pronunciation": "memerek",
+        "category": "Education"
+    },
+    {
+        "word": "Diploma",
+        "english": "Diploma",
+        "amharic": "ዲፕሎማ",
+        "oromifa": "Diploomaa",
+        "tigrinya": "ዲፕሎማ",
+        "pronunciation": "diploma",
+        "category": "Education"
+    },
+    {
+        "word": "Certificate",
+        "english": "Certificate",
+        "amharic": "ሰርተፍኬት",
+        "oromifa": "Ragaa",
+        "tigrinya": "ሰርቲፊኬት",
+        "pronunciation": "sertefiket",
+        "category": "Education"
+    },
+    {
+        "word": "Academic",
+        "english": "Academic",
+        "amharic": "አካዳሚክ",
+        "oromifa": "Akkaadaamikii",
+        "tigrinya": "ኣካዳሚ",
+        "pronunciation": "akademik",
+        "category": "Education"
+    },
+    {
+        "word": "Faculty",
+        "english": "Faculty",
+        "amharic": "ፋኩልቲ",
+        "oromifa": "Faakiltii",
+        "tigrinya": "ፋካልቲ",
+        "pronunciation": "fakulti",
+        "category": "Education"
+    },
+    {
+        "word": "Experiment",
+        "english": "Experiment",
+        "amharic": "ሙከራ",
+        "oromifa": "Qorannoo",
+        "tigrinya": "ፈተነ",
+        "pronunciation": "mukera",
+        "category": "Education"
+    },
+    {
+        "word": "Laboratory",
+        "english": "Laboratory",
+        "amharic": "ላቦራቶሪ",
+        "oromifa": "Laboraatoorii",
+        "tigrinya": "ላቦራቶሪ",
+        "pronunciation": "laboratori",
+        "category": "Education"
+    },
+    {
+        "word": "Discussion",
+        "english": "Discussion",
+        "amharic": "ውይይት",
+        "oromifa": "Marii",
+        "tigrinya": "ዘተ",
+        "pronunciation": "wiyit",
+        "category": "Education"
+    },
+    {
+        "word": "Presentation",
+        "english": "Presentation",
+        "amharic": "አቀራረብ",
+        "oromifa": "Ibsa",
+        "tigrinya": "ምቅራብ",
+        "pronunciation": "akerareb",
+        "category": "Education"
+    },
+    {
+        "word": "Essay",
+        "english": "Essay",
+        "amharic": "ጽሑፍ",
+        "oromifa": "Barreeffama",
+        "tigrinya": "ጽሑፍ",
+        "pronunciation": "tshuf",
+        "category": "Education"
+    },
+    {
+        "word": "Attendance",
+        "english": "Attendance",
+        "amharic": "መገኘት",
+        "oromifa": "Argama",
+        "tigrinya": "ምእታው",
+        "pronunciation": "megenet",
+        "category": "Education"
+    },
+    {
+        "word": "Discipline",
+        "english": "Discipline",
+        "amharic": "ዲሲፕሊን",
+        "oromifa": "Disipiliinii",
+        "tigrinya": "ዲሲፕሊን",
+        "pronunciation": "disiplin",
+        "category": "Education"
+    },
+    {
+        "word": "Mentor",
+        "english": "Mentor",
+        "amharic": "አማካሪ",
+        "oromifa": "Gorsaa",
+        "tigrinya": "መተካእታ",
+        "pronunciation": "amakari",
+        "category": "Education"
+    }
+]
