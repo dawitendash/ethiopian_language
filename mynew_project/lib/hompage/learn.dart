@@ -3,15 +3,15 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:mynew_project/hompage/DictionaryScreen.dart';
-import 'package:mynew_project/hompage/locale_provider.dart';
+import 'package:mynew_project/models/supported_language.dart';
 import 'package:provider/provider.dart';
 
-import '../models/supported_language.dart';
+// Adjust if DictionaryScreen is not used elsewhere
 import 'favorites_page.dart';
+import 'locale_provider.dart';
 
 class LessonsScreen extends StatefulWidget {
   final String fullName;
-
   const LessonsScreen({Key? key, required this.fullName}) : super(key: key);
 
   @override
@@ -19,67 +19,76 @@ class LessonsScreen extends StatefulWidget {
 }
 
 class _LessonsScreenState extends State<LessonsScreen> {
-  List<dynamic> lessons = [];
-  List<dynamic> filteredLessons = [];
+  List<dynamic> dictionary = [];
+  List<dynamic> filteredWords = [];
   String selectedCategory = 'All';
   final TextEditingController _searchController = TextEditingController();
-  int _selectedIndex = 0;
+  int _selectedIndex = 0; // Lessons tab selected by default
   bool _isLoading = true;
   String? _errorMessage;
 
   @override
   void initState() {
     super.initState();
-    loadLessons();
-    _searchController.addListener(_filterLessons);
+    loadDictionary();
+    _searchController.addListener(_filterWords);
   }
 
-  Future<void> loadLessons() async {
+  Future<void> loadDictionary() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/lessons.json',
+        'assets/ethiopian_dictionary.json',
       );
       final data = json.decode(response);
       setState(() {
-        lessons = data;
-        filteredLessons = lessons;
+        dictionary = data;
+        filteredWords = dictionary;
         _isLoading = false;
       });
     } catch (e) {
       setState(() {
-        _errorMessage = 'Failed to load lessons: $e';
+        _errorMessage = 'Failed to load dictionary: $e';
         _isLoading = false;
       });
     }
   }
 
-  void _filterLessons() {
+  void _filterWords() {
     final query = _searchController.text.toLowerCase();
     final localeProvider = Provider.of<LocaleProvider>(context, listen: false);
-    final lessonTrans = getLessonTranslations(localeProvider.language);
+    final selectedLanguage = localeProvider.language;
     setState(() {
-      filteredLessons =
-          lessons.where((lesson) {
-            final trans = lessonTrans[lesson['title']] ?? {};
-            final title = (trans['title'] ?? lesson['title']).toLowerCase();
-            final desc =
-                (trans['description'] ?? lesson['description']).toLowerCase();
-            final matchesQuery = title.contains(query) || desc.contains(query);
+      filteredWords =
+          dictionary.where((entry) {
+            final word = entry['word'].toLowerCase();
+            final translations = {
+              'english': entry['english'].toLowerCase(),
+              'amharic': entry['amharic'].toLowerCase(),
+              'oromifa': entry['oromifa'].toLowerCase(),
+              'tigrinya': entry['tigrinya'].toLowerCase(),
+            };
+            final pronunciation = entry['pronunciation'].toLowerCase();
+            final matchesQuery =
+                word.contains(query) ||
+                translations['english']!.contains(query) ||
+                translations['amharic']!.contains(query) ||
+                translations['oromifa']!.contains(query) ||
+                translations['tigrinya']!.contains(query) ||
+                pronunciation.contains(query);
             final matchesCategory =
                 selectedCategory == 'All' ||
-                lesson['category'] == selectedCategory;
+                entry['category'] == selectedCategory;
             return matchesQuery && matchesCategory;
           }).toList();
     });
   }
 
-  void _onCategoryChanged(String? newValue) {
-    setState() {
-      selectedCategory = newValue ?? 'All';
-      _filterLessons();
-    }
-
-    ;
+  void _onLessonTapped(String category) {
+    setState(() {
+      selectedCategory = category;
+      _filterWords();
+    });
+    _showWordsDialog(context, filteredWords);
   }
 
   void _onItemTapped(int index) {
@@ -114,16 +123,13 @@ class _LessonsScreenState extends State<LessonsScreen> {
   Widget build(BuildContext context) {
     final localeProvider = Provider.of<LocaleProvider>(context);
     final translations = getTranslations(localeProvider.language);
-    final lessonTrans = getLessonTranslations(localeProvider.language);
-    final categories = [
-      'All',
-      ...lessons.map((lesson) => lesson['category']).toSet().toList(),
-    ];
+    final lessonTranslations = getLessonTranslations(localeProvider.language);
+    final lessons = lessonTranslations.keys.toList();
 
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          translations['appBarTitleLessons'] ?? 'Lessons',
+          translations['lessons'] ?? 'Lessons',
           style: const TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 22,
@@ -155,60 +161,6 @@ class _LessonsScreenState extends State<LessonsScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Container(
-                padding: const EdgeInsets.symmetric(
-                  horizontal: 12,
-                  vertical: 8,
-                ),
-                decoration: BoxDecoration(
-                  color: Colors.white,
-                  borderRadius: BorderRadius.circular(12),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.1),
-                      blurRadius: 6,
-                      offset: const Offset(0, 2),
-                    ),
-                  ],
-                ),
-                child: Row(
-                  children: [
-                    const Text(
-                      'Category:',
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w600,
-                        color: Colors.black87,
-                      ),
-                    ),
-                    const SizedBox(width: 10),
-                    Expanded(
-                      child: DropdownButton<String>(
-                        value: selectedCategory,
-                        isExpanded: true,
-                        items:
-                            categories.map((category) {
-                              return DropdownMenuItem<String>(
-                                value: category,
-                                child: Text(
-                                  category,
-                                  style: const TextStyle(
-                                    fontSize: 16,
-                                    color: Colors.black87,
-                                  ),
-                                ),
-                              );
-                            }).toList(),
-                        onChanged: _onCategoryChanged,
-                        style: const TextStyle(color: Colors.black87),
-                        dropdownColor: Colors.white,
-                        underline: const SizedBox(),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 16),
               Container(
                 decoration: BoxDecoration(
                   color: Colors.white,
@@ -271,24 +223,16 @@ class _LessonsScreenState extends State<LessonsScreen> {
                             ),
                           ),
                         )
-                        : filteredLessons.isEmpty
-                        ? const Center(
-                          child: Text(
-                            'No lessons found',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.black54,
-                            ),
-                          ),
-                        )
                         : ListView.builder(
-                          itemCount: filteredLessons.length,
+                          itemCount: lessons.length,
                           itemBuilder: (context, index) {
-                            final lesson = filteredLessons[index];
+                            final lessonKey = lessons[index];
+                            final lesson = lessonTranslations[lessonKey];
                             return _buildLessonCard(
+                              lessonKey,
                               lesson,
-                              lessonTrans,
                               translations,
+                              localeProvider.language,
                             );
                           },
                         ),
@@ -342,17 +286,14 @@ class _LessonsScreenState extends State<LessonsScreen> {
   }
 
   Widget _buildLessonCard(
-    dynamic lesson,
-    Map<String, dynamic> lessonTrans,
+    String lessonKey,
+    Map<String, String>? lesson,
     Map<String, dynamic> translations,
+    SupportedLanguage selectedLanguage,
   ) {
-    final trans = lessonTrans[lesson['title']] ?? {};
-    final title = trans['title'] ?? lesson['title'];
-    final desc = trans['description'] ?? lesson['description'];
-
+    if (lesson == null) return const SizedBox.shrink();
     return GestureDetector(
-      onTap:
-          () => _showLessonDetails(context, lesson, lessonTrans, translations),
+      onTap: () => _onLessonTapped(lessonKey),
       child: Card(
         elevation: 3,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
@@ -371,40 +312,17 @@ class _LessonsScreenState extends State<LessonsScreen> {
               horizontal: 16,
               vertical: 12,
             ),
-            leading: Image.asset(
-              lesson['image'],
-              width: 50,
-              height: 50,
-              errorBuilder:
-                  (context, error, stackTrace) =>
-                      const Icon(Icons.error, color: Colors.red, size: 50),
-            ),
             title: Text(
-              title,
+              lesson['title'] ?? lessonKey,
               style: const TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w700,
                 color: Colors.black87,
               ),
             ),
-            subtitle: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  desc,
-                  style: TextStyle(fontSize: 14, color: Colors.grey[700]),
-                  maxLines: 2,
-                  overflow: TextOverflow.ellipsis,
-                ),
-                Text(
-                  '${translations['categoryLabel'] ?? 'Category'}: ${lesson['category']}',
-                  style: TextStyle(fontSize: 14, color: Colors.grey[700]),
-                ),
-                Text(
-                  '${translations['levelLabel'] ?? 'Level'}: ${lesson['level']}',
-                  style: TextStyle(fontSize: 14, color: Colors.grey[700]),
-                ),
-              ],
+            subtitle: Text(
+              lesson['description'] ?? '',
+              style: TextStyle(fontSize: 14, color: Colors.grey[700]),
             ),
           ),
         ),
@@ -412,15 +330,10 @@ class _LessonsScreenState extends State<LessonsScreen> {
     );
   }
 
-  void _showLessonDetails(
-    BuildContext context,
-    dynamic lesson,
-    Map<String, dynamic> lessonTrans,
-    Map<String, dynamic> translations,
-  ) {
-    final trans = lessonTrans[lesson['title']] ?? {};
-    final title = trans['title'] ?? lesson['title'];
-    final desc = trans['description'] ?? lesson['description'];
+  void _showWordsDialog(BuildContext context, List<dynamic> words) {
+    final localeProvider = Provider.of<LocaleProvider>(context, listen: false);
+    final translations = getTranslations(localeProvider.language);
+    final selectedLanguage = localeProvider.language;
 
     showDialog(
       context: context,
@@ -430,6 +343,9 @@ class _LessonsScreenState extends State<LessonsScreen> {
               borderRadius: BorderRadius.circular(16),
             ),
             child: Container(
+              height:
+                  MediaQuery.of(context).size.height *
+                  0.6, // Set modal height to 60% of screen height
               padding: const EdgeInsets.all(16),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(16),
@@ -439,83 +355,136 @@ class _LessonsScreenState extends State<LessonsScreen> {
                   end: Alignment.bottomCenter,
                 ),
               ),
-              child: SingleChildScrollView(
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      title,
-                      style: const TextStyle(
-                        fontSize: 22,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.black87,
-                      ),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    translations['dictionary'] ?? 'Dictionary',
+                    style: const TextStyle(
+                      fontSize: 22,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black87,
                     ),
-                    const Divider(color: Colors.green, height: 16),
-                    _buildDetailRow('Description', desc),
-                    _buildDetailRow('Category', lesson['category']),
-                    _buildDetailRow('Level', lesson['level']),
-                    const SizedBox(height: 16),
-                    Image.asset(
-                      lesson['image'],
-                      width: 100,
-                      height: 100,
-                      errorBuilder:
-                          (context, error, stackTrace) => const Icon(
-                            Icons.error,
-                            color: Colors.red,
-                            size: 50,
-                          ),
-                    ),
-                    const SizedBox(height: 16),
-                    Align(
-                      alignment: Alignment.centerRight,
-                      child: TextButton(
-                        onPressed: () => Navigator.pop(context),
-                        child: const Text(
-                          'Close',
-                          style: TextStyle(
-                            color: Colors.green,
-                            fontWeight: FontWeight.w600,
-                            fontSize: 16,
-                          ),
+                  ),
+                  const Divider(color: Colors.green, height: 16),
+                  Expanded(
+                    child:
+                        words.isEmpty
+                            ? Center(
+                              child: Text(
+                                translations['noWordsFound'] ??
+                                    'No words found',
+                                style: const TextStyle(
+                                  fontSize: 16,
+                                  color: Colors.black54,
+                                ),
+                              ),
+                            )
+                            : ListView.builder(
+                              itemCount: words.length,
+                              itemBuilder: (context, index) {
+                                final entry = words[index];
+                                return _buildWordCard(
+                                  entry,
+                                  translations,
+                                  selectedLanguage,
+                                );
+                              },
+                            ),
+                  ),
+                  const SizedBox(height: 16),
+                  Align(
+                    alignment: Alignment.centerRight,
+                    child: TextButton(
+                      onPressed: () => Navigator.pop(context),
+                      child: Text(
+                        translations['okButton'] ?? 'Close',
+                        style: const TextStyle(
+                          color: Colors.green,
+                          fontWeight: FontWeight.w600,
+                          fontSize: 16,
                         ),
                       ),
                     ),
-                  ],
-                ),
+                  ),
+                ],
               ),
             ),
           ),
     );
   }
 
-  Widget _buildDetailRow(String label, String? value) {
-    if (value == null || value.isEmpty) return const SizedBox.shrink();
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 4),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          SizedBox(
-            width: 100,
-            child: Text(
-              '$label:',
+  Widget _buildWordCard(
+    dynamic entry,
+    Map<String, dynamic> translations,
+    SupportedLanguage selectedLanguage,
+  ) {
+    String primaryWord;
+    switch (selectedLanguage) {
+      case SupportedLanguage.amharic:
+        primaryWord = entry['amharic'];
+        break;
+      case SupportedLanguage.oromiffa:
+        primaryWord = entry['oromifa'];
+        break;
+      case SupportedLanguage.tigrigna:
+        primaryWord = entry['tigrinya'];
+        break;
+      case SupportedLanguage.english:
+      default:
+        primaryWord = entry['english'];
+        break;
+    }
+
+    return Card(
+      elevation: 2,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+      margin: const EdgeInsets.symmetric(vertical: 4),
+      child: Padding(
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              primaryWord,
               style: const TextStyle(
+                fontSize: 16,
                 fontWeight: FontWeight.w600,
-                fontSize: 14,
                 color: Colors.black87,
               ),
             ),
-          ),
-          Expanded(
-            child: Text(
-              value,
-              style: const TextStyle(fontSize: 14, color: Colors.black54),
+            const SizedBox(height: 8),
+            if (selectedLanguage != SupportedLanguage.english)
+              Text(
+                'English: ${entry['english']}',
+                style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+              ),
+            if (selectedLanguage != SupportedLanguage.amharic)
+              Text(
+                'Amharic: ${entry['amharic']}',
+                style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+              ),
+            if (selectedLanguage != SupportedLanguage.oromiffa)
+              Text(
+                'Oromifa: ${entry['oromifa']}',
+                style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+              ),
+            if (selectedLanguage != SupportedLanguage.tigrigna)
+              Text(
+                'Tigrinya: ${entry['tigrinya']}',
+                style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+              ),
+            Text(
+              'Pronunciation: ${entry['pronunciation']}',
+              style: TextStyle(fontSize: 14, color: Colors.grey[700]),
             ),
-          ),
-        ],
+            Text(
+              '${translations['categoryLabel'] ?? 'Category'}: ${entry['category']}',
+              style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+            ),
+          ],
+        ),
       ),
     );
   }

@@ -1,21 +1,22 @@
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'hompage/sign_up.dart'; 
+import 'package:flutter/material.dart';
+import 'package:mynew_project/hompage/firstpage.dart';
 import 'package:mynew_project/hompage/locale_provider.dart';
+import 'package:provider/provider.dart';
+
 import 'theme_provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-     apiKey: "AIzaSyBtwiva_-HAxPWOoNsAvW6YFhwOaRznoYk",
-  authDomain: "lang-cbbc0.firebaseapp.com",
-  projectId: "lang-cbbc0",
-  storageBucket: "lang-cbbc0.firebasestorage.app",
-  messagingSenderId: "406329604387",
-  appId: "1:406329604387:web:8f34cf891efcdd3b8bb496",
-  measurementId: "G-4KR7FWC578"
+      apiKey: "AIzaSyBtwiva_-HAxPWOoNsAvW6YFhwOaRznoYk",
+      authDomain: "lang-cbbc0.firebaseapp.com",
+      projectId: "lang-cbbc0",
+      storageBucket: "lang-cbbc0.firebasestorage.app",
+      messagingSenderId: "406329604387",
+      appId: "1:406329604387:web:8f34cf891efcdd3b8bb496",
+      measurementId: "G-4KR7FWC578",
     ),
   );
   runApp(
@@ -72,7 +73,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       themeMode: themeProvider.themeMode,
-      home: const SignUp(),
+      home: Dashbord(),
     );
   }
 }

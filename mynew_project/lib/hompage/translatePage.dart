@@ -1,3 +1,130 @@
+import 'package:flutter/material.dart';
+import 'package:mynew_project/hompage/firstpage.dart'; // Ensure Dashboard is defined
+import 'package:mynew_project/hompage/locale_provider.dart';
+import 'package:provider/provider.dart';
+
+import '../models/supported_language.dart';
+import '../theme_provider.dart';
+
+class TranslatePage extends StatefulWidget {
+  const TranslatePage({super.key});
+
+  @override
+  _TranslatePageState createState() => _TranslatePageState();
+}
+
+class _TranslatePageState extends State<TranslatePage> {
+  void _navigateToDashboard() {
+    try {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => const Dashbord()),
+      );
+    } catch (e) {
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(SnackBar(content: Text('Navigation error: $e')));
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final localeProvider = Provider.of<LocaleProvider>(context);
+    final themeProvider = Provider.of<ThemeProvider>(context);
+    final translations = getTranslations(localeProvider.language);
+    final isDarkMode = themeProvider.themeMode == ThemeMode.dark;
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(
+          translations['appBarTitleTranslate'] ?? 'Translate',
+          style: const TextStyle(
+            fontWeight: FontWeight.bold,
+            fontSize: 22,
+            color: Colors.white,
+          ),
+        ),
+        backgroundColor: Colors.green[800],
+        elevation: 0,
+        flexibleSpace: Container(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              colors: [Colors.green[800]!, Colors.yellow[600]!],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
+          ),
+        ),
+        leading: IconButton(
+          onPressed: _navigateToDashboard,
+          icon: const Icon(Icons.arrow_back, color: Colors.white),
+        ),
+      ),
+      body: Container(
+        decoration: BoxDecoration(
+          gradient:
+              isDarkMode
+                  ? null
+                  : LinearGradient(
+                    colors: [Colors.green[50]!, Colors.yellow[50]!],
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                  ),
+        ),
+        child: Center(
+          child: Card(
+            elevation: 4,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(12),
+            ),
+            margin: const EdgeInsets.symmetric(horizontal: 16),
+            child: Container(
+              padding: const EdgeInsets.all(24.0),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(12),
+                gradient: LinearGradient(
+                  colors: [
+                    isDarkMode ? Colors.grey[800]! : Colors.white,
+                    isDarkMode ? Colors.grey[800]! : Colors.yellow[50]!,
+                  ],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+              ),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.construction, size: 60, color: Colors.green[800]),
+                  const SizedBox(height: 16),
+                  Text(
+                    translations['comingSoon'] ?? 'Coming Soon!',
+                    style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: isDarkMode ? Colors.white : Colors.black87,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 8),
+                  Text(
+                    translations['comingSoonMessage'] ??
+                        'This feature is under development. Stay tuned!',
+                    style: TextStyle(
+                      fontSize: 16,
+                      color: isDarkMode ? Colors.white70 : Colors.black54,
+                      height: 1.5,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
 // import 'package:flutter/material.dart';
 // import 'package:mynew_project/hompage/firstpage.dart';
 // import 'package:mynew_project/hompage/locale_provider.dart';

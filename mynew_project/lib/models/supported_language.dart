@@ -17,58 +17,654 @@ Map<SupportedLanguage, List<Map<String, dynamic>>> getQuizQuestions() {
   return {
     SupportedLanguage.amharic: [
       {
-        'question': 'ለ"መልካም ምሽት" የሚለው ቃል በአማርኛ ምንድን ነው?',
+        'question': 'What is the Amharic translation of "Good evening"?',
         'options': ['ሰላም', 'ደህና እንደራችሁ?', 'እንደምን አምሳላችሁ?', 'ጤና ይስጥልኝ'],
         'correctAnswer': 'ጤና ይስጥልኝ',
       },
       {
-        'question': 'ለ"እናመሰግናለን" የሚለው ቃል በአማርኛ ምንድን ነው?',
+        'question': 'What is the Amharic translation of "We thank you"?',
         'options': ['አመሰግናለሁ', 'ሰላም', 'ተናደ', 'እሺ'],
         'correctAnswer': 'አመሰግናለሁ',
+      },
+      {
+        'question': 'What is the Amharic word for "Hello"?',
+        'options': ['ሰላም', 'ቻው', 'አመሰግናለሁ', 'እባክህ'],
+        'correctAnswer': 'ሰላም',
+      },
+      {
+        'question': 'What is the Amharic word for "Please"?',
+        'options': ['አመሰግናለሁ', 'እባክህ', 'ደህና እንደምን አደርክ', 'ቻው'],
+        'correctAnswer': 'እባክህ',
+      },
+      {
+        'question': 'How do you say "five" in Amharic?',
+        'options': ['አምስት', 'ሁለት', 'አስር', 'አንድ'],
+        'correctAnswer': 'አምስት',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Dehna indemin aderk" (Good morning) in Amharic?',
+        'options': ['አመሰግናለሁ', 'ደህና ነኝ', 'ሰላም', 'ቻው'],
+        'correctAnswer': 'ደህና ነኝ',
+      },
+      {
+        'question': 'What is the Amharic word for "Lesson"?',
+        'options': ['ትምህርት ቤት', 'መምህር', 'ትምህርት', 'መጽሐፍ'],
+        'correctAnswer': 'ትምህርት',
+      },
+      {
+        'question': 'What is the Amharic word for "Goodbye"?',
+        'options': ['ሰላም', 'ቻው', 'አመሰግናለሁ', 'እባክህ'],
+        'correctAnswer': 'ቻው',
+      },
+      {
+        'question': 'How do you say "ten" in Amharic?',
+        'options': ['አምስት', 'አስር', 'ሁለት', 'አንድ'],
+        'correctAnswer': 'አስር',
+      },
+      {
+        'question': 'What is the Amharic word for "Water"?',
+        'options': ['ምግብ', 'ውሃ', 'ቤት', 'መኪና'],
+        'correctAnswer': 'ውሃ',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Indemin alesh?" (How are you, female) in Amharic?',
+        'options': ['አመሰግናለሁ', 'ደህና ነኝ', 'ሰላም', 'ቻው'],
+        'correctAnswer': 'ደህና ነኝ',
+      },
+      {
+        'question': 'What is the Amharic word for "Food"?',
+        'options': ['ምግብ', 'ውሃ', 'ቀሚስ', 'መጽሐፍ'],
+        'correctAnswer': 'ምግብ',
+      },
+      {
+        'question': 'How do you say "two" in Amharic?',
+        'options': ['አንድ', 'ሁለት', 'ሶስት', 'አራት'],
+        'correctAnswer': 'ሁለት',
+      },
+      {
+        'question': 'What is the Amharic word for "House"?',
+        'options': ['ትምህርት ቤት', 'ቤት', 'መኪና', 'መንገድ'],
+        'correctAnswer': 'ቤት',
+      },
+      {
+        'question': 'What does "Ene feligalehu" mean in Amharic?',
+        'options': ['እኔ ነኝ', 'እኔ እፈልጋለሁ', 'እኔ አያለሁ', 'እኔ እሄዳለሁ'],
+        'correctAnswer': 'እኔ እፈልጋለሁ',
+      },
+      {
+        'question': 'What is the Amharic word for "Car"?',
+        'options': ['መኪና', 'ቤት', 'መንገድ', 'ትምህርት ቤት'],
+        'correctAnswer': 'መኪና',
+      },
+      {
+        'question': 'How do you say "three" in Amharic?',
+        'options': ['አንድ', 'ሁለት', 'ሶስት', 'አራቴ'],
+        'correctAnswer': 'ሶስት',
+      },
+      {
+        'question': 'What is the Amharic word for "Monday"?',
+        'options': ['ሰኞ', 'ማክሰኞ', 'ረቡዕ', 'እሁድ'],
+        'correctAnswer': 'ሰኞ',
+      },
+      {
+        'question': 'What does "Ene hedalehu" mean in Amharic?',
+        'options': ['እኔ አያለሁ', 'እኔ እሄዳለሁ', 'እኔ እፈልጋለሁ', 'እኔ ነኝ'],
+        'correctAnswer': 'እኔ እሄዳለሁ',
+      },
+      {
+        'question': 'What is the Amharic word for "Book"?',
+        'options': ['መጽሐፍ', 'እስክርቢቶ', 'ወረቀት', 'ጠረጴዛ'],
+        'correctAnswer': 'መጽሐፍ',
+      },
+      {
+        'question': 'What is the Amharic word for "Airplane"?',
+        'options': ['መኪና', 'አውሮፕላን', 'አውቶቡስ', 'ባቡር'],
+        'correctAnswer': 'አውሮፕላን',
+      },
+      {
+        'question': 'What is the Amharic word for "School"?',
+        'options': ['ትምህርት ቤት', 'መምህር', 'ትምህርት', 'መጽሐፍ'],
+        'correctAnswer': 'ትምህርት ቤት',
+      },
+      {
+        'question':
+            'What is the correct Amharic sentence for "I am a student"?',
+        'options': ['እኔ ተማሪ ነኝ', 'ተማሪ እኔ ነኝ', 'እኔ ተማሪ እየ', 'ተማሪ ነኝ እኔ'],
+        'correctAnswer': 'እኔ ተማሪ ነኝ',
+      },
+      {
+        'question': 'What is the Amharic word for "Tuesday"?',
+        'options': ['ሰኞ', 'ማክሰኞ', 'ረቡዕ', 'እሁድ'],
+        'correctAnswer': 'ማክሰኞ',
+      },
+      // 10 new Amharic questions
+      {
+        'question': 'What is the Amharic word for "Teacher"?',
+        'options': ['ተማሪ', 'መምህር', 'ትምህርት', 'መጽሐፍ'],
+        'correctAnswer': 'መምህር',
+      },
+      {
+        'question': 'How do you say "four" in Amharic?',
+        'options': ['አምስት', 'ሶስት', 'አራት', 'ሁለት'],
+        'correctAnswer': 'አራት',
+      },
+      {
+        'question': 'What is the Amharic word for "Wednesday"?',
+        'options': ['ሰኞ', 'ማክሰኞ', 'ረቡዕ', 'እሁድ'],
+        'correctAnswer': 'ረቡዕ',
+      },
+      {
+        'question': 'What does "Ene ayalehu" mean in Amharic?',
+        'options': ['እኔ እፈልጋለሁ', 'እኔ እሄዳለሁ', 'እኔ አያለሁ', 'እኔ ነኝ'],
+        'correctAnswer': 'እኔ አያለሁ',
+      },
+      {
+        'question': 'What is the Amharic word for "Paper"?',
+        'options': ['መጽሐፍ', 'ወረቀት', 'እስክርቢቶ', 'ጠረጴዛ'],
+        'correctAnswer': 'ወረቀት',
+      },
+      {
+        'question':
+            'What is the appropriate Amharic response to "Ameseginalehu" (Thank you)?',
+        'options': ['አመሰግናለሁ', 'ምንም አይደለም', 'ሰላም', 'ደህና ነኝ'],
+        'correctAnswer': 'ምንም አይደለም',
+      },
+      {
+        'question': 'How do you say "seven" in Amharic?',
+        'options': ['አምስት', 'ሰባት', 'አስር', 'ሶስት'],
+        'correctAnswer': 'ሰባት',
+      },
+      {
+        'question': 'What is the Amharic word for "Pen"?',
+        'options': ['መጽሐፍ', 'ወረቀት', 'እስክርቢቶ', 'ጠረጴዛ'],
+        'correctAnswer': 'እስክርቢቶ',
+      },
+      {
+        'question': 'What is the correct Amharic question for "Where are you?"',
+        'options': ['አንተ የት ነህ?', 'የት ነህ አንተ?', 'አንተ የት ነህ ነው?', 'የት ነህ?'],
+        'correctAnswer': 'የት ነህ?',
+      },
+      {
+        'question': 'What is the Amharic word for "Sunday"?',
+        'options': ['ሰኞ', 'ማክሰኞ', 'ረቡዕ', 'እሁድ'],
+        'correctAnswer': 'እሁድ',
       },
       // Add more questions (at least 5 for "Question X/5")
     ],
     SupportedLanguage.oromiffa: [
       {
-        'question': 'Jecha "Good Evening" Afaan Oromoo keessatti maali?',
+        'question': 'What is the Oromiffa translation of "Good evening"?',
         'options': ['Akkam', 'Maalif?', 'Galatooma', 'Nagaan Galaa'],
         'correctAnswer': 'Nagaan Galaa',
       },
       {
-        'question': 'Jecha "Thank you" Afaan Oromoo keessatti maali?',
+        'question': 'What is the Oromiffa translation of "Thank you"?',
         'options': ['Akkam', 'Galatooma', 'Garaa', 'Eeyyee'],
         'correctAnswer': 'Galatooma',
+      },
+      // 18 new Oromiffa questions with English prompts
+      {
+        'question': 'What is the Oromiffa word for "Hello"?',
+        'options': ['Akkam', 'Nagaatti', 'Galatooma', 'Maalif?'],
+        'correctAnswer': 'Akkam',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Please"?',
+        'options': ['Galatooma', 'Maalif?', 'Fayyaa', 'Naaf'],
+        'correctAnswer': 'Naaf',
+      },
+      {
+        'question': 'How do you say "five" in Oromiffa?',
+        'options': ['Shan', 'Lama', 'Kudha', 'Tokko'],
+        'correctAnswer': 'Shan',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Akkam bulte" (Good morning) in Oromiffa?',
+        'options': ['Galatooma', 'Nagaan jira', 'Akkam', 'Nagaatti'],
+        'correctAnswer': 'Nagaan jira',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Lesson"?',
+        'options': ['Mana Barumsaa', 'Barataa', 'Barnoota', 'Kitaaba'],
+        'correctAnswer': 'Barnoota',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Goodbye"?',
+        'options': ['Akkam', 'Nagaatti', 'Galatooma', 'Nagaan jira'],
+        'correctAnswer': 'Nagaatti',
+      },
+      {
+        'question': 'How do you say "ten" in Oromiffa?',
+        'options': ['Shan', 'Kudha', 'Sadii', 'Dhibba'],
+        'correctAnswer': 'Kudha',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Water"?',
+        'options': ['Nyaata', 'Bishaan', 'Mana', 'Meekina'],
+        'correctAnswer': 'Bishaan',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Akkam jirta?" (How are you?) in Oromiffa?',
+        'options': ['Galatooma', 'Nagaan jira', 'Akkam', 'Nagaatti'],
+        'correctAnswer': 'Nagaan jira',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Food"?',
+        'options': ['Nyaata', 'Bishaan', 'Uffata', 'Kitaaba'],
+        'correctAnswer': 'Nyaata',
+      },
+      {
+        'question': 'How do you say "two" in Oromiffa?',
+        'options': ['Tokko', 'Lama', 'Sadii', 'Afur'],
+        'correctAnswer': 'Lama',
+      },
+      {
+        'question': 'What is the Oromiffa word for "House"?',
+        'options': ['Mana Barumsaa', 'Mana', 'Meekina', 'Karaa'],
+        'correctAnswer': 'Mana',
+      },
+      {
+        'question': 'What does "Ana barbaada" mean in Oromiffa?',
+        'options': ['Ana jira', 'Ana barbaada', 'Ana arga', 'Ana deema'],
+        'correctAnswer': 'Ana barbaada',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Car"?',
+        'options': ['Meekina', 'Mana', 'Karaa', 'Mana Barumsaa'],
+        'correctAnswer': 'Meekina',
+      },
+      {
+        'question': 'How do you say "three" in Oromiffa?',
+        'options': ['Tokko', 'Lama', 'Sadii', 'Afur'],
+        'correctAnswer': 'Sadii',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Friday"?',
+        'options': ['Jimaata', 'Kamiisa', 'Sanbata', 'Dilbata'],
+        'correctAnswer': 'Jimaata',
+      },
+      {
+        'question': 'What does "Ana deema" mean in Oromiffa?',
+        'options': ['Ana arga', 'Ana deema', 'Ana barbaada', 'Ana jira'],
+        'correctAnswer': 'Ana deema',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Book"?',
+        'options': ['Kitaaba', 'Warqee', 'Qalamii', 'Teepii'],
+        'correctAnswer': 'Kitaaba',
       },
       // Add more questions
     ],
     SupportedLanguage.tigrigna: [
       {
-        'question': 'ናይ "Good Evening" ቃል ብትግርኛ እንታይ እዩ?',
+        'question': 'What is the Tigrigna translation of "Good evening"?',
         'options': ['ሰላም', 'ከመይ ኢኻ?', 'ኣንታ ሓው?', 'ጤና ይሃበልካ'],
         'correctAnswer': 'ጤና ይሃበልካ',
       },
       {
-        'question': 'ናይ "Thank you" ቃል ብትግርኛ እንታይ እዩ?',
+        'question': 'What is the Tigrigna translation of "Thank you"?',
         'options': ['የቐንየለይ', 'ሰላም', 'እሺ', 'ኣይፋል'],
         'correctAnswer': 'የቐንየለይ',
+      },
+      // 18 new Tigrigna questions with English prompts
+      {
+        'question': 'What is the Tigrigna word for "Hello"?',
+        'options': ['ሰላም', 'ቻው', 'የቐንየለይ', 'በጃኹም'],
+        'correctAnswer': 'ሰላም',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Please"?',
+        'options': ['የቐንየለይ', 'በጃኹም', 'ደሓን ቀኒኻ', 'ቻው'],
+        'correctAnswer': 'በጃኹም',
+      },
+      {
+        'question': 'How do you say "five" in Tigrigna?',
+        'options': ['ሓሙሽተ', 'ክልተ', 'ዓሰርተ', 'ሓደ'],
+        'correctAnswer': 'ሓሙሽተ',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Dehan qenika" (Good morning) in Tigrigna?',
+        'options': ['የቐንየለይ', 'ደሓን እየ', 'ሰላም', 'ቻው'],
+        'correctAnswer': 'ደሓን እየ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Lesson"?',
+        'options': ['ቤት ትምህርቲ', 'መምህር', 'ትምህርቲ', 'መጽሐፍ'],
+        'correctAnswer': 'ትምህርቲ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Goodbye"?',
+        'options': ['ሰላም', 'ቻው', 'የቐንየለይ', 'በጃኹም'],
+        'correctAnswer': 'ቻው',
+      },
+      {
+        'question': 'How do you say "ten" in Tigrigna?',
+        'options': ['ሓሙሽተ', 'ዓሰርተ', 'ክልተ', 'ሓደ'],
+        'correctAnswer': 'ዓሰርተ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Water"?',
+        'options': ['ምግቢ', 'ማይ', 'ገዛ', 'መኪና'],
+        'correctAnswer': 'ማይ',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Kemey ika?" (How are you?) in Tigrigna?',
+        'options': ['የቐንየለይ', 'ደሓን እየ', 'ሰላም', 'ቻው'],
+        'correctAnswer': 'ደሓን እየ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Food"?',
+        'options': ['ምግቢ', 'ማይ', 'ልብሲ', 'መጽሐፍ'],
+        'correctAnswer': 'ምግቢ',
+      },
+      {
+        'question': 'How do you say "two" in Tigrigna?',
+        'options': ['ሓደ', 'ክልተ', 'ሰለስተ', 'ኣርባዕተ'],
+        'correctAnswer': 'ክልተ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "House"?',
+        'options': ['ቤት ትምህርቲ', 'ገዛ', 'መኪና', 'መገዲ'],
+        'correctAnswer': 'ገዛ',
+      },
+      {
+        'question': 'What does "Ane delye" mean in Tigrigna?',
+        'options': ['ኣነ እየ', 'ኣነ ደልየ', 'ኣነ እርኢ', 'ኣነ እኸይድ'],
+        'correctAnswer': 'ኣነ ደልየ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Car"?',
+        'options': ['መኪና', 'ገዛ', 'መገዲ', 'ቤት ትምህርቲ'],
+        'correctAnswer': 'መኪና',
+      },
+      {
+        'question': 'How do you say "three" in Tigrigna?',
+        'options': ['ሓደ', 'ክልተ', 'ሰለስተ', 'ኣርባዕተ'],
+        'correctAnswer': 'ሰለስተ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Monday"?',
+        'options': ['ሰኑይ', 'ሰሉስ', 'ሓሙስ', 'ቀዳም'],
+        'correctAnswer': 'ሰኑይ',
+      },
+      {
+        'question': 'What does "Ane ikheyid" mean in Tigrigna?',
+        'options': ['ኣነ እርኢ', 'ኣነ እኸይድ', 'ኣነ ደልየ', 'ኣነ እየ'],
+        'correctAnswer': 'ኣነ እኸይድ',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Book"?',
+        'options': ['መጽሐፍ', 'እስክሪብቶ', 'ወረቐት', 'ጣውላ'],
+        'correctAnswer': 'መጽሐፍ',
       },
       // Add more questions
     ],
     SupportedLanguage.english: [
       {
-        'question': 'What is the Amharic word for "Good Evening"?',
-        'options': [
-          'Selam',
-          'Dehna Indereachu?',
-          'Endemin Amsalachu?',
-          'Tena Yistilign',
-        ],
-        'correctAnswer': 'Tena Yistilign',
+        'question': 'What is the Tigrigna translation of "Good evening"?',
+        'options': ['Selam', 'Kemey Ika?', 'Anta Haw?', 'Tena Yihabelka'],
+        'correctAnswer': 'Tena Yihabelka',
       },
       {
-        'question': 'What is the Oromiffa word for "Thank you"?',
-        'options': ['Akkam', 'Galatooma', 'Garaa', 'Eeyyee'],
-        'correctAnswer': 'Galatooma',
+        'question': 'What is the Tigrigna translation of "Thank you"?',
+        'options': ['Yekenyeley', 'Selam', 'Ishi', 'Ayfal'],
+        'correctAnswer': 'Yekenyeley',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Hello"?',
+        'options': ['Selam', 'Chaw', 'Yekenyeley', 'Bejakhum'],
+        'correctAnswer': 'Selam',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Please"?',
+        'options': ['Yekenyeley', 'Bejakhum', 'Dehan Qenika', 'Chaw'],
+        'correctAnswer': 'Bejakhum',
+      },
+      {
+        'question': 'How do you say "five" in Tigrigna?',
+        'options': ['Hamushite', 'Kilite', 'Asertte', 'Hade'],
+        'correctAnswer': 'Hamushite',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Dehan Qenika" (Good morning) in Tigrigna?',
+        'options': ['Yekenyeley', 'Dehan Eye', 'Selam', 'Chaw'],
+        'correctAnswer': 'Dehan Eye',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Lesson"?',
+        'options': ['Bet Timhirti', 'Memhir', 'Timhirti', 'Metshaf'],
+        'correctAnswer': 'Timhirti',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Goodbye"?',
+        'options': ['Selam', 'Chaw', 'Yekenyeley', 'Bejakhum'],
+        'correctAnswer': 'Chaw',
+      },
+      {
+        'question': 'How do you say "ten" in Tigrigna?',
+        'options': ['Hamushite', 'Asertte', 'Kilite', 'Hade'],
+        'correctAnswer': 'Asertte',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Water"?',
+        'options': ['Migbi', 'May', 'Geza', 'Mekina'],
+        'correctAnswer': 'May',
+      },
+      {
+        'question':
+            'What is the appropriate response to "Kemey Ika?" (How are you?) in Tigrigna?',
+        'options': ['Yekenyeley', 'Dehan Eye', 'Selam', 'Chaw'],
+        'correctAnswer': 'Dehan Eye',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Food"?',
+        'options': ['Migbi', 'May', 'Libsi', 'Metshaf'],
+        'correctAnswer': 'Migbi',
+      },
+      {
+        'question': 'How do you say "two" in Tigrigna?',
+        'options': ['Hade', 'Kilite', 'Seleste', 'Arbaite'],
+        'correctAnswer': 'Kilite',
+      },
+      {
+        'question': 'What is the Tigrigna word for "House"?',
+        'options': ['Bet Timhirti', 'Geza', 'Mekina', 'Megedi'],
+        'correctAnswer': 'Geza',
+      },
+      {
+        'question': 'What does "Ane Delye" mean in Tigrigna?',
+        'options': ['Ane Eye', 'Ane Delye', 'Ane Ir’i', 'Ane Ikheyid'],
+        'correctAnswer': 'Ane Delye',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Car"?',
+        'options': ['Mekina', 'Geza', 'Megedi', 'Bet Timhirti'],
+        'correctAnswer': 'Mekina',
+      },
+      {
+        'question': 'How do you say "three" in Tigrigna?',
+        'options': ['Hade', 'Kilite', 'Seleste', 'Arbaite'],
+        'correctAnswer': 'Seleste',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Monday"?',
+        'options': ['Senuy', 'Selus', 'Hamus', 'Qedam'],
+        'correctAnswer': 'Senuy',
+      },
+      {
+        'question': 'What does "Ane Ikheyid" mean in Tigrigna?',
+        'options': ['Ane Ir’i', 'Ane Ikheyid', 'Ane Delye', 'Ane Eye'],
+        'correctAnswer': 'Ane Ikheyid',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Book"?',
+        'options': ['Metshaf', 'Iskirbito', 'Wereqet', 'Tawla'],
+        'correctAnswer': 'Metshaf',
+      },
+      // 5 new Tigrigna questions
+      {
+        'question': 'What is the Tigrigna word for "School"?',
+        'options': ['Bet Timhirti', 'Memhir', 'Timhirti', 'Metshaf'],
+        'correctAnswer': 'Bet Timhirti',
+      },
+      {
+        'question': 'How do you say "four" in Tigrigna?',
+        'options': ['Seleste', 'Arbaite', 'Hamushite', 'Kilite'],
+        'correctAnswer': 'Arbaite',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Teacher"?',
+        'options': ['Temari', 'Memhir', 'Timhirti', 'Metshaf'],
+        'correctAnswer': 'Memhir',
+      },
+      {
+        'question':
+            'What is the appropriate Tigrigna response to "Yekenyeley" (Thank you)?',
+        'options': ['Yekenyeley', 'Ayfal', 'Selam', 'Dehan Eye'],
+        'correctAnswer': 'Ayfal',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Tuesday"?',
+        'options': ['Senuy', 'Selus', 'Hamus', 'Qedam'],
+        'correctAnswer': 'Selus',
+      },
+    ],
+    SupportedLanguage.english: [
+      // 15 previous English questions
+      {
+        'question': 'What is the Amharic word for "Please"?',
+        'options': ['Ameseginalehu', 'Ibakih', 'Dehna Indemin Aderk', 'Chaw'],
+        'correctAnswer': 'Ibakih',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Hello"?',
+        'options': ['Akkam', 'Nagaatti', 'Galatooma', 'Maalif'],
+        'correctAnswer': 'Akkam',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Goodbye"?',
+        'options': ['Selam', 'Chaw', 'Yekenyeley', 'Bejakhum'],
+        'correctAnswer': 'Chaw',
+      },
+      {
+        'question': 'What is the Amharic word for "Water"?',
+        'options': ['Migib', 'Wuhha', 'Bet', 'Mekina'],
+        'correctAnswer': 'Wuhha',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Good morning"?',
+        'options': ['Akkam bulte', 'Nagaan galaa', 'Galatooma', 'Nagaatti'],
+        'correctAnswer': 'Akkam bulte',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Thank you"?',
+        'options': ['Yekenyeley', 'Selam', 'Ishi', 'Ayfal'],
+        'correctAnswer': 'Yekenyeley',
+      },
+      {
+        'question': 'What is the Amharic word for "House"?',
+        'options': ['Timhirt Bet', 'Bet', 'Mekina', 'Menged'],
+        'correctAnswer': 'Bet',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Food"?',
+        'options': ['Nyaata', 'Bishaan', 'Uffata', 'Kitaaba'],
+        'correctAnswer': 'Nyaata',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Lesson"?',
+        'options': ['Bet Timhirti', 'Memhir', 'Timhirti', 'Metshaf'],
+        'correctAnswer': 'Timhirti',
+      },
+      {
+        'question': 'What is the Amharic word for "Car"?',
+        'options': ['Mekina', 'Bet', 'Menged', 'Timhirt Bet'],
+        'correctAnswer': 'Mekina',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Please"?',
+        'options': ['Galatooma', 'Maalif', 'Fayyaa', 'Naaf'],
+        'correctAnswer': 'Naaf',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Water"?',
+        'options': ['Migbi', 'May', 'Geza', 'Mekina'],
+        'correctAnswer': 'May',
+      },
+      {
+        'question': 'What is the Amharic word for "Goodbye"?',
+        'options': ['Selam', 'Chaw', 'Ameseginalehu', 'Ibakih'],
+        'correctAnswer': 'Chaw',
+      },
+      {
+        'question': 'What is the Oromiffa word for "House"?',
+        'options': ['Mana Barumsaa', 'Mana', 'Meekina', 'Karaa'],
+        'correctAnswer': 'Mana',
+      },
+      {
+        'question': 'What is the Tigrigna word for "Hello"?',
+        'options': ['Selam', 'Chaw', 'Yekenyeley', 'Bejakhum'],
+        'correctAnswer': 'Selam',
+      },
+      // 10 new English questions
+      {
+        'question': 'What is the Amharic word for "Teacher"?',
+        'options': ['Temari', 'Memhir', 'Timhirt', 'Metshaf'],
+        'correctAnswer': 'Memhir',
+      },
+      {
+        'question': 'What is the Oromiffa word for "School"?',
+        'options': ['Mana Barumsaa', 'Barataa', 'Barnoota', 'Kitaaba'],
+        'correctAnswer': 'Mana Barumsaa',
+      },
+      {
+        'question': 'What is the Tigrigna word for "School"?',
+        'options': ['Bet Timhirti', 'Memhir', 'Timhirti', 'Metshaf'],
+        'correctAnswer': 'Bet Timhirti',
+      },
+      {
+        'question': 'How do you say "four" in Amharic?',
+        'options': ['Sost', 'Arat', 'Amist', 'Hulet'],
+        'correctAnswer': 'Arat',
+      },
+      {
+        'question': 'How do you say "four" in Oromiffa?',
+        'options': ['Sadii', 'Afur', 'Shan', 'Lama'],
+        'correctAnswer': 'Afur',
+      },
+      {
+        'question': 'How do you say "four" in Tigrigna?',
+        'options': ['Seleste', 'Arbaite', 'Hamushite', 'Kilite'],
+        'correctAnswer': 'Arbaite',
+      },
+      {
+        'question':
+            'What is the Amharic response to "Ameseginalehu" (Thank you)?',
+        'options': ['Ameseginalehu', 'Minnim Aydellem', 'Selam', 'Dehna Negn'],
+        'correctAnswer': 'Minnim Aydellem',
+      },
+      {
+        'question': 'What is the Oromiffa response to "Galatooma" (Thank you)?',
+        'options': ['Galatooma', 'Hin oolu', 'Akkam', 'Nagaan jira'],
+        'correctAnswer': 'Hin oolu',
+      },
+      {
+        'question':
+            'What is the Tigrigna response to "Yekenyeley" (Thank you)?',
+        'options': ['Yekenyeley', 'Ayfal', 'Selam', 'Dehan Eye'],
+        'correctAnswer': 'Ayfal',
+      },
+      {
+        'question': 'What is the Oromiffa word for "Teacher"?',
+        'options': ['Barataa', 'Barsiisaa', 'Barnoota', 'Kitaaba'],
+        'correctAnswer': 'Barsiisaa',
       },
       // Add more questions
     ],
@@ -190,6 +786,9 @@ Map<String, dynamic> getTranslations(SupportedLanguage lang) {
   switch (lang) {
     case SupportedLanguage.amharic:
       return {
+        'appBarTitleTranslate': 'ተርጉም',
+        'comingSoon': 'በቅርቡ ይመጣል!',
+        'comingSoonMessage': 'ይህ ባህሪ በማደግ ላይ ነው። ተጠንቀቅ!',
         "appBarTitleContact": "እኛን ያግኙ",
         "contactUs": "እኛን ያግኙ",
         "fullNameLabel": "ሙሉ ስም",
@@ -726,6 +1325,9 @@ Map<String, dynamic> getTranslations(SupportedLanguage lang) {
     case SupportedLanguage.english:
     default:
       return {
+        'appBarTitleTranslate': 'Translate',
+        'comingSoon': 'Coming Soon!',
+        'comingSoonMessage': 'This feature is under development. Stay tuned!',
         "appBarTitleContact": "Contact Us",
         "contactUs": "Contact Us",
         "fullNameLabel": "Full Name",

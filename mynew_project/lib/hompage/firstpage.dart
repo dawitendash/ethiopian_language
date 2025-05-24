@@ -7,6 +7,7 @@ import 'package:mynew_project/hompage/learn.dart';
 import 'package:mynew_project/hompage/quizzesPage.dart';
 import 'package:mynew_project/hompage/settings.dart';
 import 'package:mynew_project/hompage/sign_in.dart';
+import 'package:mynew_project/hompage/translatePage.dart';
 import 'package:mynew_project/models/supported_language.dart';
 import 'package:provider/provider.dart';
 
@@ -212,9 +213,7 @@ class _DashbordState extends State<Dashbord> {
                 children: [
                   CircleAvatar(
                     radius: 45,
-                    backgroundImage: const AssetImage(
-                      "assets/images/WDU_logo.png",
-                    ),
+                    backgroundImage: const AssetImage("assets/images/logo.png"),
                     backgroundColor: Colors.transparent,
                     onBackgroundImageError: (exception, stackTrace) {
                       print('Error loading drawer header image: $exception');
@@ -306,22 +305,6 @@ class _DashbordState extends State<Dashbord> {
                   context,
                   MaterialPageRoute(builder: (context) => const ContactPage()),
                 );
-              },
-            ),
-            const Spacer(),
-            Divider(height: 1, thickness: 1, color: Colors.green[800]),
-            ListTile(
-              leading: Icon(Icons.logout, color: Colors.red.shade700),
-              title: Text(
-                translations['signOut'] ?? "SIGN OUT",
-                style: TextStyle(
-                  color: Colors.red.shade700,
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
-              onTap: () {
-                Navigator.pop(context);
-                signOut();
               },
             ),
             const SizedBox(height: 10),
@@ -539,12 +522,12 @@ class _DashbordState extends State<Dashbord> {
                       title: translations['translate'] ?? 'Translate',
                       color: Colors.green[800]!,
                       onTap: () {
-                        // Navigator.push(
-                        //   context,
-                        //   MaterialPageRoute(
-                        //     builder: (context) => const TranslatePage(),
-                        //   ),
-                        // );
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const TranslatePage(),
+                          ),
+                        );
                       },
                     ),
                   ],

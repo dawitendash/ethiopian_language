@@ -1,26 +1,32 @@
 name: mynew_project
 description: "A new Flutter project."
-publish_to: 'none' # Optional for private packages
+publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
   sdk: ^3.7.0
-  
+
 dependencies:
   flutter:
     sdk: flutter
-  video_player: ^2.4.5
+  lottie: ^3.1.2  # Added for Lottie animation
+  video_player: ^2.9.1
   shared_preferences: ^2.2.2
   timeago: ^3.6.1
   provider: ^6.1.2
   firebase_auth: ^5.0.0
   cloud_firestore: ^5.0.0
   firebase_core: ^3.0.0
-  flutter_native_splash: ^2.3.0  # Make sure it's in dependencies section
-
+  flutter_native_splash: ^2.3.0
+  zego_uikit_prebuilt_call: ^4.13.0
+  zego_uikit: ^2.28.12
+  zego_express_engine: ^3.20.0
+  flutter_callkit_incoming_yoer: ^2.0.4+3
+  uuid: ^4.0.0
   cupertino_icons: ^1.0.8
-  audioplayers: ^5.2.1
+  audioplayers: ^5.2.1  # Kept for sound effect
+  flutter_dotenv: ^5.0.2
 
 dev_dependencies:
   flutter_test:
@@ -34,10 +40,11 @@ flutter:
     - assets/videos/
     - assets/flags/
     - assets/sounds/
+    - assets/animations/  
     - assets/ethiopian_dictionary.json
     - assets/lessons.json
+    - .env
 
-# Correctly placing flutter_native_splash configuration outside of flutter:
 flutter_native_splash:
   image: assets/images/logo.png
   background_color: "#ffffff"
