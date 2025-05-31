@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  lottie: ^3.1.2  # Added for Lottie animation
+  lottie: ^3.0.0  # Added for Lottie animation
   video_player: ^2.9.1
   shared_preferences: ^2.2.2
   timeago: ^3.6.1
@@ -27,6 +27,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   audioplayers: ^5.2.1  # Kept for sound effect
   flutter_dotenv: ^5.0.2
+  http: ^1.4.0 
 
 dev_dependencies:
   flutter_test:
@@ -39,8 +40,7 @@ flutter:
     - assets/images/
     - assets/videos/
     - assets/flags/
-    - assets/sounds/
-    - assets/animations/  
+    - assets/sounds/ 
     - assets/ethiopian_dictionary.json
     - assets/lessons.json
     - .env
