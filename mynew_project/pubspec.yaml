@@ -13,6 +13,7 @@ dependencies:
   lottie: ^3.0.0  # Added for Lottie animation
   video_player: ^2.9.1
   shared_preferences: ^2.2.2
+  smooth_page_indicator: ^1.1.0
   timeago: ^3.6.1
   provider: ^6.1.2
   firebase_auth: ^5.0.0

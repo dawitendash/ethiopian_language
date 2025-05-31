@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:mynew_project/hompage/firstpage.dart';
 import 'package:mynew_project/hompage/locale_provider.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
+import 'onboarding.dart';
 import 'theme_provider.dart';
 
 void main() async {
@@ -19,19 +21,23 @@ void main() async {
       measurementId: "G-4KR7FWC578",
     ),
   );
+  final prefs = await SharedPreferences.getInstance();
+  final isFirstTime = prefs.getBool('isFirstTime') ?? true;
   runApp(
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => LocaleProvider()),
         ChangeNotifierProvider(create: (_) => ThemeProvider()),
       ],
-      child: const MyApp(),
+      child: MyApp(isFirstTime: isFirstTime),
     ),
   );
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  final bool isFirstTime;
+
+  const MyApp({Key? key, required this.isFirstTime}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -73,7 +79,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       themeMode: themeProvider.themeMode,
-      home: Dashbord(),
+      home: isFirstTime ? const OnboardingScreen() : const Dashbord(),
     );
   }
 }
